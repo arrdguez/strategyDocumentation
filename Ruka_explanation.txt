@@ -1,0 +1,596 @@
+8,440
+D
+EUR
++0,149
++1,80%
+Banco Santander SA is a banking services company, which engages in the provision of banking services to individuals, companies, and institutions. It operates through the following segments: Retail & Commercial Banking, Digital Consumer Bank, Corporate & Investment Banking, Wealth Management & Insurance, Payments, and Corporate Centre. The Retail & Commercial Banking segment integrates the retail banking business (individuals) and commercial banking (SMEs and corporates), except for the consumer finance and the cards businesses. The Digital Consumer Bank segment includes Santander Consumer Finance, which incorporates the entire consumer finance business in Europe, Openbank, and ODS. The Corporate & Investment Banking segment includes Markets, Investment Banking (Global Debt Finance and Corporate Finance) and Global Transactional Banking, offers products and services on a global scale to corporate and institutional customers, and collaborates with other global businesses to better serve broad customer base. The Wealth Management & Insurance segment includes the asset management business (Santander Asset Management), the corporate unit of Private Banking and International Private Banking in Miami and Switzerland and the insurance business (Santander Insurance). The Payments segment involves in the digital payment's solutions, providing global technology solutions for banks and new customers in the open market. The Corporate Centre segment includes the centralized activities relating to equity stakes in financial companies, financial management of the structural exchange rate position. The company was founded on March 21, 1857 and is headquartered in Madrid, Spain.
+
+Actualizado 13 sept 2020
+Ruckard TradingLatino
+
+Añadir a favoritos
+
+Utilizar en el gráfico
+
+4
+9
+4
+
+28
+
+13 236
+10 sept 2020
+This strategy tries to mimic TradingLatino strategy.
+The current implementation is beta.
+
+Si hablas castellano o espanyol por favor consulta [B]MENSAJE EN CASTELLANO[/B] más abajo.
+
+It's aimed at BTCUSDT pair and 4h timeframe.
+
+[B]STRATEGY DEFAULT SETTINGS EXPLANATION[/B]
+max_bars_back=5000 : This is a random number of bars so that the strategy test lasts for one or two years
+calc_on_order_fills=false : To wait for the 4h closing is too much. Try to check if it's worth entering a position after closing one. I finally decided not to recheck if it's worth entering after an order is closed. So it is false.
+calc_on_every_tick=false
+pyramiding=0 : We only want one entry allowed in the same direction. And we don't want the order to scale by error.
+initial_capital=1000 : These are 1000 USDT. By using 1% maximum loss per trade and 7% as a default stop loss by using 1000 USDT at 12000 USDT per BTC price you would entry with around 142 USDT which are converted into: 0.010 BTC . The maximum number of decimal for contracts on this BTCUSDT market is 3 decimals. E.g. the minimum might be: 0.001 BTC . So, this minimal 1000 amount ensures us not to entry with less than 0.001 entries which might have happened when using 100 USDT as an initial capital.
+slippage=1 : Binance BTCUSDT mintick is: 0.01. Binance slippage: 0.1 % (Let's assume). TV has an integer slippage. It does not have a percentage based slippage. If we assume a 1000 initial capital, the recommended equity is 142 which at 11996 USDT per BTC price means: 0.011 BTC. The 0.1% slippage of: 0.011 BTC would be: 0.000011 . This is way smaller than the mintick. So our slippage is going to be 1. E.g. 1 (slippage) * 0.01 (mintick)
+commission_type=strategy.commission.percent and commission_value=0.1 : According to: binance . com / en / fee / schedule in VIP 0 level both maker and taker fees are: 0.1 %.
+
+
+[B]BACKGROUND[/B]
+Jaime Merino is a well known Youtuber focused on crypto trading
+His channel TradingLatino
+features monday to friday videos where he explains his strategy.
+
+[B]JAIME MERINO STANCE ON BOTS[/B]
+Jaime Merino stance on bots (taken from memory out of a 2020 June video from him):
+'~
+You know. They can program you a bot and it might work.
+But, there are some special situations that the bot would not be able to handle.
+And, I, as a human, I would handle it. And the bot wouldn't do it.
+~'
+
+My long term target with this strategy script is add as many
+special situations as I can to the script
+so that it can match Jaime Merino behaviour even in non normal circumstances.
+
+My alternate target is learn Pine script
+and enjoy programming with it.
+
+[B]WARNING[/B]
+This script might be bigger than other TradingView scripts.
+However, please, do not be confused because the current status is beta.
+This script has not been tested with real money.
+This is NOT an official strategy from Jaime Merino.
+This is NOT an official strategy from TradingLatino . net .
+
+
+[B]HOW IT WORKS[/B]
+It basically uses ADX slope and LazyBear's Squeeze Momentum Indicator
+to make its buy and sell decisions.
+
+Fast paced EMA being bigger than slow paced EMA
+(on higher timeframe) advices going long.
+
+Fast paced EMA being smaller than slow paced EMA
+(on higher timeframe) advices going short.
+
+It finally add many substrats that TradingLatino uses.
+
+[B]SETTINGS[/B]
+[B]__ SETTINGS - Basics[/B]
+[B]____ SETTINGS - Basics - ADX[/B]
+(ADX) Smoothing {14}
+(ADX) DI Length {14}
+(ADX) key level {23}
+
+[B]____ SETTINGS - Basics - LazyBear Squeeze Momentum[/B]
+(SQZMOM) BB Length {20}
+(SQZMOM) BB MultFactor {2.0}
+(SQZMOM) KC Length {20}
+(SQZMOM) KC MultFactor {1.5}
+(SQZMOM) Use TrueRange (KC) {True}
+
+[B]____ SETTINGS - Basics - EMAs[/B]
+(EMAS) EMA10 - Length {10}
+(EMAS) EMA10 - Source {close}
+(EMAS) EMA55 - Length {55}
+(EMAS) EMA55 - Source {close}
+
+[B]____ SETTINGS - Volume Profile[/B]
+Lowest and highest VPoC from last three days
+is used to know if an entry has a support
+
+VPVR of last 100 4h bars
+is also taken into account
+
+(VP) Use number of bars (not VP timeframe): Uses 'Number of bars {100}' setting instead of 'Volume Profile timeframe' setting for calculating session VPoC
+(VP) Show tick difference from current price {False}: BETA . Might be useful for actions some day.
+(VP) Number of bars {100}: If 'Use number of bars (not VP timeframe)' is turned on this setting is used to calculate session VPoC.
+(VP) Volume Profile timeframe {1 day}: If 'Use number of bars (not VP timeframe)' is turned off this setting is used to calculate session VPoC.
+(VP) Row width multiplier {0.6}: Adjust how the extra Volume Profile bars are shown in the chart.
+(VP) Resistances prices number of decimal digits [2]: Round Volume Profile bars label numbers so that they don't have so many decimals.
+(VP) Number of bars for bottom VPOC {18}: 18 bars equals 3 days in suggested timeframe of 4 hours. It's used to calculate lowest session VPoC from previous three days. It's also used as a top VPOC for sells.
+(VP) Ignore VPOC bottom advice on long {False}: If turned on it ignores bottom VPOC (or top VPOC on sells) when evaluating if a buy entry is worth it.
+(VP) Number of bars for VPVR VPOC {100}: Number of bars to calculate the VPVR VPoC. We use 100 as Jaime once used. When the price bounces back to the EMA55 it might just bounce to this VPVR VPoC if its price it's lower than the EMA55 (Sells have inverse algorithm).
+
+[B]____ SETTINGS - ADX Slope[/B]
+ADX Slope
+help us to understand if ADX
+has a positive slope, negative slope
+or it is rather still.
+
+(ADXSLOPE) ADX cut {23}: If ADX value is greater than this cut (23) then ADX has strength
+(ADXSLOPE) ADX minimum steepness entry {45}: ADX slope needs to be 45 degrees to be considered as a positive one.
+(ADXSLOPE) ADX minimum steepness exit {45}: ADX slope needs to be -45 degrees to be considered as a negative one.
+(ADXSLOPE) ADX steepness periods {3}: In order to avoid false detection the slope is calculated along 3 periods.
+
+[B]____ SETTINGS - Next to EMA55[/B]
+(NEXTEMA55) EMA10 to EMA55 bounce back percentage {80}: EMA10 might bounce back to EMA55 or maybe to 80% of its complete way to EMA55
+(NEXTEMA55) Next to EMA55 percentage {15}: How much next to the EMA55 you need to be to consider it's going to bounce back upwards again.
+
+
+[B]____ SETTINGS - Stop Loss and Take Profit[/B]
+You can set a default stop loss or a default take profit.
+(STOPTAKE) Stop Loss % {7.0}
+(STOPTAKE) Take Profit % {2.0}
+
+
+[B]____ SETTINGS - Trailing Take Profit[/B]
+You can customize the default trailing take profit values
+(TRAILING) Trailing Take Profit (%) {1.0}: Trailing take profit offset in percentage
+(TRAILING) Trailing Take Profit Trigger (%) {2.0}: When 2.0% of benefit is reached then activate the trailing take profit.
+
+
+[B]____ SETTINGS - MAIN TURN ON/OFF OPTIONS[/B]
+(EMAS) Ignore advice based on emas {false}.
+(EMAS) Ignore advice based on emas (On closing long signal) {False}: Ignore advice based on emas but only when deciding to close a buy entry.
+(SQZMOM) Ignore advice based on SQZMOM {false}: Ignores advice based on SQZMOM indicator.
+(ADXSLOPE) Ignore advice based on ADX positive slope {false}
+(ADXSLOPE) Ignore advice based on ADX cut (23) {true}
+(STOPTAKE) Take Profit? {false}: Enables simple Take Profit.
+(STOPTAKE) Stop Loss? {True}: Enables simple Stop Loss.
+(TRAILING) Enable Trailing Take Profit (%) {True}: Enables Trailing Take Profit.
+
+
+[B]____ SETTINGS - Strategy mode[/B]
+(STRAT) Type Strategy: 'Long and Short', 'Long Only' or 'Short Only'. Default: 'Long and Short'.
+
+[B]____ SETTINGS - Risk Management [/B]
+(RISKM) Risk Management Type: 'Safe', 'Somewhat safe compound' or 'Unsafe compound'. 'Safe': Calculations are always done with the initial capital (1000) in mind. The maximum losses per trade/day/week/month are taken into account. 'Somewhat safe compound': Calculations are done with initial capital (1000) or a higher capital if it increases. The maximum losses per trade/day/week/month are taken into account. 'Unsafe compound': In each order all the current capital is gambled and only the default stop loss per order is taken into account. That means that the maximum losses per trade/day/week/month are not taken into account. Default: 'Somewhat safe compound'.
+(RISKM) Maximum loss per trade % {1.0}.
+(RISKM) Maximum loss per day % {6.0}.
+(RISKM) Maximum loss per week % {8.0}.
+(RISKM) Maximum loss per month % {10.0}.
+
+[B]____ SETTINGS - Decimals [/B]
+(DECIMAL) Maximum number of decimal for contracts {3}: How small (3 decimals means 0.001) an entry position might be in your exchange.
+
+
+[B]EXTRA 1 - PRICE IS IN RANGE indicator[/B]
+(PRANGE) Print price is in range {False}: Enable a bottom label that indicates if the price is in range or not.
+(PRANGE) Price range periods {5}: How many previous periods are used to calculate the medians
+(PRANGE) Price range maximum desviation (%) {0.6} ( > 0 ): Maximum positive desviation for range detection
+(PRANGE) Price range minimum desviation (%) {0.6} ( > 0 ): Mininum negative desviation for range detection
+
+
+[B]EXTRA 2 - SQUEEZE MOMENTUM Desviation indicator[/B]
+(SQZDIVER) Show degrees {False}: Show degrees of each Squeeze Momentum Divergence lines to the x-axis.
+(SQZDIVER) Show desviation labels {False}: Whether to show or not desviation labels for the Squeeze Momentum Divergences.
+(SQZDIVER) Show desviation lines {False}: Whether to show or not desviation lines for the Squeeze Momentum Divergences.
+
+
+[B]EXTRA 3 - VOLUME PROFILE indicator[/B]
+WARNING: This indicator works not on current bar but on previous bar. So in the worst case it might be VP from 4 hours ago. Don't worry, inside the strategy calculus the correct values are used. It's just that I cannot show the most recent one in the chart.
+(VP) Print recent profile {False}: Show Volume Profile indicator
+(VP) Avoid label price overlaps {False}: Avoid label prices to overlap on the chart.
+
+
+[B]EXTRA 4 - ZIGNALY SUPPORT[/B]
+(ZIG) Zignaly Alert Type {Email}: 'Email', 'Webhook'. 'Email': Prepare alert_message variable content to be compatible with zignaly expected email content format. 'Webhook': Prepare alert_message variable content to be compatible with zignaly expected json content format.
+
+
+[B]EXTRA 5 - DEBUG[/B]
+(DEBUG) Enable debug on order comments {False}: If set to true it prepares the order message to match the alert_message variable. It makes easier to debug what would have been sent by email or webhook on each of the times an order is triggered.
+
+
+[B]HOW TO USE THIS STRATEGY[/B]
+BOT MODE: This is the default setting.
+PROPER VOLUME PROFILE VIEWING: Click on this strategy settings. Properties tab. Make sure Recalculate 'each time the order was run' is turned off.
+NEWBIE USER: (Check PROPER VOLUME PROFILE VIEWING above!) You might want to turn on the 'Print recent profile {False}' setting. Alternatively you can use my alternate realtime study: 'Resistances and supports based on simplified Volume Profile' but, be aware, it might consume one indicator.
+ADVANCED USER 1: Turn on the 'Print price is in range {False}' setting and help us to debug this subindicator. Also help us to figure out how to include this value in the strategy.
+ADVANCED USER 2: Turn on the all the (SQZDIVER) settings and help us to figure out how to include this value in the strategy.
+ADVANCED USER 3: (Check PROPER VOLUME PROFILE VIEWING above!) Turn on the 'Print recent profile {False}' setting and report any problem with it.
+JAIME MERINO: Just use the indicator as it comes by default. It should only show BUY signals, SELL signals and their associated closing signals. From time to time you might want to check 'ADVANCED USER 2' instructions to check that there's actually a divergence. Check also 'ADVANCED USER 1' instructions for your amusement.
+
+
+
+[B]EXTRA ADVICE[/B]
+It's advised that you use this strategy in addition to these two other indicators:
+* Squeeze Momentum Indicator [LazyBear]
+* ADX
+so that your chart matches as close as possible to TradingLatino chart.
+
+[B]ZIGNALY INTEGRATION[/B]
+This strategy supports Zignaly email integration by default. It also supports Zignaly Webhook integration.
+[B]ZIGNALY INTEGRATION - Email integration example[/B]
+What you would write in your alert message:
+||{{strategy.order.alert_message}}||key=MYSECRETKEY||
+[B]ZIGNALY INTEGRATION - Webhook integration example[/B]
+What you would write in your alert message:
+{ {{strategy.order.alert_message}} , "key" : "MYSECRETKEY" }
+
+CREDITS
+I have reused and adapted some code from
+'Directional Movement Index + ADX & Keylevel Support' study
+which it's from TradingView console user.
+
+I have reused and adapted some code from
+'3ema' study
+which it's from TradingView hunganhnguyen1193 user.
+
+I have reused and adapted some code from
+'Squeeze Momentum Indicator [LazyBear]' study
+which it's from TradingView LazyBear user.
+
+I have reused and adapted some code from
+'Strategy Tester EMA-SMA-RSI-MACD' study
+which it's from TradingView fikira user.
+
+I have reused and adapted some code from
+'Support Resistance MTF' study
+which it's from TradingView LonesomeTheBlue user.
+
+I have reused and adapted some code from
+'TF Segmented Linear Regression' study
+which it's from TradingView alexgrover user.
+
+I have reused and adapted some code from
+"Poor man's volume profile" study
+which it's from TradingView IldarAkhmetgaleev user.
+
+[B]FEEDBACK[/B]
+Please check the strategy source code for more detailed information
+where, among others, I explain all of the substrats
+and if they are implemented or not.
+
+Q1. Did I understand wrong any of the Jaime substrats (which I have implemented)?
+Q2. The strategy yields quite profit when we should long (EMA10 from 1d timeframe is higher than EMA55 from 1d timeframe.
+Why the strategy yields much less profit when we should short (EMA10 from 1d timeframe is lower than EMA55 from 1d timeframe)?
+Any idea if you need to do something else rather than just reverse what Jaime does when longing?
+
+[B]FREQUENTLY ASKED QUESTIONS[/B]
+
+FAQ1. Why are you giving this strategy for free?
+TradingLatino and his fellow enthusiasts taught me this strategy. Now I'm giving back to them.
+FAQ2. Seriously! Why are you giving this strategy for free?
+I'm confident his strategy might be improved a lot. By keeping it to myself I would avoid other people contributions to improve it.
+Now that everyone can contribute this is a win-win.
+FAQ3. How can I connect this strategy to my Exchange account?
+It seems that you can attach alerts to strategies.
+You might want to combine it with a paying account which enable Webhook URLs to work.
+I don't know how all of this works right now so I cannot give you advice on it.
+You will have to do your own research on this subject. But, be careful. Automating trades, if not done properly,
+might end on you automating losses.
+FAQ4. I have just found that this strategy by default gives more than 3.97% of 'maximum series of losses'. That's unacceptable according to my risk management policy.
+You might want to reduce default stop loss setting from 7% to something like 5% till you are ok with the 'maximum series of losses'.
+FAQ5. Where can I learn more about your work on this strategy?
+Check the source code. You might find unused strategies. Either because there's not a substantial increases on earnings. Or maybe because they have not been implemented yet.
+FAQ6. How much leverage is applied in this strategy?
+No leverage.
+FAQ7. Any difference with original Jaime Merino strategy?
+Most of the times Jaime defines an stop loss at the price entry. That's not the case here. The default stop loss is 7% (but, don't be confused it only means losing 1% of your investment thanks to risk management). There's also a trailing take profit that triggers at 2% profit with a 1% trailing.
+FAQ8. Why this strategy return is so small?
+The strategy should be improved a lot. And, well, backtesting in this platform is not guaranteed to return theoric results comparable to real-life returns. That's why I'm personally forward testing this strategy to verify it.
+
+
+[B]MENSAJE EN CASTELLANO[/B]
+En primer lugar se agradece feedback para mejorar la estrategia.
+
+Si eres un usuario avanzado y quieres colaborar en mejorar el script no dudes en comentar abajo.
+Ten en cuenta que aunque toda esta descripción tenga que estar en inglés no es obligatorio que el comentario esté en inglés.
+
+[B]CHISTE - CASTELLANO[/B]
+¡Pero Jaime!
+¡400.000!
+¡Tu da mun!
+13 sept 2020
+Notas de prensa
+Update codename: R086.
+
+Now we manage orders age:
+
+(OLD) Ignore advice based on order being too old {False}: When it's set to true it ignores the advice to close old orders which are losing.
+(OLD) Number of bars to consider and order to be old {6}: When to consider that an order is old.
+(OLD) Minimum loss percent to close an old order {0.8}: An old order should be closed if it's below 0.8 percent of losses.
+
+
+New dynamic stop loss management
+
+(STOPTAKE) Enforce dynamic stop loss up to maximum stop loss {True}: Change dinamically stop loss and its associated position size based to match the maximum expected stop loss according to the current VPVR VPoC. It also advises not to enter into positions which are not worth entering because of VPOC being too close.
+(STOPTAKE) Minimum loss percent to be supported by VPVR VPoC {0.5}: An entry is ignored if the VPoC price it's too close to the current price. This settings let's you change how close is that.
+
+
+Other changes:
+
+(VP) Ignore VPOC bottom advice on long setting has been changed to True: Evaluating if a buy entry is worth it because of the only fact that VPOC is below your entry generates loses.
+Fix: Use close instead of close(1) for current price.
+14 sept 2020
+Notas de prensa
+Update codename: R092.
+
+Improvements on stop loss:
+
+Avoid allocating more than 100% of the current capital. This overallocation happened when the stop loss for the current trade was less than the maximum stop loss per order setting.)
+(STOPTAKE) Minimum loss percent to be supported by VPVR VPoC setting was changed from 0.5 to 1.0 so that we had some more space for stop loss by default.
+
+
+Improvements on take profits:
+
+(TRAILING) Trailing Take Profit (%) setting was changed from 1.0 to 0.4.
+(TRAILING) Trailing Take Profit Trigger (%) setting was changed from 2.0 to 0.8.
+
+
+
+
+Now I'm more confident on this strategy because of two reasons:
+
+The number of positives trades is 70% like Jaime Merino says of his own strategy.
+It's profitable in both bull and bear markets.
+
+
+More testing and a bit polishment might be needed but I think we are on the right track.
+
+( Idea for the future: Make also these 'Trailing Take Profit' and 'Trailing Take Profit Trigger' to be dynamic values based on ADX force (or other similar variable) ).
+16 sept 2020
+Notas de prensa
+Update codename: R093.
+
+Fix: Now we use the correct VPVR VPoc instead of the session (1 day) VPoc for calculating supports for our trades.
+17 sept 2020
+Notas de prensa
+Update codename: R097.
+The former implementation discarded entries when the VPVR VPoC was too close to the current price (less than 1%).
+Now we always entry (even if it's VPoC is almost equal to price), however we enforce a 1 percent minimum of stop loss to avoid hitting the stop loss too soon.
+
+This enables us to have more opportunities.
+20 sept 2020
+Notas de prensa
+Update codename: R115.
+
+Entries advice improvements:
+
+(VP) Ignore VPOC bottom advice on long {False} had its default setting changed from True to False. That way the VPOC bottom advice is used by default.
+
+
+Other improvements
+New setting: (VP) Print VPVR VPoc price {False}: Show VPVR VPoC price. This new setting let's you plot the VPVR VPoC for debugging purposes.
+VPoC calculations were fixed.
+Price next to EMA55 Seel advice calculations were fixed.
+
+
+
+Trailing Take Profit improvements: Now the trailing take profit is dynamic instead of static adapting to the market changes.
+New setting: (TRAILING) Drawdown percentage for dynamic Trailing Take Profit Trigger (%) {30.0}: Once drawdown has been calculated use 30% of it as Trailing Take Profit Trigger.
+New setting: (TRAILING) Trailing Take Profit as a percentage of Trailing Take Profit Trigger (for dynamic TTP) (%) {25.0}: If dynamic TTP Trriger is 1% then dynamic TTP will be 0.25 % .
+New setting: (TRAILING) Enforce dynamic Trailing Take Profit {True}: When true the Trailing Take Profit is dynamic instead of using the static values.
+
+
+
+Removals
+Removed cumbersome 'Print VP Profile' options and its functionality. You can use other of my studies for them. This makes the source code smaller and more easy to maintain.
+
+
+I might end changing 'VPVR VPoC' from 100 bars to 3 bars because it seems to return more. Different numbers appear on different securities.
+So I'm not sure how to handle it.
+20 sept 2020
+Notas de prensa
+Update codename: R120.
+
+Experimental:
+
+(PLUS MODE) Beyond original strategy (Experimental) {True}: Tries to use even dark green in long advised entries. It does not give good results for Bitcoin but it might give better results for other securities.
+
+
+Add new Raw testing mode:
+
+(DEBUG) Enable raw testing {True} : If raw testing mode is enabled then every time 100 USDT is used as a bet. So that you can actually know if a change to the strategy is worth of it or not because risk management does not take place.
+(DEBUG) Constant entry quantity for raw USDT testing {100.0}
+
+
+That's it. I'm going to freeze this strategy development for a while. I consider it rather stable.
+This last improvement (Enable raw testing) is key to find out if a modification to the strategy is worth of it. Otherwise risk management with its default compound takes place and an initial positive trade might make the difference in the future summary of results.
+
+It's true that some of the old versions had better returns than the current version but I have decided to keep this one because older versions were not tested using the Raw testing mode and also because what I had coded by mistake did not make too much sense on its own.
+
+I think I am also going to remove my old pretension of enabling the 'Recalculate on each tick' option so that I could manually perform another trade after one trades closes (as the 'Recalculate on each order' options showed better results') because by doing so you would operate without having fully confirmed the full bar.
+
+CASTELLANO (Spanish)
+
+Ya está. Voy a congelar el desarrollo de esta estrategia por el momento. La considero bastante estable.
+Esta última mejora (Enable raw testing) es clave para determinar si una modificación de la estrategia vale la pena. Si no se emplea el raw testing entonces la gestión de riesgo con su compound por defecto hace su labor y un trade positivo en los inicios puede tener como consecuencia mucha diferencia en el resumén último de resultados.
+
+Es verdad que alguna de las versiones antiguas tenía mejores retornos que la versión actual pero he decidido quedarme con esta versión porque versiones antiguas no se habían probado usando el 'Raw testing' y, también, porque lo que había codificado por error no tenía mucho sentido.
+
+Creo que también voy a dejar de lado mi pretensión de habilitar la opción 'Recalcular en cada tick' para poder hacer otra trade manualmente después de que el trade se cerrará (tal y como hace la opción 'Recalcular en cada orden') porque, al hacerlo, estarías operando sin haber confirmado completamente la barra actual.
+21 sept 2020
+Notas de prensa
+Update codename: R124.
+
+Bug Fixes:
+
+Trailing Take Profit Offset was fixed. It's no longer always 0 %.
+Now trailing zeros are shown on zignaly orders.
+23 sept 2020
+Notas de prensa
+Update codename: R134.
+
+New settings:
+
+New setting: (VP) Price levels {20}: Price levels for both VPVR VPoC and session VPoC
+
+
+Improvements:
+
+emas for 1d timeframe now use close[1] instead of close[0] to use a confirmed bar instead of the current (unconfirmed) daily bar.
+Long or short tendency now needs 2 days in a row in an opposite trend so that it's changed. This avoids fake tendency changes.
+4 oct 2020
+Notas de prensa
+Update codename: R158.
+
+New settings:
+
+New setting: (TRAILING) Take profit percentage for dynamic Trailing Take Profit Trigger based on VPoC resistances (%) {20.0}: Percentage of the distance between current price and next resistance to be used as Trailing Trake Profit Trigger. Note: This setting is only used when '(STRICT RISK) Even more strict risk management' setting is turned on.
+New setting: (STOPTAKE) Maximum loss percent to be supported by VPVR VPoC {2.0}: An entry is ignored if the VPoC price it's too far away from the current price. Note: This setting is only used when '(STRICT RISK) Even more strict risk management' setting is turned on.
+New setting: (STRICT RISK) Even more strict risk management {True}.
+
+
+Improvements:
+
+The main resistance is now either the lowest session VPoC above the current price (for short main trend) or the highest session VPoC below the current price (for long main trend).
+When in strict risk mode the dynamic trailing take profit trigger is no longer calculated based on ema drawdown but on a percentage of the distance between current price and next resistance.
+When in strict risk mode a maximum loss percent is enforced so that trade opportunities too far away from current price are not even tried.
+When in strict risk mode advice from Smilb and ADX is only taken into account. This avoid using other advice which doesn't tend to work so well.
+
+
+Changes:
+
+VPVR VPoC is no longer actively used.
+The new strict risk mode is used by default.
+
+
+These last improvements were put in place to avoid trades that tended to be a failure. The reason in most of the cases was the main resistance was too far away from the price. The dynamic Trailing Take Profit Trigger calculation was also improved so that the trigger was reached more often when a trade was open.
+14 oct 2020
+Notas de prensa
+Update codename: R188.
+
+Changes:
+
+(VP) Price levels {20} default was changed to 24 to match official TradingView VPoC tool price levels.
+(ADXSLOPE) Ignore advice based on ADX positive slope default was setting from false to true.
+
+
+New settings:
+
+(STOPTAKE) Win/Loss Ratio {1.00}: Set your desired Win/Loss Ratio. 1 means 1:1. 1.5 means 1.5:1 and so on.
+(EXCHANGE) Fees per order {0.04} (%): Set your exchange fees so that they are used on the actual ratio calculation.
+
+
+Improvements:
+
+When '(ADXSLOPE) Ignore advice based on ADX positive slope' is set to true long trades will only take place on dark-red and light-green smilb colours. Short trades will only take place on dark-green and light-red smilb colours. Previously long trades only took place on dark-red smilb colour and short trades only took place on dark-green smilb colour.
+When '(STRICT RISK) Even more strict risk management' is set to true then close advices based on bounce back mode to the different EMAs are ignored.
+Higher timeframe trend changes now are detected sooner.
+
+
+
+This strategy is starting to match an actual scenario. It's less and less a theoric strategy. I don't like the current maximum drawdown and I'll try to improve it in the next releases.
+18 oct 2020
+Notas de prensa
+Update codename: R222.
+
+Changes:
+
+We ignore higher timeframe trend alltogether. Now dark-red and light-green means to enter a LONG entry. And dark-green and light-red means to enter a SHORT entry.
+In addition to colours described above the Directional Movement + and Directional Movement - indicators are also used to confirm a LONG or SHORT entry.
+
+
+New settings:
+
+(SQZMOM) Squeeze percentage zero {0.0}: Zero value for the squeeze percentage (Bollinger and Keltner channels ratio).
+(SQZMOM) Ignore advice based squeeze percentage {False}: Whether to ignore or not advice based on squeeze percentage relative to squeeze percentage zero value.
+(ADX) DI minimum percentage (%) {10.0}: Enforce a minimum DI percentage (DI+ over DI- or viceversa) to confirm long or short advice
+(RECENT) Number of minutes to wait to open a new order after the previous one has been opened {6}.
+
+
+Improvements:
+
+Squeeze percentage new indicator advice which avoids entering trades which it's squeeze percentage is greater than 0.5 (in absolute terms) help us to reduce the maximum drawdown.
+Ignore higher timeframe to avoid more trade opportunities.
+Filter these trade opportunities thank to Directional Movement indicators which confirm the trend.
+When an order is closed a delay of 6 minutes is enforced before opening a new order. This change tries to avoid problems with zignaly receiving orders too soon and discarding them.
+
+
+
+The study is less and less based on TradingLatino strategy and more in my findings.
+This update uses DI indicators instead of ADX to confirm the trend that Squeeze momentum colours indicate.
+The different backtestings that I have done in 4h timeframe suggest that ADX confirms when the movement has been already done. That means that it does not predict the future but confirms the present. That's why I use something else.
+
+I still have to figure out how to ride ranges and how to predict the range the price is going to move on so that I can tune the take profits. I am currently forcing a 1% stop loss in every trade which, in turn, forces a 1.36% minimum take profit (because of fees and trailing) so that a 1:1 ratio is used.
+
+I need to make more tests to have some more confidence on using a 0.75:1 ratio or a 0.50:1 ratio when it makes sense to do so.
+8 nov 2020
+Notas de prensa
+Update codename: R340.
+
+Changes:
+
+Fixed VPoC calculation
+Squeeze percentage new indicator advice was turned off. Once the VPoC calculations were fixed it was not useful any more.
+(STOPTAKE) Maximum loss percent to be supported by VPVR VPoC setting was changed from 2 % to 2.38 %.
+(TRAILING) Enable Trailing Take Profit (%) {False} setting was changed from True to False. Trailing seems a good tool but my tests show that it's not worth it.
+Back to the original Jaime strategy: Close when colour tells us to close.
+Back to the original Jaime strategy: Upwards tendency when higher timeframe confirms it.
+Default strategy type: LONG (Temporarily till SHORT is polished.)
+VPVR VPoC price is now shown by default.
+
+
+New settings:
+
+(BREAKEVEN) Breakeven trigger (%) {1.0}.
+(BREAKEVEN) Breakeven positive Stop Loss (%) {0.085}
+(BREAKEVEN) Use Update Orders
+
+
+Improvements:
+
+The script supports 1-minute timeframe while working on 4-hour timeframe in the background.
+Show '(VP) Print VPVR VPoc price' by default.
+Added Leverage support. This is temporarily to 16x. Please change it to 1x. Leverage is not taken into account. So you might want to update your allocated amount from what you have to 16x or 15,5x of it.
+Added Breakeven support. If price goes to 1% then an stop loss is enforced that might end in breakeven.
+
+
+So, two great breakthroughs have been accomplished with this latest update:
+The script now is run in 1-minute timeframe while it still uses the TradingLatino 4-hour timeframe strategy. This leads to a new backtesting that matches with more accuracy what happens in real time when using the strategy. Unfortunately TradingView does not let us use enough 1-minute candle to test one year. That would be 518400 1-minute candles.
+Now the script supports Breakeven. (You are only be able to support Breakeven properly if you run the script in 1-minute timeframe.)
+
+
+Please change the leverage support to 1x and use 1000 USDT as your allocated capital if you want to use this strategy. Although I wouldn't recommend it to anyone because its current status is beta.
+
+I might postpone working on this strategy for some time. But when I come back to it I might implement inverse Breakeven (If price reaches -0.70% and -0.20% then a new stop loss is set to -0.40% instead of the default -1% or -2%).
+
+Anyways one of the first objectives with this strategy was to know if TradingLatino strategy was as good as Jaime said.
+I cannot do a proper backtest without having 518400 1-minute candles (or whatever 1-second candles you can have for a year).
+Forward testing the strategy 1-year is too long for me. So that's also discarded.
+
+Despite the many Youtube videos that Jaime has the TradingLatino strategy is difficult to apprehend.
+
+Not only I have to learn how to identify ranges before they are formed.
+Not only I have to learn how to ride ranges (Operate in 1-h timeframe when 4-h timeframe seems quite quiet).
+
+But, now, i.e., I have just realised that if you don't have a LONG open order you can go LONG when the monitor is dark-green.
+But it should only be performed when price is quite near to the MediaMovilMarron (or maybe after a great price dump).
+28 nov 2020
+Notas de prensa
+Update codename: R346.
+
+Changes:
+
+Revert 1m timeframe support till it's more stable.
+Make sure to use the original Jaime strategy: Close when colour tells us to close.
+Make sure to use the original Jaime strategy: Upwards tendency when higher timeframe confirms it.
+
+
+I think the strategy is more useful in this form (so that it's easier to understand) than in the 1m timeframe one which I need to test in more depth and I don't know when I will have it ready.
+
+VERY IMPORTANT: You should use again the strategy in the 4h timeframe.
+21 abr 2021
+Notas de prensa
+Update codename: R348
+
+Changes:
+Removed custom median function. We will use the new default median function from the library.
+Script de código abierto
+
+Siguiendo fielmente el espíritu de TradingView, el creador de este script lo ha publicado en código abierto, permitiendo que otros traders puedan revisar y verificar su funcionalidad. ¡Enhorabuena al autor! Puede utilizarlo de forma gratuita, pero tenga en cuenta que la publicación de este código está sujeta a nuestras Normas internas.
+

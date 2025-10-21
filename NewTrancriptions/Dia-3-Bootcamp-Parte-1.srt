@@ -1,0 +1,8864 @@
+1
+00:00:00,000 --> 00:00:18,640
+♥
+
+2
+00:00:24,080 --> 00:00:24,920
+Bien
+
+3
+00:00:26,600 --> 00:00:28,600
+Bueno, vamos a esperar un minutito más
+
+4
+00:00:28,600 --> 00:00:29,900
+mientras
+
+5
+00:00:30,000 --> 00:00:35,000
+van tomando su cafecito ahí, tranquilos.
+
+6
+00:00:35,000 --> 00:00:41,000
+Hoy, por fin, vamos a llegar a la parte que más me gusta a mí,
+
+7
+00:00:41,000 --> 00:00:47,000
+que es la parte operativa, porque la parte teórica es la que,
+
+8
+00:00:47,000 --> 00:00:51,000
+no es que no me guste, sino que es la que
+
+9
+00:00:51,000 --> 00:00:54,000
+es un poquito aburrida, para la gente, no.
+
+10
+00:00:54,000 --> 00:00:59,000
+Ahora que ya vamos a irnos a darnos allí en el mercado, en el presente,
+
+11
+00:00:59,000 --> 00:01:03,000
+ya van a ver que las cosas se vuelven diferentes,
+
+12
+00:01:03,000 --> 00:01:08,000
+porque en el pasado lo vemos todo fácil.
+
+13
+00:01:08,000 --> 00:01:11,000
+Cuando ya nos vamos a meter a la velita del presente,
+
+14
+00:01:11,000 --> 00:01:16,000
+es cuando no sabemos qué hacer.
+
+15
+00:01:16,000 --> 00:01:20,000
+Qué bonito el presente siempre, ¿no?
+
+16
+00:01:20,000 --> 00:01:24,000
+Siempre estamos en el presente.
+
+17
+00:01:24,000 --> 00:01:30,000
+Miren, amigos, ya los amigos del online
+
+18
+00:01:30,000 --> 00:01:36,000
+ya tienen claro cuáles son los patrones no operables.
+
+19
+00:01:36,000 --> 00:01:43,000
+Y los de salida básicamente son, digamos, el contrario al de entrada.
+
+20
+00:01:43,000 --> 00:01:46,000
+Como ustedes los vimos ayer, pero quiero repasarlos
+
+21
+00:01:46,000 --> 00:01:51,000
+antes de ya abrir el Exchange y comenzar a practicar.
+
+22
+00:01:51,000 --> 00:01:55,000
+Miren, y de paso, los que estaban en el virtual conmigo,
+
+23
+00:01:55,000 --> 00:02:03,000
+previo a ustedes, los reforzamos.
+
+24
+00:02:03,000 --> 00:02:08,000
+Vamos a comenzar aquí, miren.
+
+25
+00:02:08,000 --> 00:02:11,000
+Bueno, este no, este lo vimos ayer.
+
+26
+00:02:11,000 --> 00:02:14,000
+Este también.
+
+27
+00:02:14,000 --> 00:02:20,000
+Este también, con ustedes, creo, aquí.
+
+28
+00:02:20,000 --> 00:02:24,000
+Antes de que ustedes vinieran, yo les estaba explicando
+
+29
+00:02:24,000 --> 00:02:28,000
+a la comunidad que está en virtual
+
+30
+00:02:28,000 --> 00:02:34,000
+cuál es la diferencia entre un te joden y una duda.
+
+31
+00:02:34,000 --> 00:02:40,000
+La duda siempre se da en medio de una onda tres.
+
+32
+00:02:40,000 --> 00:02:46,000
+La onda tres, de acuerdo a Elliot, es este movimiento, miren.
+
+33
+00:02:46,000 --> 00:02:50,000
+Ya van a ver, ya se los pongo.
+
+34
+00:02:50,000 --> 00:02:54,000
+Aquí tenemos un movimiento dentro de una tendencia alcista.
+
+35
+00:02:54,000 --> 00:02:58,000
+Este documento ustedes lo tienen, ¿verdad? Todos.
+
+36
+00:02:58,000 --> 00:03:01,000
+Vaya.
+
+37
+00:03:01,000 --> 00:03:06,000
+Esto es básicamente tal cual como se mueve el precio.
+
+38
+00:03:06,000 --> 00:03:11,000
+Miren, la onda uno, aquí será que puedo dibujar, no, ¿verdad?
+
+39
+00:03:11,000 --> 00:03:14,000
+Sí, sí.
+
+40
+00:03:34,000 --> 00:03:38,000
+Quedó un poco feo, pero me gusta.
+
+41
+00:03:38,000 --> 00:03:42,000
+Esa línea roja que yo he puesto allí, imagínense usted
+
+42
+00:03:42,000 --> 00:03:47,000
+que es la media móvil de 55 periodos.
+
+43
+00:03:47,000 --> 00:03:54,000
+Y que la onda cero es esta
+
+44
+00:03:54,000 --> 00:04:00,000
+y esta es una tendencia claramente bajista que usted ya la vio.
+
+45
+00:04:00,000 --> 00:04:05,000
+O sea, el precio viene siempre por debajo de la media móvil de 55.
+
+46
+00:04:05,000 --> 00:04:10,000
+En la onda uno siempre es difícil de identificarla porque ese es un rebote alcista
+
+47
+00:04:10,000 --> 00:04:14,000
+en la media para seguir cayendo.
+
+48
+00:04:14,000 --> 00:04:19,000
+Pero cuando se da este movimiento en onda uno,
+
+49
+00:04:19,000 --> 00:04:26,000
+viene acompañado del cruce de la otra media móvil, azul, más o menos por este punto.
+
+50
+00:04:26,000 --> 00:04:31,000
+El monitor suele estar rojo girándose a la alza por aquí.
+
+51
+00:04:31,000 --> 00:04:38,000
+Y el ADX suele tener una pendiente positiva así girada.
+
+52
+00:04:38,000 --> 00:04:43,000
+Normalmente suele ser así. Entonces cuando nosotros tenemos este patrón,
+
+53
+00:04:43,000 --> 00:04:50,000
+la onda dos cae sobre la media de 55 en este punto, no.
+
+54
+00:04:50,000 --> 00:04:55,000
+Entonces en ese punto es cuando nosotros determinamos que tenemos un patrón,
+
+55
+00:04:55,000 --> 00:05:01,000
+una entrada alcista, pues. O sea, ahí LON y el STOP lo calculamos al 2-3%
+
+56
+00:05:01,000 --> 00:05:05,000
+dependiendo del riesgo de cada uno y para arriba.
+
+57
+00:05:05,000 --> 00:05:12,000
+Ahora, después de que rompa la onda uno, en este punto que les estoy marcando,
+
+58
+00:05:12,000 --> 00:05:18,000
+se da una zona de duda aquí.
+
+59
+00:05:18,000 --> 00:05:23,000
+Que en Elliot eso no se ve. Claramente allí no se ve
+
+60
+00:05:23,000 --> 00:05:30,000
+porque cuando Elliot estaba vivo, digamos que no existía un activo
+
+61
+00:05:30,000 --> 00:05:33,000
+que tuviera como años de perro como Bitcoin.
+
+62
+00:05:33,000 --> 00:05:41,000
+Porque éste se mueve tan rápido y crece tan rápida la tecnología que éste sube rápido.
+
+63
+00:05:41,000 --> 00:05:50,000
+Fíjense que de hecho el oro, por ejemplo, tiene muchísimos años en el mercado
+
+64
+00:05:50,000 --> 00:05:56,000
+desde antes que existiera el Internet. Y si ustedes ven hoy,
+
+65
+00:05:56,000 --> 00:06:01,000
+yo creo que Bitcoin vale como, ¿cuántas onzas de oro equivale a un Bitcoin?
+
+66
+00:06:01,000 --> 00:06:15,000
+Y Bitcoin viene desde el 2009-2010 y hoy vale más que el mismísimo oro.
+
+67
+00:06:15,000 --> 00:06:22,000
+Yo tengo aquí, si quieren, se los voy a mostrar. Tal vez, creo que les puede servir.
+
+68
+00:06:22,000 --> 00:06:27,000
+Ya van a ver, quiero ver.
+
+69
+00:06:45,000 --> 00:07:13,000
+Bajó porque el precio de Bitcoin ha caído un poquitito.
+
+70
+00:07:13,000 --> 00:07:21,000
+Yo tengo una paginita aquí que me da toda esa información.
+
+71
+00:07:21,000 --> 00:07:29,000
+Pero el punto es que como Bitcoin creció tan rápido en relación al oro,
+
+72
+00:07:29,000 --> 00:07:35,000
+entonces los patrones que nosotros vemos en Bitcoin son más rápidos,
+
+73
+00:07:35,000 --> 00:07:38,000
+dan resultados más rápidos y por eso yo opero Bitcoin.
+
+74
+00:07:38,000 --> 00:07:45,000
+Y en el oro, pero futuros, porque perder en el oro en futuros es poco probable
+
+75
+00:07:45,000 --> 00:07:50,000
+porque su volatilidad no da para que te liquiden tan fácil en Bitcoin sí.
+
+76
+00:07:50,000 --> 00:07:55,000
+Entonces yo creo que el que tenga menos experiencia es mejor que opere el oro
+
+77
+00:07:55,000 --> 00:08:02,000
+porque es de menos riesgo. Se calcula un stop del 1.5 o 2%
+
+78
+00:08:02,000 --> 00:08:05,000
+y usted va tranquilito operando allí en el oro.
+
+79
+00:08:05,000 --> 00:08:09,000
+Futuros opere oro, ni siquiera Bitcoin, pues oro.
+
+80
+00:08:09,000 --> 00:08:14,000
+Si yo me voy al oro, por ejemplo, solo antes de entrar en materia,
+
+81
+00:08:14,000 --> 00:08:16,000
+aquí estamos como amigos, nada más.
+
+82
+00:08:16,000 --> 00:08:21,000
+Si usted se va al oro y yo me voy al gráfico de una hora a buscar entradas,
+
+83
+00:08:21,000 --> 00:08:31,000
+mire, allí donde está, en una temporalidad de una hora va a dar una entrada al cista,
+
+84
+00:08:31,000 --> 00:08:34,000
+pero está formando un pequeño techo redondeado
+
+85
+00:08:34,000 --> 00:08:41,000
+y nosotros vemos que el máximo es más alto que el anterior, esos últimos tres.
+
+86
+00:08:41,000 --> 00:08:44,000
+No hay manera de decir que la tendencia es bajista.
+
+87
+00:08:44,000 --> 00:08:48,000
+Cuando nosotros estamos en este punto, con un patrón como este,
+
+88
+00:08:48,000 --> 00:08:51,000
+aquí ya no nos queda más que calcular el trade.
+
+89
+00:08:51,000 --> 00:09:00,000
+Entonces vamos a hacer el primer ejercicio de por qué operar el oro en glom en el exchange,
+
+90
+00:09:00,000 --> 00:09:05,000
+pero no se adelanten, ustedes no usan dinero y yo tampoco inicialmente.
+
+91
+00:09:05,000 --> 00:09:10,000
+Entonces, yo lo que hago en este punto es abrir una posición en glom ahí.
+
+92
+00:09:10,000 --> 00:09:13,000
+Ahora, ese es paper trading.
+
+93
+00:09:13,000 --> 00:09:18,000
+Ahora digo yo, bien, la entrada la tengo en gráfico de una hora.
+
+94
+00:09:18,000 --> 00:09:23,000
+Voy a calcular el stop donde yo lo quiero tener, no donde me conviene.
+
+95
+00:09:23,000 --> 00:09:25,000
+Yo lo quiero poner ahí.
+
+96
+00:09:26,000 --> 00:09:30,000
+¿Por qué? Porque tengo este punto y este otro punto,
+
+97
+00:09:30,000 --> 00:09:35,000
+digamos estos dos valles que son soportes, este y este.
+
+98
+00:09:35,000 --> 00:09:41,000
+Y mi stop lo voy a ir a poner en un hueco.
+
+99
+00:09:44,000 --> 00:09:47,000
+Aquí hay un hueco, lo que pasa, lo voy a mover solo para que lo vean,
+
+100
+00:09:47,000 --> 00:09:50,000
+ven ese hueco que está ahí, este.
+
+101
+00:09:50,000 --> 00:09:53,000
+Ahí pongo el stop.
+
+102
+00:09:53,000 --> 00:10:00,000
+Entonces, yo lo quiero tener ahí, en el hueco del valle azul que está a su derecha.
+
+103
+00:10:00,000 --> 00:10:10,000
+¿Por qué? Porque la parte azul como más puntuda representa la cantidad de no contratos,
+
+104
+00:10:10,000 --> 00:10:16,000
+bueno, es futuro, digamos los contratos negociados en volumen en esa zona,
+
+105
+00:10:16,000 --> 00:10:20,000
+por lo tanto esa zona debería de considerarse o soporte o resistencia.
+
+106
+00:10:20,000 --> 00:10:24,000
+Como el precio está por la parte alta, para mí ese es un soporte
+
+107
+00:10:24,000 --> 00:10:26,000
+y yo al ponerlo por la parte baja,
+
+108
+00:10:26,000 --> 00:10:33,000
+se supone que el precio allí tiene que encontrar una presión compradora, ¿no?
+
+109
+00:10:33,000 --> 00:10:37,000
+Porque por eso es un soporte o se asume que es un soporte.
+
+110
+00:10:37,000 --> 00:10:47,000
+Entonces, ahora veamos de qué tamaño nos queda ese trade, el riesgo al 1.16%.
+
+111
+00:10:47,000 --> 00:10:50,000
+Para mí está perfecto.
+
+112
+00:10:50,000 --> 00:10:58,000
+O sea, no tengo problema con operar a 5X al 1.16%, en serio, no tengo problema.
+
+113
+00:10:58,000 --> 00:11:02,000
+Ahora, estamos viendo el oro, sí, bien.
+
+114
+00:11:02,000 --> 00:11:07,000
+Entonces, yo voy a entrar al exchange y aquí sí me voy a desconectar
+
+115
+00:11:07,000 --> 00:11:10,000
+porque aquí ya no ando con cosas.
+
+116
+00:11:11,000 --> 00:11:18,000
+Vamos a... voy a desconectar el cablecito porque voy a hacer login.
+
+117
+00:11:18,000 --> 00:11:20,000
+En mi caso yo lo hago en Vinex.
+
+118
+00:11:20,000 --> 00:11:27,000
+Si alguien tiene otro exchange, está bien, no hay problema.
+
+119
+00:11:27,000 --> 00:11:33,000
+Eso sí, va a haber problemas si usted está en un exchange y no sabe por qué.
+
+120
+00:11:33,000 --> 00:11:38,000
+O sea, puede estar en cualquier exchange, pero lo importante es que sepa,
+
+121
+00:11:38,000 --> 00:11:41,000
+digamos, que confía en su exchange.
+
+122
+00:11:41,000 --> 00:11:44,000
+Si no confía, mejora partes.
+
+123
+00:11:44,000 --> 00:11:47,000
+Y si confía, pues quédese.
+
+124
+00:11:56,000 --> 00:11:58,000
+Con dinero real.
+
+125
+00:11:58,000 --> 00:12:00,000
+No, no.
+
+126
+00:12:05,000 --> 00:12:07,000
+Yo prefiero que no lo hagan.
+
+127
+00:12:07,000 --> 00:12:11,000
+Pero, digamos, si usted quiere hacerlo, hágalo.
+
+128
+00:12:11,000 --> 00:12:15,000
+Yo le voy a enseñar cómo lo hago yo.
+
+129
+00:12:16,000 --> 00:12:19,000
+Pero no es conveniente que usted lo haga.
+
+130
+00:12:19,000 --> 00:12:21,000
+¿De acuerdo?
+
+131
+00:12:21,000 --> 00:12:24,000
+Aquí vamos a la parte operativa.
+
+132
+00:12:24,000 --> 00:12:27,000
+O sea, ya en la mañana solito en la casa, ¿cómo le hago yo?
+
+133
+00:12:27,000 --> 00:12:29,000
+Vamos.
+
+134
+00:12:34,000 --> 00:12:37,000
+Ok, alguien aquí dice pantalla grande, por favor.
+
+135
+00:12:39,000 --> 00:12:43,000
+Yo desconecté el cable porque hice login.
+
+136
+00:12:43,000 --> 00:12:47,000
+Y no quiero que me vean las credenciales, no, porque...
+
+137
+00:12:50,000 --> 00:12:53,000
+No, porque es que, o sea, aquí tengo eso.
+
+138
+00:12:53,000 --> 00:12:55,000
+Y pues sí.
+
+139
+00:12:55,000 --> 00:13:00,000
+O sea, yo quiero perderlos en el mercado, pero no alguien ahí vivo que salga de chistoso.
+
+140
+00:13:00,000 --> 00:13:04,000
+O sea, sí lo puedo perder, no hay problema, pero con un chistosito no.
+
+141
+00:13:04,000 --> 00:13:07,000
+Porque no me va a doler el dinero, sino que me joda otro.
+
+142
+00:13:07,000 --> 00:13:09,000
+O sea, ¿sí me entienden?
+
+143
+00:13:09,000 --> 00:13:14,000
+Entonces, yo esta cuenta la tengo justamente para ir haciendo las prácticas
+
+144
+00:13:14,000 --> 00:13:19,000
+cuando doy estas charlas, porque luego voy viendo los resultados
+
+145
+00:13:19,000 --> 00:13:21,000
+que tengo, ¿no?
+
+146
+00:13:21,000 --> 00:13:24,000
+Entonces, antes de...
+
+147
+00:13:24,000 --> 00:13:26,000
+Bueno, no, vámonos ya de una.
+
+148
+00:13:26,000 --> 00:13:28,000
+Les voy a enseñar algo.
+
+149
+00:13:30,000 --> 00:13:33,000
+En Standard, en Futuros Standard, aquí en Vinex,
+
+150
+00:13:33,000 --> 00:13:39,000
+ustedes van a encontrar todo lo que se puede operar, incluso acciones.
+
+151
+00:13:39,000 --> 00:13:41,000
+Futuros.
+
+152
+00:13:41,000 --> 00:13:44,000
+No acciones de las que compré yo ayer en Nvidia.
+
+153
+00:13:44,000 --> 00:13:46,000
+No, yo compré acciones.
+
+154
+00:13:46,000 --> 00:13:50,000
+O sea, vamos a suponer que Nvidia paga dividendos.
+
+155
+00:13:50,000 --> 00:13:53,000
+Porque pudo haber sido cualquier otra acción.
+
+156
+00:13:53,000 --> 00:13:58,000
+A mí me van a pagar dividendos, porque soy propietario.
+
+157
+00:13:58,000 --> 00:14:01,000
+O sea, tengo un título o valor.
+
+158
+00:14:01,000 --> 00:14:04,000
+En Futuros no existe como tal un título o valor.
+
+159
+00:14:04,000 --> 00:14:11,000
+Bien, entonces, la mayor cantidad de cosas se las van a encontrar
+
+160
+00:14:11,000 --> 00:14:14,000
+en los Futuros Standard.
+
+161
+00:14:14,000 --> 00:14:18,000
+Acciones, por ejemplo, están estas para poderse operar.
+
+162
+00:14:18,000 --> 00:14:21,000
+Yo creo que aquí me parece que va a estar Nvidia también.
+
+163
+00:14:21,000 --> 00:14:23,000
+Está aquí.
+
+164
+00:14:23,000 --> 00:14:26,000
+¿Se puede operar en LON en Vinex?
+
+165
+00:14:26,000 --> 00:14:28,000
+Claro que sí.
+
+166
+00:14:28,000 --> 00:14:32,000
+Cada quien decide qué cosa operar, pero ahí están las acciones
+
+167
+00:14:32,000 --> 00:14:34,000
+en donde uno puede...
+
+168
+00:14:34,000 --> 00:14:36,000
+O sea, yo enseño cripto.
+
+169
+00:14:36,000 --> 00:14:40,000
+Pero mi estrategia funciona en acciones en...
+
+170
+00:14:40,000 --> 00:14:43,000
+Bueno, solo en Forex no lo he probado.
+
+171
+00:14:43,000 --> 00:14:47,000
+No sé si sirve o no sirve, pero en acciones funciona bastante bien
+
+172
+00:14:47,000 --> 00:14:49,000
+para LON Short y ya está.
+
+173
+00:14:49,000 --> 00:14:53,000
+Futuros Standard, en Perpetual no lo van a encontrar.
+
+174
+00:14:53,000 --> 00:14:58,000
+De este lado tenemos la parte de Forex que ya le dije que yo no sé hacer eso.
+
+175
+00:14:58,000 --> 00:15:00,000
+Y ya está.
+
+176
+00:15:00,000 --> 00:15:04,000
+Y en los índices voy con el NASDAQ.
+
+177
+00:15:04,000 --> 00:15:08,000
+Bueno, yo aquí los tengo ya el Dow Jones, el NASDAQ y el SMP.
+
+178
+00:15:08,000 --> 00:15:11,000
+Que está, supongo, aquí arriba.
+
+179
+00:15:11,000 --> 00:15:15,000
+Tienen una estrellita porque son los tres que yo, digamos, opero.
+
+180
+00:15:15,000 --> 00:15:18,000
+O estoy pendiente, los demás dicen qué cosas son.
+
+181
+00:15:18,000 --> 00:15:20,000
+Y tampoco quiero saber.
+
+182
+00:15:20,000 --> 00:15:22,000
+Es que lo que queremos es ganar dinero.
+
+183
+00:15:22,000 --> 00:15:24,000
+Entonces, si ya sabemos dónde nos va bien,
+
+184
+00:15:24,000 --> 00:15:26,000
+¿para qué vamos a andar buscando más?
+
+185
+00:15:26,000 --> 00:15:29,000
+Esa es mi teoría, mi filosofía de trade.
+
+186
+00:15:29,000 --> 00:15:35,000
+Entonces, aquí, donde dice Commodities, van a encontrar el oro.
+
+187
+00:15:35,000 --> 00:15:41,000
+Ahora, si ustedes se fijan, el salto de la cuenta dice que está muy bajito.
+
+188
+00:15:42,000 --> 00:15:44,000
+Ah, que lo transfiera.
+
+189
+00:15:44,000 --> 00:15:51,000
+Sí, pero no lo voy a transferir porque lo quiero ocupar para los otros ejercicios.
+
+190
+00:15:51,000 --> 00:15:57,000
+Entonces, aquí nosotros encontramos cómo operar el oro.
+
+191
+00:15:57,000 --> 00:16:01,000
+Aunque quizás voy a transferir un poquito, ¿verdad?
+
+192
+00:16:01,000 --> 00:16:03,000
+Bueno, ya voy a ver.
+
+193
+00:16:03,000 --> 00:16:05,000
+Cuando nosotros ya vemos el oro aquí,
+
+194
+00:16:05,000 --> 00:16:09,000
+y definimos de cuánto vamos a...
+
+195
+00:16:21,000 --> 00:16:24,000
+Yo creo que voy a mover un poquitito.
+
+196
+00:16:24,000 --> 00:16:28,000
+Digo para... ya de una.
+
+197
+00:16:28,000 --> 00:16:31,000
+Ah, pero es que aquí se lío porque me van a estar...
+
+198
+00:16:31,000 --> 00:16:33,000
+como tengo mi cuenta de fondos,
+
+199
+00:16:33,000 --> 00:16:36,000
+voy a transferir a ver si me dejan.
+
+200
+00:16:36,000 --> 00:16:39,000
+Entonces, de la cuenta, no, esto es al revés.
+
+201
+00:16:39,000 --> 00:16:43,000
+De la de fondos, me voy a Futuros Perpetual, no.
+
+202
+00:16:43,000 --> 00:16:45,000
+Me voy a estándar, sí.
+
+203
+00:16:45,000 --> 00:16:52,000
+Le voy a poner para los ejercicios con 100 dólares es suficiente.
+
+204
+00:16:52,000 --> 00:16:54,000
+Ah, perfecto, me dejó.
+
+205
+00:16:54,000 --> 00:16:56,000
+Bien, regresamos entonces.
+
+206
+00:16:56,000 --> 00:17:00,000
+Futuros estándar, busco en este punto.
+
+207
+00:17:00,000 --> 00:17:05,000
+Futuros estándar, me voy a Commodities, agarro Spot.
+
+208
+00:17:07,000 --> 00:17:10,000
+Aquí, ustedes van a ver algo totalmente diferente
+
+209
+00:17:10,000 --> 00:17:12,000
+a lo que ven en Trading View.
+
+210
+00:17:12,000 --> 00:17:14,000
+Entonces, como yo ya sé que voy long,
+
+211
+00:17:14,000 --> 00:17:17,000
+aquí lo único que hago es seleccionar 5X,
+
+212
+00:17:17,000 --> 00:17:23,000
+asegurarme de ir a Islado, ojo.
+
+213
+00:17:23,000 --> 00:17:24,000
+Ya saben, ¿verdad?
+
+214
+00:17:24,000 --> 00:17:27,000
+Cruzado, van a usar toda la cuenta.
+
+215
+00:17:27,000 --> 00:17:30,000
+Pero aquí, digamos, para practicar,
+
+216
+00:17:30,000 --> 00:17:32,000
+con dos dólares se puede.
+
+217
+00:17:32,000 --> 00:17:35,000
+Yo lo voy a hacer con diez, vaya.
+
+218
+00:17:35,000 --> 00:17:37,000
+Pero para ustedes, si lo quieren hacer,
+
+219
+00:17:37,000 --> 00:17:38,000
+si lo quieren hacer, para mí,
+
+220
+00:17:38,000 --> 00:17:43,000
+déjenlo solamente en el paper trading de Trading View.
+
+221
+00:17:43,000 --> 00:17:45,000
+O si quieren practicarlo a la par mía,
+
+222
+00:17:45,000 --> 00:17:48,000
+con dos dolaritos, no arriesguen más.
+
+223
+00:17:48,000 --> 00:17:49,000
+¿Por qué?
+
+224
+00:17:49,000 --> 00:17:53,000
+Porque aunque perdamos el stop, va a ser uno...
+
+225
+00:17:53,000 --> 00:17:54,000
+¿Cuánto es?
+
+226
+00:17:54,000 --> 00:17:58,000
+25% de stop de dos dólares.
+
+227
+00:17:58,000 --> 00:18:01,000
+Pero sirve para practicarlo.
+
+228
+00:18:01,000 --> 00:18:02,000
+Si quieren, pueden hacerlo,
+
+229
+00:18:02,000 --> 00:18:05,000
+pero ustedes haganlo con poquito.
+
+230
+00:18:05,000 --> 00:18:06,000
+¿Qué es lo importante?
+
+231
+00:18:06,000 --> 00:18:09,000
+Que no se equivoquen en la parte técnica.
+
+232
+00:18:09,000 --> 00:18:10,000
+Porque, ¿se acuerdan que les expliqué
+
+233
+00:18:10,000 --> 00:18:14,000
+que hay unos mechazos como de volumen?
+
+234
+00:18:14,000 --> 00:18:16,000
+Yo supongo que hay gente que de repente
+
+235
+00:18:16,000 --> 00:18:19,000
+está en un exchange que no tiene volumen
+
+236
+00:18:19,000 --> 00:18:21,000
+y, no sé, aquí como que de repente
+
+237
+00:18:21,000 --> 00:18:23,000
+está y le hace así.
+
+238
+00:18:23,000 --> 00:18:27,000
+Entonces, no es lo mismo meter un montón de ceros
+
+239
+00:18:27,000 --> 00:18:29,000
+e ir con diez dólares.
+
+240
+00:18:29,000 --> 00:18:30,000
+Entonces, me aseguro que vaya 5X,
+
+241
+00:18:30,000 --> 00:18:36,000
+diez dólares, voy long, aislado, abro.
+
+242
+00:18:36,000 --> 00:18:37,000
+Listo.
+
+243
+00:18:37,000 --> 00:18:39,000
+Ahí está abierta la posición.
+
+244
+00:18:39,000 --> 00:18:41,000
+Ahora, ¿voy a ganar o voy a perder?
+
+245
+00:18:41,000 --> 00:18:44,000
+Bueno, después de abrirla, me voy...
+
+246
+00:18:44,000 --> 00:18:46,000
+Yo esto lo hago tal cual como usted lo está viendo.
+
+247
+00:18:46,000 --> 00:18:49,000
+Lo que pasa es que en mi casa tengo dos pantallas.
+
+248
+00:18:49,000 --> 00:18:53,000
+Entonces, en la otra pantalla ya tengo el exchange abierto
+
+249
+00:18:53,000 --> 00:18:57,000
+y de este lado sería esta la otra pantalla.
+
+250
+00:18:57,000 --> 00:19:01,000
+Entonces, aquí yo ya definí lo que yo voy a hacer.
+
+251
+00:19:01,000 --> 00:19:05,000
+Ya definí que está bien perder 1.16%
+
+252
+00:19:05,000 --> 00:19:07,000
+porque eso es lo seguro que tengo.
+
+253
+00:19:07,000 --> 00:19:09,000
+Lo seguro es lo que voy a perder.
+
+254
+00:19:09,000 --> 00:19:11,000
+¿Cuánto puedo ganar si me va bien?
+
+255
+00:19:11,000 --> 00:19:13,000
+No lo sé.
+
+256
+00:19:13,000 --> 00:19:15,000
+O sea, ya veremos.
+
+257
+00:19:15,000 --> 00:19:17,000
+Porque el target, ya saben, ¿verdad?
+
+258
+00:19:17,000 --> 00:19:19,000
+No se puede adivinar porque es un futuro.
+
+259
+00:19:19,000 --> 00:19:21,000
+Pero lo que voy a perder, sí.
+
+260
+00:19:21,000 --> 00:19:23,000
+Porque yo lo estoy poniendo.
+
+261
+00:19:23,000 --> 00:19:24,000
+Bien.
+
+262
+00:19:24,000 --> 00:19:28,000
+Entonces, esto es 1.16%.
+
+263
+00:19:28,000 --> 00:19:32,000
+Me dice 2266.
+
+264
+00:19:32,000 --> 00:19:37,000
+Me voy al exchange y aquí comienzo a calcular esto.
+
+265
+00:19:37,000 --> 00:19:40,000
+El SL, que es el que más me importa,
+
+266
+00:19:41,000 --> 00:19:47,000
+si me acuerdan, 2216 o 66.
+
+267
+00:19:47,000 --> 00:19:49,000
+66.
+
+268
+00:19:49,000 --> 00:19:52,000
+Confirmar.
+
+269
+00:19:52,000 --> 00:19:54,000
+Se acabó.
+
+270
+00:19:54,000 --> 00:19:57,000
+A mí eso es lo que me importa.
+
+271
+00:19:57,000 --> 00:20:01,000
+Saber que voy a perder eso.
+
+272
+00:20:01,000 --> 00:20:07,000
+Que sería un 5, digamos, como un 5%, un 6%, pongámosle.
+
+273
+00:20:07,000 --> 00:20:10,000
+Porque como es a 5X, apalancás la pérdida.
+
+274
+00:20:10,000 --> 00:20:13,000
+Un 6% da 10 dólares.
+
+275
+00:20:13,000 --> 00:20:17,000
+O sea, 60 centavos.
+
+276
+00:20:17,000 --> 00:20:21,000
+En este caso, estoy controlando el riesgo.
+
+277
+00:20:21,000 --> 00:20:23,000
+No el beneficio.
+
+278
+00:20:23,000 --> 00:20:25,000
+El beneficio no lo controlen.
+
+279
+00:20:25,000 --> 00:20:28,000
+No, se déjenlo correr.
+
+280
+00:20:28,000 --> 00:20:31,000
+El riesgo controlenlo.
+
+281
+00:20:31,000 --> 00:20:34,000
+Porque si no lo controlan en un solo trade,
+
+282
+00:20:34,000 --> 00:20:37,000
+pueden quemar una cuenta completa.
+
+283
+00:20:37,000 --> 00:20:41,000
+Entonces, como yo ya sé,
+
+284
+00:20:41,000 --> 00:20:44,000
+lo que estoy dispuesto a perder, pues no me quita el sueño.
+
+285
+00:20:44,000 --> 00:20:46,000
+Entonces, yo lo dejo tal cual como está.
+
+286
+00:20:46,000 --> 00:20:49,000
+Ustedes lo van a ver así, en trading view,
+
+287
+00:20:49,000 --> 00:20:50,000
+perdón, en BinEx.
+
+288
+00:20:50,000 --> 00:20:53,000
+Yo no hago análisis en BinEx.
+
+289
+00:20:53,000 --> 00:20:57,000
+O sea, que aquí parezca en medias y que se mire rarito, a mí no me importa.
+
+290
+00:20:57,000 --> 00:21:00,000
+Yo lo que sé es que aquí soy el SISTI, punto.
+
+291
+00:21:00,000 --> 00:21:06,000
+Que aquí ya calculé mi stop y que tengo 1.16% de stop calculado entrando donde está.
+
+292
+00:21:06,000 --> 00:21:07,000
+Y ya.
+
+293
+00:21:07,000 --> 00:21:10,000
+O sea, y mi flecha queda así.
+
+294
+00:21:10,000 --> 00:21:14,000
+Ahora, ¿cómo vamos con los tiempos?
+
+295
+00:21:14,000 --> 00:21:17,000
+Como este es un gráfico de una hora,
+
+296
+00:21:17,000 --> 00:21:21,000
+hoy, por la noche, bueno, al cierre,
+
+297
+00:21:21,000 --> 00:21:24,000
+digamos a las 8 de la noche o algo así,
+
+298
+00:21:24,000 --> 00:21:28,000
+voy a volver a revisar si subió o no.
+
+299
+00:21:28,000 --> 00:21:31,000
+Porque por la noche, de acuerdo a mi estrategia,
+
+300
+00:21:31,000 --> 00:21:35,000
+esto debería de hacerle así, hacer como un siguiente valle verde, ¿no?
+
+301
+00:21:35,000 --> 00:21:38,000
+Entonces, ¿cuál es el patrón de salida?
+
+302
+00:21:38,000 --> 00:21:42,000
+Y aquí comenzamos a practicar y trate de hacerlo conmigo.
+
+303
+00:21:42,000 --> 00:21:47,000
+Si se hace un siguiente valle verde, así,
+
+304
+00:21:47,000 --> 00:21:52,000
+y usted ve que aquí sigue de aragán haciendo esto,
+
+305
+00:21:52,000 --> 00:21:55,000
+se supone que tiene que estar aquí, ¿no?
+
+306
+00:21:55,000 --> 00:22:00,000
+Si sigue de aragán haciendo aquí un lateral,
+
+307
+00:22:00,000 --> 00:22:03,000
+en este punto cancelamos.
+
+308
+00:22:03,000 --> 00:22:07,000
+No importa si perdemos un 0.16% de stop.
+
+309
+00:22:07,000 --> 00:22:10,000
+No importa. Usted cierre y se sale.
+
+310
+00:22:10,000 --> 00:22:12,000
+¿Por qué? Porque no subió.
+
+311
+00:22:12,000 --> 00:22:16,000
+Ahora, en el peor de los escenarios, que no sé, se caiga, ¿no?
+
+312
+00:22:16,000 --> 00:22:19,000
+Entonces voy a perder 1.16%.
+
+313
+00:22:19,000 --> 00:22:22,000
+En el escenario de que haga un rango, pase el tiempo,
+
+314
+00:22:22,000 --> 00:22:27,000
+también pierdo no sé cuánto, quizás un 0.5%, un 0.3%,
+
+315
+00:22:27,000 --> 00:22:31,000
+igual lo cierro, porque al hacer un lateral,
+
+316
+00:22:31,000 --> 00:22:36,000
+las medias móviles se estrechan y ya saben ustedes lo que pasa después.
+
+317
+00:22:36,000 --> 00:22:40,000
+Cuando tenga el patrón bajista con las medias móviles estrechadas en este punto,
+
+318
+00:22:40,000 --> 00:22:45,000
+la probabilidad más alta es que le haga así, ¿sí?
+
+319
+00:22:45,000 --> 00:22:49,000
+Aquí yo sé que ya lo veo un poco más rápido, pero la media móvil viene aquí.
+
+320
+00:22:49,000 --> 00:22:52,000
+Entonces, el rebote vendría aquí.
+
+321
+00:22:52,000 --> 00:22:55,000
+Lo voy a dejar un poquitín así para que no les estorbe.
+
+322
+00:22:55,000 --> 00:22:57,000
+Lo ven ahí.
+
+323
+00:22:57,000 --> 00:23:01,000
+Entonces, ¿cuál es la diferencia? Aquí soy alcista, ¿sí?
+
+324
+00:23:01,000 --> 00:23:05,000
+Abro la operación, sí, ahí va.
+
+325
+00:23:05,000 --> 00:23:09,000
+El stop ya está puesto. Estoy listo para perder.
+
+326
+00:23:09,000 --> 00:23:12,000
+Pero no sabemos todavía el futuro.
+
+327
+00:23:12,000 --> 00:23:16,000
+Lo que sí sé es que tengo una estrategia para poder operar
+
+328
+00:23:17,000 --> 00:23:21,000
+que tiene ya una estadística
+
+329
+00:23:21,000 --> 00:23:25,000
+que me da ventaja, por lo menos hasta el momento.
+
+330
+00:23:25,000 --> 00:23:29,000
+Si el tiempo pasa, lateraliza,
+
+331
+00:23:29,000 --> 00:23:32,000
+apártese y pierda.
+
+332
+00:23:32,000 --> 00:23:36,000
+Porque aquí, aunque el precio sigue siendo 2290,
+
+333
+00:23:36,000 --> 00:23:40,000
+por ejemplo, el tiempo, el timing ya no nos da
+
+334
+00:23:40,000 --> 00:23:43,000
+para pensar en que va a seguir siendo alcista.
+
+335
+00:23:44,000 --> 00:23:47,000
+Y aquí es donde la gente se me confunde.
+
+336
+00:23:47,000 --> 00:23:50,000
+¿Por qué aquí es alcista y por qué aquí bajista?
+
+337
+00:23:50,000 --> 00:23:54,000
+Por el tiempo, porque la volatilidad entre oferta y demanda
+
+338
+00:23:54,000 --> 00:23:58,000
+llega a un punto en donde
+
+339
+00:23:58,000 --> 00:24:02,000
+previo a que los osos tomen el control,
+
+340
+00:24:02,000 --> 00:24:06,000
+tienen que estabilizar a los toros,
+
+341
+00:24:06,000 --> 00:24:09,000
+que son los que compran.
+
+342
+00:24:09,000 --> 00:24:12,000
+Entonces, llegamos a un punto de la balanza,
+
+343
+00:24:12,000 --> 00:24:16,000
+en donde ellos toman el control, y eso se determina por el tiempo
+
+344
+00:24:16,000 --> 00:24:19,000
+que pasa en esa zona.
+
+345
+00:24:24,000 --> 00:24:27,000
+Bien, asumiendo que va a salir bien,
+
+346
+00:24:27,000 --> 00:24:30,000
+asumiendo que el trade va a salir bien,
+
+347
+00:24:30,000 --> 00:24:33,000
+¿qué hacemos entonces cuando estamos seguros,
+
+348
+00:24:33,000 --> 00:24:36,000
+estamos claros de que puede salir mal?
+
+349
+00:24:36,000 --> 00:24:39,000
+El stop, si usted se fija, o idealmente
+
+350
+00:24:39,000 --> 00:24:42,000
+debería de estar por debajo del punto de control,
+
+351
+00:24:42,000 --> 00:24:45,000
+pero como hemos determinado que el punto de control se mueve
+
+352
+00:24:45,000 --> 00:24:48,000
+al hacer el scroll, no.
+
+353
+00:24:48,000 --> 00:24:51,000
+Ya va a ver.
+
+354
+00:24:51,000 --> 00:24:54,000
+Si yo, ve,
+
+355
+00:24:54,000 --> 00:24:57,000
+ven cómo se mueve, o sea, como que se te mueve,
+
+356
+00:24:57,000 --> 00:25:00,000
+si le haces scroll, como que querés ver más tiempo
+
+357
+00:25:00,000 --> 00:25:03,000
+y se te mueve. Entonces, como yo estoy
+
+358
+00:25:03,000 --> 00:25:06,000
+en gráficos de una horita, no me interesa
+
+359
+00:25:06,000 --> 00:25:09,000
+saber tanto del pasado, sino
+
+360
+00:25:09,000 --> 00:25:12,000
+saber dónde está la zona de soporte,
+
+361
+00:25:12,000 --> 00:25:15,000
+yo lo pongo así más o menos.
+
+362
+00:25:15,000 --> 00:25:18,000
+Entonces, en este punto, el punto de control que es este,
+
+363
+00:25:18,000 --> 00:25:21,000
+determina que esa es una zona de soporte,
+
+364
+00:25:21,000 --> 00:25:24,000
+digamos, la media es
+
+365
+00:25:24,000 --> 00:25:27,000
+el primer soporte, mi stop tiene que estar
+
+366
+00:25:27,000 --> 00:25:30,000
+por debajo de la media, y mejor todavía
+
+367
+00:25:30,000 --> 00:25:33,000
+si está por debajo del punto de control,
+
+368
+00:25:33,000 --> 00:25:36,000
+porque ese es otro soporte.
+
+369
+00:25:36,000 --> 00:25:39,000
+Entonces, es cierto que el precio puede comenzar a caer
+
+370
+00:25:39,000 --> 00:25:42,000
+después de que yo entre, pero no me van a meter miedo
+
+371
+00:25:42,000 --> 00:25:45,000
+porque tengo la tendencia a favor y la área de negociación
+
+372
+00:25:45,000 --> 00:25:48,000
+también, por lo tanto la flecha es alcista.
+
+373
+00:25:48,000 --> 00:25:51,000
+Ahora, imaginémonos que comienza
+
+374
+00:25:51,000 --> 00:25:54,000
+a subir. Como vamos a 5X,
+
+375
+00:25:54,000 --> 00:25:57,000
+ya en la vida real aquí, aquí yo voy a,
+
+376
+00:25:57,000 --> 00:26:00,000
+o sea, que esta operación va a 5X,
+
+377
+00:26:00,000 --> 00:26:03,000
+aquí abajo les va a aparecer la operación que llevan en,
+
+378
+00:26:03,000 --> 00:26:06,000
+dónde está, aquí.
+
+379
+00:26:09,000 --> 00:26:12,000
+Aquí abajo,
+
+380
+00:26:12,000 --> 00:26:15,000
+a mí no me, esto lo hacen todos,
+
+381
+00:26:15,000 --> 00:26:18,000
+se lo ponen verde,
+
+382
+00:26:18,000 --> 00:26:21,000
+si va ganando se lo ponen verde y si va perdiendo
+
+383
+00:26:21,000 --> 00:26:24,000
+se lo ponen rojo, a mí eso
+
+384
+00:26:24,000 --> 00:26:27,000
+no me gusta porque
+
+385
+00:26:27,000 --> 00:26:30,000
+entonces está, tal vez no es la intención del
+
+386
+00:26:30,000 --> 00:26:33,000
+exchange, pero psicológicamente los colores
+
+387
+00:26:33,000 --> 00:26:36,000
+te joden la vida. Usted lo ve rojo
+
+388
+00:26:36,000 --> 00:26:39,000
+y como que hay dinero, comienza
+
+389
+00:26:39,000 --> 00:26:42,000
+y qué pasa, ya se puso verde,
+
+390
+00:26:42,000 --> 00:26:45,000
+otra vez rojo, deje de estarlo viendo,
+
+391
+00:26:45,000 --> 00:26:48,000
+si es que ya para eso hicimos el análisis,
+
+392
+00:26:48,000 --> 00:26:51,000
+aquí vamos, aquí y acá,
+
+393
+00:26:51,000 --> 00:26:54,000
+mire, me voy a calmar,
+
+394
+00:26:54,000 --> 00:26:57,000
+ya no hay nada que hacer,
+
+395
+00:26:57,000 --> 00:27:00,000
+más que irse para el parque o al cine
+
+396
+00:27:00,000 --> 00:27:03,000
+y cuando le llegue un correo, un correo le van a mandar,
+
+397
+00:27:03,000 --> 00:27:06,000
+que le tocó el stop, punto, se acabó,
+
+398
+00:27:06,000 --> 00:27:09,000
+nada más.
+
+399
+00:27:09,000 --> 00:27:12,000
+Sí, claro, pero antes de abrir la posición
+
+400
+00:27:12,000 --> 00:27:15,000
+nosotros ya tenemos controlado todo,
+
+401
+00:27:15,000 --> 00:27:18,000
+el riesgo, lo que vamos a perder y si sale bien,
+
+402
+00:27:18,000 --> 00:27:21,000
+esto lo va a ver en verde,
+
+403
+00:27:21,000 --> 00:27:24,000
+usted está viendo eso así todo el día,
+
+404
+00:27:24,000 --> 00:27:27,000
+está rojo y de repente se le pone verde,
+
+405
+00:27:27,000 --> 00:27:30,000
+eso no sirve, si usted hace eso
+
+406
+00:27:30,000 --> 00:27:33,000
+es porque lo está haciendo mal,
+
+407
+00:27:33,000 --> 00:27:36,000
+si usted lo hace bien no va a estar viendo esto,
+
+408
+00:27:36,000 --> 00:27:39,000
+usted trabaja una hora por la mañana
+
+409
+00:27:39,000 --> 00:27:42,000
+y se va a hacer las cosas que normalmente hace,
+
+410
+00:27:42,000 --> 00:27:45,000
+por la noche viene y revisa,
+
+411
+00:27:45,000 --> 00:27:48,000
+si está verde o está rojo,
+
+412
+00:27:48,000 --> 00:27:51,000
+que a mí no me gusta eso,
+
+413
+00:27:51,000 --> 00:27:54,000
+revisa si está ganando o está perdiendo
+
+414
+00:27:54,000 --> 00:27:57,000
+y determina si cerrar o no, volviendo a hacer el análisis del mercado,
+
+415
+00:27:57,000 --> 00:28:00,000
+no se vale que porque está rojo
+
+416
+00:28:00,000 --> 00:28:03,000
+usted está nervioso, que porque aquí ya metió
+
+417
+00:28:03,000 --> 00:28:06,000
+100 mil dólares, porque hay gente que lo hace,
+
+418
+00:28:06,000 --> 00:28:09,000
+hacen esto, le meten 100 mil dólares aquí al oro
+
+419
+00:28:09,000 --> 00:28:12,000
+y no le ponen stop
+
+420
+00:28:12,000 --> 00:28:15,000
+y no pierden, hombre,
+
+421
+00:28:15,000 --> 00:28:18,000
+es que es el oro, no creo que pierdan,
+
+422
+00:28:18,000 --> 00:28:21,000
+a 5X saben a dónde queda la liquidación
+
+423
+00:28:21,000 --> 00:28:24,000
+de esta cosa,
+
+424
+00:28:24,000 --> 00:28:27,000
+si quieren lo vemos,
+
+425
+00:28:27,000 --> 00:28:30,000
+1856
+
+426
+00:28:30,000 --> 00:28:33,000
+queda 5X y el precio
+
+427
+00:28:33,000 --> 00:28:36,000
+actual está en
+
+428
+00:28:36,000 --> 00:28:39,000
+2289,
+
+429
+00:28:39,000 --> 00:28:42,000
+aislado es esto,
+
+430
+00:28:42,000 --> 00:28:45,000
+si yo esto lo abro en cruzado,
+
+431
+00:28:45,000 --> 00:28:48,000
+la liquidación me queda en cero,
+
+432
+00:28:48,000 --> 00:28:51,000
+entonces esa es la diferencia,
+
+433
+00:28:51,000 --> 00:28:54,000
+lo que pasa es que aquí no puedo,
+
+434
+00:28:54,000 --> 00:28:57,000
+no voy a arriesgar eso, en el oro sí lo haría yo,
+
+435
+00:28:57,000 --> 00:29:00,000
+quieren que abramos uno en cruzado,
+
+436
+00:29:00,000 --> 00:29:03,000
+solo para que lo vean el precio, la diferencia en ir aislado
+
+437
+00:29:03,000 --> 00:29:06,000
+y cruzado, abramos otro,
+
+438
+00:29:06,000 --> 00:29:09,000
+voy aquí, voy a cambiar de aislado
+
+439
+00:29:09,000 --> 00:29:12,000
+a cruzado, y miren que es lo que pasa,
+
+440
+00:29:12,000 --> 00:29:15,000
+ah, pero es que me dice que la cierre,
+
+441
+00:29:15,000 --> 00:29:18,000
+para poder abrir la otra,
+
+442
+00:29:18,000 --> 00:29:21,000
+pero como estamos aprendiendo me va a tocar que es,
+
+443
+00:29:21,000 --> 00:29:24,000
+ah, no importa, o sea, no puedo esperar,
+
+444
+00:29:24,000 --> 00:29:27,000
+no puedo esperar a que esté en verde para cerrar, o esperamos,
+
+445
+00:29:27,000 --> 00:29:30,000
+es que por el tiempo,
+
+446
+00:29:30,000 --> 00:29:33,000
+si, no, no importa, vale, listo,
+
+447
+00:29:33,000 --> 00:29:36,000
+pero recuerden la liquidación donde estaba,
+
+448
+00:29:36,000 --> 00:29:39,000
+porque eso es lo importante, ahora sí,
+
+449
+00:29:39,000 --> 00:29:42,000
+voy a abrir long, aquí lo cambio a cruzado,
+
+450
+00:29:42,000 --> 00:29:45,000
+y van a ver la diferencia,
+
+451
+00:29:45,000 --> 00:29:48,000
+10 dólares otra vez, esto es un cálculo,
+
+452
+00:29:48,000 --> 00:29:51,000
+digamos, voy long,
+
+453
+00:29:51,000 --> 00:29:54,000
+sin stop, aquí podría ponerle stop,
+
+454
+00:29:57,000 --> 00:30:00,000
+pero yo no le voy a poner,
+
+455
+00:30:00,000 --> 00:30:03,000
+voy a entrar así, ya ahí donde está,
+
+456
+00:30:03,000 --> 00:30:06,000
+entonces, aquí abajo,
+
+457
+00:30:06,000 --> 00:30:09,000
+mire, dónde está el precio de liquidación,
+
+458
+00:30:09,000 --> 00:30:12,000
+usted dígame, alguien va a perder en eso,
+
+459
+00:30:15,000 --> 00:30:18,000
+mire,
+
+460
+00:30:18,000 --> 00:30:21,000
+ni siquiera cero le ponen,
+
+461
+00:30:21,000 --> 00:30:24,000
+y al oro,
+
+462
+00:30:24,000 --> 00:30:27,000
+¿cómo podría perder?
+
+463
+00:30:27,000 --> 00:30:30,000
+¿qué tan nervioso podría ponerse
+
+464
+00:30:30,000 --> 00:30:33,000
+cuando esté operando el oro,
+
+465
+00:30:33,000 --> 00:30:36,000
+si esta cosa en cruzado le pone que cero?
+
+466
+00:30:36,000 --> 00:30:39,000
+mire, yo le voy a decir algo,
+
+467
+00:30:39,000 --> 00:30:42,000
+si en algún momento aquí aparece un precio de liquidación,
+
+468
+00:30:42,000 --> 00:30:45,000
+como en 800 dólares, o algo similar,
+
+469
+00:30:45,000 --> 00:30:48,000
+es una tercera guerra mundial,
+
+470
+00:30:48,000 --> 00:30:51,000
+o sea, ya aquí no nos importa el exchange,
+
+471
+00:30:51,000 --> 00:30:54,000
+nada, pues vamos a andar buscando agua y comida,
+
+472
+00:30:54,000 --> 00:30:57,000
+cazando mamuts, que ya no existen,
+
+473
+00:30:57,000 --> 00:31:00,000
+aquí no pierde nadie,
+
+474
+00:31:00,000 --> 00:31:03,000
+porque cómo vas a perder,
+
+475
+00:31:03,000 --> 00:31:06,000
+no hay manera de perder,
+
+476
+00:31:06,000 --> 00:31:09,000
+como es el oro, la estabilidad que tiene el oro,
+
+477
+00:31:09,000 --> 00:31:12,000
+que es el refugio de valor por excelencia,
+
+478
+00:31:12,000 --> 00:31:15,000
+te permite operar sin stop,
+
+479
+00:31:15,000 --> 00:31:18,000
+¿vieron la diferencia entre aislado y cruzado verdad?
+
+480
+00:31:18,000 --> 00:31:21,000
+¿por qué? bien,
+
+481
+00:31:21,000 --> 00:31:24,000
+vamos a ir haciendo el cálculo,
+
+482
+00:31:24,000 --> 00:31:27,000
+sin duda la veo así como una nube en todo esto,
+
+483
+00:31:27,000 --> 00:31:30,000
+miren, ya van a ver,
+
+484
+00:31:30,000 --> 00:31:33,000
+a mí no me importa, yo estoy aquí enseñando,
+
+485
+00:31:33,000 --> 00:31:36,000
+voy a cerrar aquí, porque no me va a dejar,
+
+486
+00:31:36,000 --> 00:31:39,000
+ahora, vamos a hacer otro ejercicio,
+
+487
+00:31:39,000 --> 00:31:42,000
+recuerden que todo está basado ya en el análisis que tengo hecho,
+
+488
+00:31:42,000 --> 00:31:45,000
+bien, ahora, vamos al oro nuevamente,
+
+489
+00:31:45,000 --> 00:31:48,000
+cruzado, y ahora yo decido ir con el 25%
+
+490
+00:31:48,000 --> 00:31:51,000
+de la cuenta total, porque cuando estamos en cruzado
+
+491
+00:31:51,000 --> 00:31:54,000
+¿cuánto le puse? 100 dólares ¿verdad?
+
+492
+00:31:54,000 --> 00:31:57,000
+no, no, pero digamos,
+
+493
+00:31:57,000 --> 00:32:00,000
+recuerden que hablamos de un cuadrito
+
+494
+00:32:00,000 --> 00:32:03,000
+que tenemos las billeteras,
+
+495
+00:32:03,000 --> 00:32:06,000
+esa billetera es la de futuros,
+
+496
+00:32:06,000 --> 00:32:09,000
+digamos que es el 10% del total de tu cuenta,
+
+497
+00:32:09,000 --> 00:32:12,000
+bien, entonces de ese 10%
+
+498
+00:32:12,000 --> 00:32:15,000
+que representa el ching, no tiene nada que ver
+
+499
+00:32:15,000 --> 00:32:18,000
+con la billetera de fondos, de spot,
+
+500
+00:32:18,000 --> 00:32:21,000
+gráfico diario, exchange, esta es esa
+
+501
+00:32:21,000 --> 00:32:24,000
+que en la teoría yo les explique
+
+502
+00:32:24,000 --> 00:32:27,000
+que es una cuenta aparte, pero que también
+
+503
+00:32:27,000 --> 00:32:30,000
+está dentro del exchange, entonces,
+
+504
+00:32:30,000 --> 00:32:33,000
+¿qué pasa si por ejemplo yo decido entrar en glom
+
+505
+00:32:33,000 --> 00:32:36,000
+siempre a 5X, verdad, porque si se apalancan
+
+506
+00:32:36,000 --> 00:32:39,000
+a 100X, sí ya van a tener
+
+507
+00:32:39,000 --> 00:32:42,000
+un precio de liquidación en cruzado,
+
+508
+00:32:42,000 --> 00:32:45,000
+porque se están apalancando mucho, pero a 5X
+
+509
+00:32:45,000 --> 00:32:48,000
+voy a ir con el 25% que en este caso
+
+510
+00:32:48,000 --> 00:32:51,000
+sería
+
+511
+00:32:51,000 --> 00:32:54,000
+25 dólares aproximadamente,
+
+512
+00:32:54,000 --> 00:32:57,000
+verifico
+
+513
+00:32:57,000 --> 00:33:00,000
+cruzado, glom, 25%,
+
+514
+00:33:00,000 --> 00:33:03,000
+fácil porque son 100 dólares,
+
+515
+00:33:03,000 --> 00:33:06,000
+entonces 25%, 5X, glom,
+
+516
+00:33:06,000 --> 00:33:09,000
+sin stop, veamos en dónde me pone hoy
+
+517
+00:33:09,000 --> 00:33:12,000
+el precio de liquidación.
+
+518
+00:33:13,000 --> 00:33:16,000
+Miren, si el oro cae 480
+
+519
+00:33:16,000 --> 00:33:19,000
+dólares,
+
+520
+00:33:19,000 --> 00:33:22,000
+otra vez hay una tercera guerra mundial,
+
+521
+00:33:22,000 --> 00:33:25,000
+si o no, yo nunca he visto
+
+522
+00:33:25,000 --> 00:33:28,000
+que el oro cayendo 480 dólares,
+
+523
+00:33:28,000 --> 00:33:31,000
+bitcoin estaría, no sé, en cero,
+
+524
+00:33:31,000 --> 00:33:34,000
+en serio, es que bitcoin
+
+525
+00:33:34,000 --> 00:33:37,000
+imagínense usted lo que tiene que pasar en el mercado
+
+526
+00:33:37,000 --> 00:33:40,000
+regulado para que los inversionistas
+
+527
+00:33:40,000 --> 00:33:43,000
+dejen caer el oro a 480
+
+528
+00:33:43,000 --> 00:33:46,000
+dólares, eso cambia,
+
+529
+00:33:46,000 --> 00:33:49,000
+se mueve un poquitito,
+
+530
+00:33:49,000 --> 00:33:52,000
+pero no es mucha la diferencia, entonces aún
+
+531
+00:33:52,000 --> 00:33:55,000
+usando el 25% cruzado,
+
+532
+00:33:55,000 --> 00:33:58,000
+ya tiene un precio de liquidación, como
+
+533
+00:33:58,000 --> 00:34:01,000
+estoy en cruzado, yo a veces lo que
+
+534
+00:34:01,000 --> 00:34:04,000
+hago es que abro la posición, abro la
+
+535
+00:34:04,000 --> 00:34:07,000
+posición,
+
+536
+00:34:07,000 --> 00:34:10,000
+yo sé que está bastante bajo, pero si sale mal
+
+537
+00:34:10,000 --> 00:34:13,000
+y cae a 1800 dólares,
+
+538
+00:34:13,000 --> 00:34:16,000
+duplico los contratos,
+
+539
+00:34:16,000 --> 00:34:19,000
+se fijaron que entre con 25 dólares, no,
+
+540
+00:34:19,000 --> 00:34:22,000
+si cae a 1800 dólares, le meto 50
+
+541
+00:34:22,000 --> 00:34:25,000
+dólares más, entonces aquí,
+
+542
+00:34:25,000 --> 00:34:28,000
+al hacer eso, el precio promedio
+
+543
+00:34:28,000 --> 00:34:31,000
+para ponerme a ganar ya no es este,
+
+544
+00:34:31,000 --> 00:34:34,000
+el precio de apertura,
+
+545
+00:34:34,000 --> 00:34:37,000
+claro, ya quedaría como en 2000,
+
+546
+00:34:37,000 --> 00:34:40,000
+dejémoslo en 2000,
+
+547
+00:34:40,000 --> 00:34:43,000
+2288, la otra la hago en 1800,
+
+548
+00:34:43,000 --> 00:34:46,000
+me queda en 2000,
+
+549
+00:34:46,000 --> 00:34:49,000
+como el oro, si ustedes lo ven, siempre
+
+550
+00:34:49,000 --> 00:34:52,000
+está en 1980,
+
+551
+00:34:52,000 --> 00:34:55,000
+sube a 2100,
+
+552
+00:34:55,000 --> 00:34:58,000
+solo es cuestión de tiempo para ganar,
+
+553
+00:35:00,000 --> 00:35:03,000
+por eso no nos complicamos nosotros,
+
+554
+00:35:03,000 --> 00:35:06,000
+no vamos a perder, ustedes no van a perder,
+
+555
+00:35:06,000 --> 00:35:09,000
+si ustedes esto lo hacen bien, con una buena
+
+556
+00:35:09,000 --> 00:35:12,000
+gestión, con un patrón confirmado como
+
+557
+00:35:12,000 --> 00:35:15,000
+el que hemos estudiado, no hay manera de perder,
+
+558
+00:35:15,000 --> 00:35:18,000
+bueno, que ahora si la exchange se va corriendo,
+
+559
+00:35:18,000 --> 00:35:21,000
+ya les dije, ahí sí vamos a perderlo todo,
+
+560
+00:35:21,000 --> 00:35:24,000
+pero ahí estamos todos arriesgando y confiando
+
+561
+00:35:24,000 --> 00:35:27,000
+en la exchange en cuestión, yo confío aquí,
+
+562
+00:35:27,000 --> 00:35:30,000
+aquí porque puedo operar commodities,
+
+563
+00:35:30,000 --> 00:35:33,000
+fórex, que yo no opero eso, y bitcoin
+
+564
+00:35:33,000 --> 00:35:36,000
+y todo lo demás, con mis mismas criptos,
+
+565
+00:35:36,000 --> 00:35:39,000
+de allí, si yo gano aquí en el oro,
+
+566
+00:35:39,000 --> 00:35:42,000
+si yo gano en el oro, agarro los USDT
+
+567
+00:35:42,000 --> 00:35:45,000
+y ya decido invertirlo en bitcoin, por ejemplo,
+
+568
+00:35:45,000 --> 00:35:48,000
+pero yo en 70 mil no compro bitcoin, yo me voy
+
+569
+00:35:48,000 --> 00:35:51,000
+a operar el oro,
+
+570
+00:35:51,000 --> 00:35:54,000
+porque como le digo, en serio, si alguien aquí,
+
+571
+00:35:54,000 --> 00:35:57,000
+¿en qué escenario creen que el oro puede caer a 480
+
+572
+00:35:57,000 --> 00:36:00,000
+dólares si no es manipulable?
+
+573
+00:36:00,000 --> 00:36:03,000
+¿Alguna vez han visto un mechazo así como el
+
+574
+00:36:03,000 --> 00:36:06,000
+de bitmex en bitcoin en el oro?
+
+575
+00:36:16,000 --> 00:36:19,000
+Muy bien, aquí me detengo un momento
+
+576
+00:36:19,000 --> 00:36:22,000
+y vamos a preguntas de lo que les acabo
+
+577
+00:36:22,000 --> 00:36:25,000
+de enseñar, esto es futuros,
+
+578
+00:36:26,000 --> 00:36:29,000
+hagan el ejercicio ustedes
+
+579
+00:36:29,000 --> 00:36:32,000
+en su laptop, los que están en su casa
+
+580
+00:36:32,000 --> 00:36:35,000
+no estén ahí viendo a Betty la Fea,
+
+581
+00:36:35,000 --> 00:36:38,000
+no, no, no, hagan el ejercicio usted también para que vea
+
+582
+00:36:38,000 --> 00:36:41,000
+que no le estoy mintiendo, aquí yo estoy con dinero real,
+
+583
+00:36:41,000 --> 00:36:44,000
+que hombre, que es poquito así,
+
+584
+00:36:44,000 --> 00:36:47,000
+pero eso funciona igual con 100 mil dólares o con un millón de dólares
+
+585
+00:36:47,000 --> 00:36:50,000
+o con un billón, que funciona
+
+586
+00:36:50,000 --> 00:36:53,000
+igual, y que la ganancia van a ser diferentes también, ¿no?
+
+587
+00:36:53,000 --> 00:36:56,000
+Jaime, yo he promediado así,
+
+588
+00:36:56,000 --> 00:36:59,000
+pero cuando caía el stop-lop, pero se promedia por la cantidad
+
+589
+00:36:59,000 --> 00:37:02,000
+del lote que invertiste, más no por la cantidad
+
+590
+00:37:02,000 --> 00:37:05,000
+de dólares, si con 25 dólares en la entrada
+
+591
+00:37:05,000 --> 00:37:08,000
+te dieron, por ejemplo, uno punto
+
+592
+00:37:08,000 --> 00:37:11,000
+solana, ya cuando
+
+593
+00:37:11,000 --> 00:37:14,000
+caiga te van a dar más por esos 25 dólares, entonces
+
+594
+00:37:14,000 --> 00:37:17,000
+mejor promedias 1.1 solana otra vez
+
+595
+00:37:17,000 --> 00:37:20,000
+al precio que te dé y así vas promediando el lote de la moneda.
+
+596
+00:37:21,000 --> 00:37:24,000
+De la que estamos hablando de solana.
+
+597
+00:37:24,000 --> 00:37:27,000
+Bueno, de cualquier moneda, para promediar,
+
+598
+00:37:27,000 --> 00:37:30,000
+como dijiste ahorita, si caía el stop-lop, lo promedias,
+
+599
+00:37:30,000 --> 00:37:33,000
+pero tú lo promedias por la cantidad de dólares que invertiste
+
+600
+00:37:33,000 --> 00:37:36,000
+y mucha gente lo promedia por la cantidad
+
+601
+00:37:36,000 --> 00:37:39,000
+del lote que se compró al principio de la entrada,
+
+602
+00:37:39,000 --> 00:37:42,000
+no por dólares. Esto solo aplica
+
+603
+00:37:42,000 --> 00:37:45,000
+para el oro o Bitcoin.
+
+604
+00:37:45,000 --> 00:37:48,000
+Las criptos
+
+605
+00:37:48,000 --> 00:37:51,000
+no vayan a hacer esto en las criptos.
+
+606
+00:37:51,000 --> 00:37:54,000
+No vayan a hacer esto en ninguna
+
+607
+00:37:54,000 --> 00:37:57,000
+cripto. Esto
+
+608
+00:37:57,000 --> 00:38:00,000
+es, de hecho ni en Bitcoin.
+
+609
+00:38:00,000 --> 00:38:03,000
+Allí donde está Bitcoin no vayan a hacer esto.
+
+610
+00:38:03,000 --> 00:38:06,000
+Esto yo se los pongo en el oro
+
+611
+00:38:06,000 --> 00:38:09,000
+únicamente porque ya sé que no van a perder.
+
+612
+00:38:09,000 --> 00:38:12,000
+Es que si pierden, yo ya
+
+613
+00:38:12,000 --> 00:38:15,000
+no voy a estar vivo tampoco. Entonces igual que si
+
+614
+00:38:15,000 --> 00:38:18,000
+pierdan de quitar conmigo ya no voy a estar.
+
+615
+00:38:18,000 --> 00:38:21,000
+Porque es la verdad, entonces
+
+616
+00:38:21,000 --> 00:38:24,000
+no me tiene sentido de...
+
+617
+00:38:24,000 --> 00:38:27,000
+Miren, no lo vayan a hacer en las criptos
+
+618
+00:38:27,000 --> 00:38:30,000
+ni en Bitcoin en este momento. En Bitcoin sí,
+
+619
+00:38:30,000 --> 00:38:33,000
+sí les ha caído un 70%
+
+620
+00:38:33,000 --> 00:38:36,000
+desde su máximo, como por lo
+
+621
+00:38:36,000 --> 00:38:39,000
+25.000 dólares. Por ahí, yo explicaba
+
+622
+00:38:39,000 --> 00:38:42,000
+esto en YouTube. No sé si alguien
+
+623
+00:38:42,000 --> 00:38:45,000
+escuchó hablar de esto. ¿Quiénes estuvieron
+
+624
+00:38:45,000 --> 00:38:48,000
+en mi comunidad privada aquí?
+
+625
+00:38:48,000 --> 00:38:51,000
+Casi todos. Esto lo vimos nosotros.
+
+626
+00:38:51,000 --> 00:38:54,000
+¿Sí o no?
+
+627
+00:38:54,000 --> 00:38:57,000
+Entonces en Bitcoin sí,
+
+628
+00:38:57,000 --> 00:39:00,000
+solo cuando tenemos
+
+629
+00:39:00,000 --> 00:39:03,000
+una caída de un 70%, long,
+
+630
+00:39:03,000 --> 00:39:06,000
+perpetual, cruzado.
+
+631
+00:39:06,000 --> 00:39:09,000
+Aquí el precio de liquidación nos quedaba en ceros.
+
+632
+00:39:09,000 --> 00:39:12,000
+Entonces yo les comentaba, digamos que
+
+633
+00:39:12,000 --> 00:39:15,000
+nos va mal, nos cae 5.000 dólares, duplicamos
+
+634
+00:39:15,000 --> 00:39:18,000
+contratos. Y si baja más, compramos más.
+
+635
+00:39:18,000 --> 00:39:21,000
+Pero porque sabemos que no vamos a perder en Bitcoin.
+
+636
+00:39:21,000 --> 00:39:24,000
+Pero en 70.000 si no me da el valor para tratar de hacer
+
+637
+00:39:24,000 --> 00:39:27,000
+una...
+
+638
+00:39:27,000 --> 00:39:30,000
+No, porque yo confío en Bitcoin,
+
+639
+00:39:30,000 --> 00:39:33,000
+en la volatilidad de todo. Pero también no estoy
+
+640
+00:39:33,000 --> 00:39:36,000
+dispuesto a aguantarme una caída de unos 20.000 dólares
+
+641
+00:39:36,000 --> 00:39:39,000
+de golpe, porque sí me va a poner nervioso.
+
+642
+00:39:39,000 --> 00:39:42,000
+Porque yo no entro así como con 25
+
+643
+00:39:42,000 --> 00:39:45,000
+dólares. No.
+
+644
+00:39:45,000 --> 00:39:48,000
+Cuando sin inversiones importantes, yo voy así como ayer, que por ejemplo
+
+645
+00:39:48,000 --> 00:39:51,000
+compré un poquito de acciones de NVIDIA,
+
+646
+00:39:51,000 --> 00:39:54,000
+solo 100. Y entonces tengo dos compras
+
+647
+00:39:54,000 --> 00:39:57,000
+más hacia abajo. En NVIDIA,
+
+648
+00:39:57,000 --> 00:40:00,000
+compro otra 100 más y cae un
+
+649
+00:40:00,000 --> 00:40:03,000
+porcentaje importante. Si no, simplemente me espero
+
+650
+00:40:03,000 --> 00:40:06,000
+y va a volver a subir. Me dijiste que había caído.
+
+651
+00:40:06,000 --> 00:40:09,000
+Ok, yo...
+
+652
+00:40:12,000 --> 00:40:15,000
+No, yo compro acciones.
+
+653
+00:40:15,000 --> 00:40:18,000
+No.
+
+654
+00:40:18,000 --> 00:40:21,000
+Yo compré Coca-Cola, por ejemplo, y estuvo ahí
+
+655
+00:40:21,000 --> 00:40:24,000
+en rojo. Solo me tocó que
+
+656
+00:40:24,000 --> 00:40:27,000
+esperar como un mes y medio, creo.
+
+657
+00:40:27,000 --> 00:40:30,000
+Y le gané.
+
+658
+00:40:30,000 --> 00:40:33,000
+Por eso les digo que la paciencia está relacionada
+
+659
+00:40:33,000 --> 00:40:36,000
+con si tenemos dinero o no. Pero aquí
+
+660
+00:40:36,000 --> 00:40:39,000
+no se pierde. Es que no hay manera.
+
+661
+00:40:39,000 --> 00:40:42,000
+El problema es que cuando invertimos dinero, que no es de nosotros,
+
+662
+00:40:42,000 --> 00:40:45,000
+entonces allí está el banco jodiendo.
+
+663
+00:40:45,000 --> 00:40:48,000
+No. Mire, hoy no he pagado la cuota.
+
+664
+00:40:48,000 --> 00:40:51,000
+Y obviamente nos van a estresar.
+
+665
+00:40:51,000 --> 00:40:54,000
+No, pues dicen, ahí ganamos un centavito,
+
+666
+00:40:54,000 --> 00:40:57,000
+vamos a cerrar. No, eso no. Eso no.
+
+667
+00:40:57,000 --> 00:41:00,000
+Y esos colores están mal. A mí no me gustan.
+
+668
+00:41:00,000 --> 00:41:03,000
+Pero todos los exchanges hacen lo mismo. Preguntas de las personas
+
+669
+00:41:03,000 --> 00:41:06,000
+que están en línea, porque yo creo que aquí ustedes lo entienden
+
+670
+00:41:06,000 --> 00:41:09,000
+mejor, pero tal vez los que están en línea tengan preguntas.
+
+671
+00:41:09,000 --> 00:41:12,000
+Aquí hay una referente a mantener la posición abierta
+
+672
+00:41:12,000 --> 00:41:15,000
+por medio del margen cruzado. Dicen, hablemos
+
+673
+00:41:15,000 --> 00:41:18,000
+de las comisiones que cobrará el exchange por tener
+
+674
+00:41:18,000 --> 00:41:21,000
+esa posición abierta. ¿Es rentable?
+
+675
+00:41:21,000 --> 00:41:24,000
+Eso pregúntenselo al exchange.
+
+676
+00:41:24,000 --> 00:41:27,000
+Yo no represento ningún exchange.
+
+677
+00:41:27,000 --> 00:41:30,000
+Es que a mí no me metan con los exchanges.
+
+678
+00:41:30,000 --> 00:41:33,000
+Yo a BinX es que yo los abrazo.
+
+679
+00:41:33,000 --> 00:41:36,000
+Los amo.
+
+680
+00:41:36,000 --> 00:41:39,000
+Pero ellos le van a cobrar comisiones por eso.
+
+681
+00:41:39,000 --> 00:41:42,000
+Pero esas comisiones no son mías.
+
+682
+00:41:42,000 --> 00:41:45,000
+Perdón, pero vamos a separarnos bien las cosas aquí.
+
+683
+00:41:45,000 --> 00:41:48,000
+Yo les estoy enseñando cómo se hace.
+
+684
+00:41:48,000 --> 00:41:51,000
+Que las comisiones del exchange le va a cobrar a usted,
+
+685
+00:41:51,000 --> 00:41:54,000
+perfecto. Si usted no quiere pagar comisiones,
+
+686
+00:41:54,000 --> 00:41:57,000
+por allá anda alguien que le da gratis todo,
+
+687
+00:41:57,000 --> 00:42:00,000
+pero el producto es usted.
+
+688
+00:42:00,000 --> 00:42:03,000
+Entonces eso lo define usted.
+
+689
+00:42:03,000 --> 00:42:06,000
+¿Qué quiere usted? ¿Pagar comisiones o ser usted?
+
+690
+00:42:06,000 --> 00:42:09,000
+El producto.
+
+691
+00:42:09,000 --> 00:42:12,000
+Usted define dónde operar.
+
+692
+00:42:12,000 --> 00:42:15,000
+A mí con los exchanges no me metan.
+
+693
+00:42:15,000 --> 00:42:18,000
+Y si tiene dudas, usted vaya al exchange y pregúntele al exchange.
+
+694
+00:42:18,000 --> 00:42:21,000
+Yo no, aquí no hay ninguna marca de nada.
+
+695
+00:42:21,000 --> 00:42:24,000
+Yo soy trading latino.
+
+696
+00:42:24,000 --> 00:42:27,000
+A mí pregúnteme por mí. Gracias, seguimos.
+
+697
+00:42:27,000 --> 00:42:30,000
+De línea ahorita solo tenemos esta referente a este tema.
+
+698
+00:42:30,000 --> 00:42:33,000
+¿De qué, perdón?
+
+699
+00:42:33,000 --> 00:42:36,000
+En línea solo tenemos esta pregunta referente a este tema.
+
+700
+00:42:36,000 --> 00:42:39,000
+¿Seguimos con las presenciales?
+
+701
+00:42:39,000 --> 00:42:42,000
+Sí, de acuerdo, gracias. Vean, con los exchanges
+
+702
+00:42:42,000 --> 00:42:45,000
+todos cobran comisiones.
+
+703
+00:42:45,000 --> 00:42:48,000
+¿Qué es el tacaño?
+
+704
+00:42:48,000 --> 00:42:51,000
+Aquí en México saben qué es el tacaño.
+
+705
+00:42:51,000 --> 00:42:54,000
+Si usted no paga comisiones,
+
+706
+00:42:54,000 --> 00:42:57,000
+usted tiene que saber que la empresa tiene una planilla que pagar.
+
+707
+00:42:57,000 --> 00:43:00,000
+Hay gente que trabaja y hay que pagarles.
+
+708
+00:43:00,000 --> 00:43:03,000
+Entonces, si ellos no cobran comisiones,
+
+709
+00:43:03,000 --> 00:43:06,000
+no cobran nada y solo se van por el spread,
+
+710
+00:43:06,000 --> 00:43:09,000
+desde el pedacito ahí,
+
+711
+00:43:09,000 --> 00:43:12,000
+deja muchas dudas de dónde sacan el dinero
+
+712
+00:43:12,000 --> 00:43:15,000
+para pagar.
+
+713
+00:43:15,000 --> 00:43:18,000
+Entonces, yo prefiero pagar y estar tranquilo
+
+714
+00:43:18,000 --> 00:43:21,000
+que tener dudas. A mí la duda no me gusta.
+
+715
+00:43:21,000 --> 00:43:24,000
+A mí me gusta sí o no. Quizás por eso soy medio raro
+
+716
+00:43:24,000 --> 00:43:27,000
+porque como yo soy informático,
+
+717
+00:43:27,000 --> 00:43:30,000
+estos cerros son unos para mí.
+
+718
+00:43:30,000 --> 00:43:33,000
+Entonces, cuando yo hago esto, yo tengo que tener en cuenta
+
+719
+00:43:33,000 --> 00:43:36,000
+que voy a estar pagando comisiones al exchange.
+
+720
+00:43:36,000 --> 00:43:39,000
+Pero ellos tienen una planilla que pagarle a la gente
+
+721
+00:43:39,000 --> 00:43:42,000
+y de hecho hasta muy poquito pagan.
+
+722
+00:43:42,000 --> 00:43:45,000
+Deberían pagarle más a la gente
+
+723
+00:43:45,000 --> 00:43:48,000
+porque el tiempo no tiene precio.
+
+724
+00:43:48,000 --> 00:43:51,000
+Preguntas de los presenciales.
+
+725
+00:43:51,000 --> 00:43:54,000
+Jaime, una pregunta. Si queremos abrir una posición
+
+726
+00:43:54,000 --> 00:43:57,000
+en el oro, ¿hay alguna forma de poder calcular
+
+727
+00:43:57,000 --> 00:44:00,000
+dónde va a estar nuestro nivel de liquidación
+
+728
+00:44:00,000 --> 00:44:03,000
+antes de abrir las posiciones?
+
+729
+00:44:03,000 --> 00:44:06,000
+Si tenemos un capital, por decir un ejemplo,
+
+730
+00:44:06,000 --> 00:44:09,000
+de 30.000 pesos.
+
+731
+00:44:09,000 --> 00:44:12,000
+Fíjate que sí.
+
+732
+00:44:12,000 --> 00:44:15,000
+Antes de abrir la operación,
+
+733
+00:44:15,000 --> 00:44:18,000
+usen el BST.
+
+734
+00:44:18,000 --> 00:44:21,000
+Depende de los exchanges.
+
+735
+00:44:21,000 --> 00:44:24,000
+Yo no opero nunca en BST, pero yo tengo aquí
+
+736
+00:44:24,000 --> 00:44:27,000
+mi dinero. Pero aquí tienen
+
+737
+00:44:27,000 --> 00:44:30,000
+haganlo ustedes, aquí en la cuenta BST.
+
+738
+00:44:30,000 --> 00:44:33,000
+Pero si no tienen cuenta, créense una.
+
+739
+00:44:33,000 --> 00:44:36,000
+Me van a decir ustedes. Y entonces, ¿qué tú haces
+
+740
+00:44:36,000 --> 00:44:39,000
+con Binx? Bueno, yo le doy mi link de referido.
+
+741
+00:44:39,000 --> 00:44:42,000
+Yo no lo veo mal.
+
+742
+00:44:42,000 --> 00:44:45,000
+Si usted crea una cuenta
+
+743
+00:44:45,000 --> 00:44:48,000
+con mi link de referido,
+
+744
+00:44:48,000 --> 00:44:51,000
+entonces yo recibo una pequeña comisión
+
+745
+00:44:51,000 --> 00:44:54,000
+cuando usted hace las operaciones. De las comisiones que usted le paga al exchange.
+
+746
+00:44:54,000 --> 00:44:57,000
+Pero no es lo mismo.
+
+747
+00:44:58,000 --> 00:45:01,000
+Bien. Vamos a ver.
+
+748
+00:45:01,000 --> 00:45:04,000
+Aquí hay una cuenta que se llama BST.
+
+749
+00:45:04,000 --> 00:45:07,000
+Entonces yo le doy click aquí y este es como
+
+750
+00:45:07,000 --> 00:45:10,000
+como si fuera un paper trading, digamos.
+
+751
+00:45:10,000 --> 00:45:13,000
+Y tengo aquí, ¿cuánto?
+
+752
+00:45:13,000 --> 00:45:16,000
+Bueno, un montón de dinero
+
+753
+00:45:16,000 --> 00:45:19,000
+para hacerlo que no es de verdad.
+
+754
+00:45:19,000 --> 00:45:22,000
+Entonces, aquí podemos calcularlo
+
+755
+00:45:22,000 --> 00:45:25,000
+y yo le voy a meter aquí lo mismo.
+
+756
+00:45:25,000 --> 00:45:28,000
+A ver, ¿qué dice?
+
+757
+00:45:28,000 --> 00:45:31,000
+Ah, mira, no me deje usar más de 16.000 dólares.
+
+758
+00:45:31,000 --> 00:45:34,000
+Bueno, metámosle 15, hombre, que no pasa nada.
+
+759
+00:45:43,000 --> 00:45:46,000
+A ver, hagámoslo. Yo, la verdad,
+
+760
+00:45:46,000 --> 00:45:49,000
+no me fijo en esas cosas como...
+
+761
+00:45:55,000 --> 00:45:58,000
+Bueno, digamos que si yo voy a 10x,
+
+762
+00:45:58,000 --> 00:46:01,000
+¿dónde estaría el stock precio de ejecución?
+
+763
+00:46:01,000 --> 00:46:04,000
+OK, lo tengo claro, porque estoy en market, ¿no?
+
+764
+00:46:04,000 --> 00:46:07,000
+O sea, aquí, en mercado, se ejecuta de inmediato.
+
+765
+00:46:07,000 --> 00:46:10,000
+En activar, sería como poner una orden limit.
+
+766
+00:46:10,000 --> 00:46:13,000
+Digamos, aquí estoy en BST ya.
+
+767
+00:46:13,000 --> 00:46:16,000
+Es decir, esto es de mentiritas.
+
+768
+00:46:16,000 --> 00:46:19,000
+Si quieren, ustedes háganlo en el exchange también.
+
+769
+00:46:19,000 --> 00:46:22,000
+Si tienen cuenta, abran su cuenta
+
+770
+00:46:22,000 --> 00:46:25,000
+y váyanse a BST y abren la operación.
+
+771
+00:46:25,000 --> 00:46:28,000
+Jaime, ahí en el exchange, todos los traen.
+
+772
+00:46:28,000 --> 00:46:31,000
+Traen uno que dice calculadora.
+
+773
+00:46:31,000 --> 00:46:34,000
+Son los iconitos que están arriba donde dice demo trading.
+
+774
+00:46:34,000 --> 00:46:37,000
+Ahí trae una calculadora, la abres y te da la opción
+
+775
+00:46:37,000 --> 00:46:40,000
+para ver el precio de liquidación.
+
+776
+00:46:40,000 --> 00:46:43,000
+Perfecto. Sí.
+
+777
+00:46:43,000 --> 00:46:46,000
+Y ya le pones los valores que tú quieras y ya te calcula todo.
+
+778
+00:46:46,000 --> 00:46:49,000
+Bueno, ahí está, para todos. Yo eso no me la podía.
+
+779
+00:46:49,000 --> 00:46:52,000
+Es decir, yo no...
+
+780
+00:46:52,000 --> 00:46:55,000
+Con el tema de las comisiones,
+
+781
+00:46:55,000 --> 00:46:58,000
+hay que cobrar.
+
+782
+00:46:58,000 --> 00:47:01,000
+Lo que pasa es que, como yo sé que cuando gane,
+
+783
+00:47:01,000 --> 00:47:04,000
+yo voy a ganar bien.
+
+784
+00:47:04,000 --> 00:47:07,000
+Entonces, el tema de las comisiones, en mi caso, sale sobrando.
+
+785
+00:47:07,000 --> 00:47:10,000
+Bueno, lo de la calculadora está aquí, entonces,
+
+786
+00:47:10,000 --> 00:47:13,000
+por la parte alta.
+
+787
+00:47:13,000 --> 00:47:16,000
+Ustedes ponen ahí cómo lo van a hacer.
+
+788
+00:47:16,000 --> 00:47:19,000
+Yo siempre voy a 5X porque no me gusta que la liquidación quede muy cerca.
+
+789
+00:47:19,000 --> 00:47:22,000
+15.000 dólares, digamos,
+
+790
+00:47:22,000 --> 00:47:25,000
+es todavía poquito, pero...
+
+791
+00:47:25,000 --> 00:47:28,000
+Digamos que ya nos puede dar como una idea
+
+792
+00:47:28,000 --> 00:47:31,000
+cruzado, long, 15.000,
+
+793
+00:47:31,000 --> 00:47:34,000
+mercado, 5X, ok.
+
+794
+00:47:34,000 --> 00:47:37,000
+Ok, ahí queda abierta.
+
+795
+00:47:37,000 --> 00:47:40,000
+Entonces,
+
+796
+00:47:40,000 --> 00:47:43,000
+vamos a ir a ver esta.
+
+797
+00:47:43,000 --> 00:47:46,000
+Si ustedes se fijan,
+
+798
+00:47:46,000 --> 00:47:49,000
+mucha gente opera,
+
+799
+00:47:49,000 --> 00:47:52,000
+o en YouTube, ¿no?
+
+800
+00:47:52,000 --> 00:47:55,000
+Y por aquí les aparece que están en BST.
+
+801
+00:47:55,000 --> 00:47:58,000
+Aquí ve.
+
+802
+00:47:58,000 --> 00:48:01,000
+Y ni siquiera lo tapan y muestran las grandes ganancias que han tenido aquí.
+
+803
+00:48:01,000 --> 00:48:04,000
+No, pues, aquí sí.
+
+804
+00:48:04,000 --> 00:48:07,000
+Sí, como allí es un dinerito de mentira, como que es Monopoly,
+
+805
+00:48:07,000 --> 00:48:10,000
+¿cómo se llama esa cosa?
+
+806
+00:48:10,000 --> 00:48:13,000
+Un 15.000 dólares, ahí comenzás a ver esto rojo, ve.
+
+807
+00:48:13,000 --> 00:48:16,000
+Ese se lio.
+
+808
+00:48:16,000 --> 00:48:19,000
+Liquidación cero.
+
+809
+00:48:22,000 --> 00:48:25,000
+Si yo tengo 100.000 dólares
+
+810
+00:48:25,000 --> 00:48:28,000
+y le meto 15.000 a esto, la liquidación es cero.
+
+811
+00:48:28,000 --> 00:48:31,000
+O sea, lo que tengo que hacer es esperar a que vuelva a subir
+
+812
+00:48:31,000 --> 00:48:34,000
+porque estamos hablando del oro.
+
+813
+00:48:34,000 --> 00:48:37,000
+Ahora si alguien me dice que el oro
+
+814
+00:48:37,000 --> 00:48:40,000
+no va a volver a pasar nunca en la vida por allí,
+
+815
+00:48:40,000 --> 00:48:43,000
+sabiendo que está como en un lateral,
+
+816
+00:48:43,000 --> 00:48:46,000
+desde hace bastante tiempo,
+
+817
+00:48:46,000 --> 00:48:49,000
+eso es lo que yo le llamo
+
+818
+00:48:49,000 --> 00:48:52,000
+quedar como preñado, ¿no?
+
+819
+00:48:52,000 --> 00:48:55,000
+Pero como tengo cero, si cae a 1.800,
+
+820
+00:48:55,000 --> 00:48:58,000
+a 1.500 dólares, compro otra vez
+
+821
+00:48:58,000 --> 00:49:01,000
+unos 15.000 dólares más.
+
+822
+00:49:01,000 --> 00:49:04,000
+Y se, ¿saben qué? Hagámoslo aquí.
+
+823
+00:49:04,000 --> 00:49:07,000
+Lo que pasa es que el precio no va a cambiar
+
+824
+00:49:07,000 --> 00:49:10,000
+porque como sigue estando allí mismo,
+
+825
+00:49:10,000 --> 00:49:13,000
+no va a cambiar pero se suman los contratos
+
+826
+00:49:13,000 --> 00:49:16,000
+y me va a poner un precio de liquidación,
+
+827
+00:49:16,000 --> 00:49:19,000
+pero obviamente ustedes no van a comprar en el mismo precio.
+
+828
+00:49:19,000 --> 00:49:22,000
+Abren esa y allí se quedan.
+
+829
+00:49:22,000 --> 00:49:25,000
+Si comienza a subir, pues comienzan a ganar.
+
+830
+00:49:25,000 --> 00:49:28,000
+Pero imagínense que comienza a caer y se va a 1.800 dólares.
+
+831
+00:49:28,000 --> 00:49:31,000
+Y suponemos que ya está en 1.800 dólares.
+
+832
+00:49:32,000 --> 00:49:35,000
+Bien, entonces otra vez aquí hago lo mismo.
+
+833
+00:49:35,000 --> 00:49:38,000
+Estoy en VST, ¿verdad?
+
+834
+00:49:38,000 --> 00:49:41,000
+Le voy a meter otros 15.000.
+
+835
+00:49:41,000 --> 00:49:44,000
+Que es la misma cantidad,
+
+836
+00:49:44,000 --> 00:49:47,000
+solo que como ya lo estoy agarrando en 1.800,
+
+837
+00:49:47,000 --> 00:49:50,000
+el precio de...
+
+838
+00:49:50,000 --> 00:49:53,000
+Hace como un promedio de ambos,
+
+839
+00:49:53,000 --> 00:49:56,000
+lo divide entre dos y ese va a ser mi precio de entrada.
+
+840
+00:49:56,000 --> 00:49:59,000
+Les explico eso porque ahora en este momento
+
+841
+00:49:59,000 --> 00:50:02,000
+van a ver que cambia porque como el precio sigue siendo el mismo,
+
+842
+00:50:02,000 --> 00:50:05,000
+pues eso no se puede ver, ¿no?
+
+843
+00:50:07,000 --> 00:50:10,000
+Ya cuando cae, ya bonito.
+
+844
+00:50:10,000 --> 00:50:13,000
+Es decir, si está en 2.200, por ejemplo,
+
+845
+00:50:13,000 --> 00:50:16,000
+y cae a 1.800, una caída de 400 dólares para el oro
+
+846
+00:50:16,000 --> 00:50:19,000
+es importante. Entonces allí duplico.
+
+847
+00:50:19,000 --> 00:50:22,000
+En este momento no lo van a poder ver porque
+
+848
+00:50:22,000 --> 00:50:25,000
+no puedo esperar que caiga a 1.800 dólares,
+
+849
+00:50:25,000 --> 00:50:28,000
+pero sería como hacer uno más uno entre dos.
+
+850
+00:50:28,000 --> 00:50:31,000
+Así es, ¿verdad? O sea, al final te quedaría lo mismo.
+
+851
+00:50:31,000 --> 00:50:34,000
+Porque como el precio no se ha movido, más que un par de centavos.
+
+852
+00:50:34,000 --> 00:50:37,000
+Pero en fin, vamos a ver qué pasa.
+
+853
+00:50:40,000 --> 00:50:43,000
+Ah, pero aquí me abrió. Ah, sí, sí, sí.
+
+854
+00:50:43,000 --> 00:50:46,000
+Ya sé por qué pasó esto.
+
+855
+00:50:46,000 --> 00:50:49,000
+Se recuerdan que estamos en estándar.
+
+856
+00:50:49,000 --> 00:50:52,000
+Si ustedes se fijan, aquí
+
+857
+00:50:52,000 --> 00:50:55,000
+ya me pareció un precio de liquidación.
+
+858
+00:50:55,000 --> 00:50:58,000
+Perdón, ¿dónde está? Aquí.
+
+859
+00:50:59,000 --> 00:51:02,000
+Pero ¿por qué aquí abrió
+
+860
+00:51:02,000 --> 00:51:05,000
+otra operación?
+
+861
+00:51:05,000 --> 00:51:08,000
+Sólo que en ésta debería decir el precio de entrada a 1.800, digamos.
+
+862
+00:51:08,000 --> 00:51:11,000
+No éste.
+
+863
+00:51:11,000 --> 00:51:14,000
+En el ejercicio se ve así porque como lo estamos haciendo en vivo, no.
+
+864
+00:51:14,000 --> 00:51:17,000
+Pero en el caso que la primera salga mal,
+
+865
+00:51:17,000 --> 00:51:20,000
+aquí debería decir, perdón, el precio de entrada
+
+866
+00:51:20,000 --> 00:51:23,000
+¿cuál es? Pues ¿dónde está?
+
+867
+00:51:23,000 --> 00:51:26,000
+Aquí, ¿verdad? Aquí diría 1.800
+
+868
+00:51:26,000 --> 00:51:29,000
+dólares. Entonces
+
+869
+00:51:29,000 --> 00:51:32,000
+va a llegar a un punto en que éste va a estar verde
+
+870
+00:51:32,000 --> 00:51:35,000
+y éste rojo. Y allí puedes hacer un break even.
+
+871
+00:51:35,000 --> 00:51:38,000
+Es decir, que la pérdida de ganancia ésta, el PNL,
+
+872
+00:51:38,000 --> 00:51:41,000
+si está...
+
+873
+00:51:41,000 --> 00:51:44,000
+Si cometimos un error, cerramos las dos
+
+874
+00:51:44,000 --> 00:51:47,000
+sin perder.
+
+875
+00:51:47,000 --> 00:51:50,000
+Sí. Ajá.
+
+876
+00:51:50,000 --> 00:51:53,000
+Si el oro y el precio de liquidación están 785
+
+877
+00:51:53,000 --> 00:51:56,000
+en ambas, en éste caso,
+
+878
+00:51:56,000 --> 00:51:59,000
+sólo es cuestión de esperar para ponerse a ganar.
+
+879
+00:51:59,000 --> 00:52:02,000
+Lo que quiero explicar es por qué abrió otra posición
+
+880
+00:52:02,000 --> 00:52:05,000
+y no sumó contratos. ¿Alguien sabe?
+
+881
+00:52:05,000 --> 00:52:08,000
+Exacto.
+
+882
+00:52:08,000 --> 00:52:11,000
+No, es porque es estándar.
+
+883
+00:52:11,000 --> 00:52:14,000
+Este es un contrato estándar
+
+884
+00:52:14,000 --> 00:52:17,000
+porque es el oro. Si fuera
+
+885
+00:52:17,000 --> 00:52:20,000
+un contrato perpetual,
+
+886
+00:52:20,000 --> 00:52:23,000
+ése no abre una segunda posición,
+
+887
+00:52:23,000 --> 00:52:26,000
+ése lo que hace es que duplica
+
+888
+00:52:26,000 --> 00:52:29,000
+y saca promedio.
+
+889
+00:52:29,000 --> 00:52:32,000
+Por eso yo opero perpetual
+
+890
+00:52:32,000 --> 00:52:35,000
+porque me gusta que duplique.
+
+891
+00:52:35,000 --> 00:52:38,000
+Pero en todo caso, en el caso del oro
+
+892
+00:52:38,000 --> 00:52:41,000
+no sería un problema
+
+893
+00:52:41,000 --> 00:52:44,000
+porque igual el precio de liquidación al ser
+
+894
+00:52:44,000 --> 00:52:47,000
+un contrato, usa el total de la cuenta.
+
+895
+00:52:47,000 --> 00:52:50,000
+Bien, ¿alguna pregunta?
+
+896
+00:52:50,000 --> 00:52:53,000
+Los que están en línea. Ajá, dime.
+
+897
+00:52:53,000 --> 00:52:56,000
+Tenemos dos preguntas de este tema
+
+898
+00:52:56,000 --> 00:52:59,000
+de los que están en línea. Pregunto Omar,
+
+899
+00:52:59,000 --> 00:53:02,000
+¿por qué entrar en el oro en gráfico de una hora
+
+900
+00:53:02,000 --> 00:53:05,000
+si en gráfico de cuatro horas hay divergencia bajista?
+
+901
+00:53:05,000 --> 00:53:08,000
+Esa es la primera. No, es que aquí estamos
+
+902
+00:53:08,000 --> 00:53:11,000
+estudiando. Entonces, como alguien me pidió
+
+903
+00:53:11,000 --> 00:53:14,000
+que buscamos eso, fuimos a revisar ése
+
+904
+00:53:14,000 --> 00:53:17,000
+para determinar un patrón.
+
+905
+00:53:17,000 --> 00:53:20,000
+O sea, lo que estamos haciendo es
+
+906
+00:53:20,000 --> 00:53:23,000
+buscamos un patrón y vamos a la operativa.
+
+907
+00:53:23,000 --> 00:53:26,000
+Pero el proceso ya se enseñó anterior y ayer.
+
+908
+00:53:26,000 --> 00:53:29,000
+O sea,
+
+909
+00:53:29,000 --> 00:53:32,000
+eso ya lo enseñé anterior y ayer.
+
+910
+00:53:32,000 --> 00:53:35,000
+Aquí lo que hago es buscar
+
+911
+00:53:35,000 --> 00:53:38,000
+un patrón
+
+912
+00:53:38,000 --> 00:53:41,000
+y lo abrimos para poder explicar lo que estoy
+
+913
+00:53:41,000 --> 00:53:44,000
+explicando aquí en la operativa.
+
+914
+00:53:44,000 --> 00:53:47,000
+Porque si yo busco un patrón
+
+915
+00:53:47,000 --> 00:53:50,000
+que dé entrada ya
+
+916
+00:53:50,000 --> 00:53:53,000
+a esta hora,
+
+917
+00:53:53,000 --> 00:53:56,000
+nos vamos a tardar mucho tiempo y no voy a lograr
+
+918
+00:53:56,000 --> 00:53:59,000
+cubrir el contenido. Entonces, yo no estoy operando
+
+919
+00:53:59,000 --> 00:54:02,000
+en este momento, yo estoy enseñando.
+
+920
+00:54:02,000 --> 00:54:05,000
+Esa es la respuesta. O sea, bueno, ahora que
+
+921
+00:54:05,000 --> 00:54:08,000
+busquemos una entrada,
+
+922
+00:54:08,000 --> 00:54:11,000
+como les enseñé, yo dudo mucho que la vayan ayer
+
+923
+00:54:11,000 --> 00:54:14,000
+en un gráfico de cuatro horas, una hora,
+
+924
+00:54:14,000 --> 00:54:17,000
+teniendo en cuenta que en cuatro horas finaliza.
+
+925
+00:54:17,000 --> 00:54:20,000
+Entonces, yo no puedo esperar
+
+926
+00:54:20,000 --> 00:54:23,000
+o, bueno, decirle que
+
+927
+00:54:23,000 --> 00:54:26,000
+me dé una, que tenga entrada ya.
+
+928
+00:54:26,000 --> 00:54:29,000
+Si la tiene, que me la dé y la vemos.
+
+929
+00:54:29,000 --> 00:54:32,000
+Y entonces sí, no le voy a meter 10 dólares.
+
+930
+00:54:33,000 --> 00:54:36,000
+Pues sí, porque es que por eso yo le meto 10 dólares
+
+931
+00:54:36,000 --> 00:54:39,000
+porque estoy enseñando, si no yo le metiera lo que le meto
+
+932
+00:54:39,000 --> 00:54:42,000
+normal, digamos.
+
+933
+00:54:43,000 --> 00:54:46,000
+Siguiente pregunta.
+
+934
+00:54:46,000 --> 00:54:49,000
+La siguiente pregunta es, ¿por qué te sale
+
+935
+00:54:49,000 --> 00:54:52,000
+precio de liquidación si solo invertiste 25 dólares
+
+936
+00:54:52,000 --> 00:54:55,000
+y tenías 75 extras en los fondos?
+
+937
+00:54:55,000 --> 00:54:58,000
+¿La inversión fue 25 por 5 o fue
+
+938
+00:54:58,000 --> 00:55:01,000
+15 entre 5 de tu capital?
+
+939
+00:55:02,000 --> 00:55:05,000
+Hoy sí me hablaron en chino.
+
+940
+00:55:05,000 --> 00:55:08,000
+Vamos nuevamente. Voy a prestar
+
+941
+00:55:08,000 --> 00:55:11,000
+atención. Ok, yo tengo 100 dólares,
+
+942
+00:55:11,000 --> 00:55:14,000
+pero la posición la abrí con, ¿cuánto dice?
+
+943
+00:55:14,000 --> 00:55:17,000
+Con 25. Ok.
+
+944
+00:55:17,000 --> 00:55:20,000
+¿Y por qué me puso precio de liquidación?
+
+945
+00:55:20,000 --> 00:55:23,000
+Bueno, porque el 75%
+
+946
+00:55:23,000 --> 00:55:26,000
+restante queda ahí como
+
+947
+00:55:26,000 --> 00:55:29,000
+como
+
+948
+00:55:29,000 --> 00:55:32,000
+le digo, como un soporte, como
+
+949
+00:55:32,000 --> 00:55:35,000
+una garantía de que en caso de que el precio
+
+950
+00:55:35,000 --> 00:55:38,000
+llegue a tocar el precio de liquidación me van a quitar ese
+
+951
+00:55:38,000 --> 00:55:41,000
+dinero a mí. Como que estoy empeñando pues.
+
+952
+00:55:41,000 --> 00:55:44,000
+Yo dejo empeñado el 75% diciéndole
+
+953
+00:55:44,000 --> 00:55:47,000
+el exchange. Ok, si el precio cae
+
+954
+00:55:47,000 --> 00:55:50,000
+480 dólares, quítamelo todo.
+
+955
+00:55:50,000 --> 00:55:53,000
+Pero si el precio llega a subir, yo te gano.
+
+956
+00:55:54,000 --> 00:55:57,000
+Como que estuvieras empeñando
+
+957
+00:55:57,000 --> 00:56:00,000
+el 75%.
+
+958
+00:56:00,000 --> 00:56:03,000
+Bueno, porque ese es un tema
+
+959
+00:56:03,000 --> 00:56:06,000
+del exchange también.
+
+960
+00:56:08,000 --> 00:56:11,000
+Seguimos.
+
+961
+00:56:11,000 --> 00:56:14,000
+La siguiente pregunta es,
+
+962
+00:56:14,000 --> 00:56:17,000
+Jaime, en el ejemplo de Loro Futuros a 5X
+
+963
+00:56:17,000 --> 00:56:20,000
+mencionas que no hay liquidación, pero yo al hacer el ejercicio
+
+964
+00:56:20,000 --> 00:56:23,000
+me sale una liquidación en 1840
+
+965
+00:56:23,000 --> 00:56:26,000
+independientemente del monto que ponga.
+
+966
+00:56:26,000 --> 00:56:29,000
+Ese es otro
+
+967
+00:56:29,000 --> 00:56:32,000
+punto del exchange, porque yo no sé
+
+968
+00:56:32,000 --> 00:56:35,000
+o sea, yo lo hagan ustedes a ver si es cierto,
+
+969
+00:56:35,000 --> 00:56:38,000
+pero usen el mismo porcentaje que yo he usado
+
+970
+00:56:38,000 --> 00:56:41,000
+con la misma configuración
+
+971
+00:56:41,000 --> 00:56:44,000
+y veamos a ver si es cierto, porque eso no puede pasar.
+
+972
+00:56:44,000 --> 00:56:47,000
+A mí me
+
+973
+00:56:47,000 --> 00:56:50,000
+me imagino que se le olvidó cambiar de cruzado aislado y por eso
+
+974
+00:56:50,000 --> 00:56:53,000
+se le quedó así el precio de liquidación.
+
+975
+00:56:53,000 --> 00:56:56,000
+Yo también, porque por eso les digo que hay que poner atención,
+
+976
+00:56:56,000 --> 00:56:59,000
+porque si están haciendo una cosa que yo no estoy enseñando, van a perder.
+
+977
+00:56:59,000 --> 00:57:02,000
+Ojo, porque esto es dinero
+
+978
+00:57:02,000 --> 00:57:05,000
+y no quiero que me vayan a andar buscando ya por la esquina.
+
+979
+00:57:05,000 --> 00:57:08,000
+No, pongámosle atención a esto, porque
+
+980
+00:57:08,000 --> 00:57:11,000
+el exchange no puede, bueno,
+
+981
+00:57:11,000 --> 00:57:14,000
+tal vez le puede variar unos centavos,
+
+982
+00:57:14,000 --> 00:57:17,000
+pero el precio no se ha movido, pues.
+
+983
+00:57:17,000 --> 00:57:20,000
+Pero si yo lo hago aquí y él me demuestra
+
+984
+00:57:20,000 --> 00:57:23,000
+que haciendo lo mismo que hago yo, a él le pone un precio de liquidación
+
+985
+00:57:23,000 --> 00:57:26,000
+en 2000 dólares y a mí me lo pone en 1800,
+
+986
+00:57:26,000 --> 00:57:29,000
+aquí le llamo
+
+987
+00:57:29,000 --> 00:57:32,000
+al jefe ya, que no sirve.
+
+988
+00:57:32,000 --> 00:57:35,000
+Pero eso no está pasando,
+
+989
+00:57:35,000 --> 00:57:38,000
+el error está del lado del usuario.
+
+990
+00:57:38,000 --> 00:57:41,000
+Entonces la respuesta es esa, que verifique qué está haciendo,
+
+991
+00:57:41,000 --> 00:57:44,000
+porque eso no es así,
+
+992
+00:57:44,000 --> 00:57:47,000
+no funciona así.
+
+993
+00:57:47,000 --> 00:57:50,000
+Es que esto ya está configurado, o sea, no hay un chinito detrás
+
+994
+00:57:50,000 --> 00:57:53,000
+ahí con un botón rojo, aquí viene Juan,
+
+995
+00:57:53,000 --> 00:57:56,000
+no, esto ya está configurado,
+
+996
+00:57:56,000 --> 00:57:59,000
+o sea, hay millones de usuarios ahí.
+
+997
+00:57:59,000 --> 00:58:02,000
+Pues sí, o nos joden a todos o no.
+
+998
+00:58:02,000 --> 00:58:05,000
+No, están haciendo algo diferente, seguimos.
+
+999
+00:58:05,000 --> 00:58:08,000
+Bueno, principalmente esas son las preguntas,
+
+1000
+00:58:08,000 --> 00:58:11,000
+otras en el chat están pidiendo continuar
+
+1001
+00:58:11,000 --> 00:58:14,000
+con lo que sigue.
+
+1002
+00:58:14,000 --> 00:58:17,000
+Dice, no, pero aquí alguien dice que ya perdimos mucho tiempo con BinX.
+
+1003
+00:58:17,000 --> 00:58:20,000
+Y entonces, ¿dónde va a operar usted?
+
+1004
+00:58:20,000 --> 00:58:23,000
+Que yo sepa en Trading View,
+
+1005
+00:58:23,000 --> 00:58:26,000
+no puedo comprar nada. ¿A quién compra Trading View aquí?
+
+1006
+00:58:29,000 --> 00:58:32,000
+Yo compro
+
+1007
+00:58:32,000 --> 00:58:35,000
+utilizando un exchange.
+
+1008
+00:58:35,000 --> 00:58:38,000
+Dice que pierdo mucho tiempo con BinX,
+
+1009
+00:58:38,000 --> 00:58:41,000
+y que esperaban que solo analizáramos los numeritos,
+
+1010
+00:58:41,000 --> 00:58:44,000
+las velitas verdes o rojas.
+
+1011
+00:58:44,000 --> 00:58:47,000
+¿Cómo se nota que están acostumbrados, no ustedes,
+
+1012
+00:58:47,000 --> 00:58:50,000
+algunos ahí, a comprar cursos?
+
+1013
+00:58:50,000 --> 00:58:53,000
+Esto es lo que sirve, esto.
+
+1014
+00:58:53,000 --> 00:58:56,000
+Porque usted en la noche
+
+1015
+00:58:56,000 --> 00:58:59,000
+no va a estar operando velitas rojas.
+
+1016
+00:58:59,000 --> 00:59:02,000
+Aquí es, o ¿dónde operan?
+
+1017
+00:59:03,000 --> 00:59:06,000
+Es que aquí no se trata de BinX.
+
+1018
+00:59:06,000 --> 00:59:09,000
+Yo ya le dije, vaya al exchange, que a usted le vaya bien.
+
+1019
+00:59:09,000 --> 00:59:12,000
+¿Y dónde va a ir a comprar?
+
+1020
+00:59:12,000 --> 00:59:15,000
+Bueno, porque yo aquí no sé cómo comprar.
+
+1021
+00:59:15,000 --> 00:59:18,000
+¿Cómo compro eso?
+
+1022
+00:59:18,000 --> 00:59:21,000
+Si ese es el gráfico del oro,
+
+1023
+00:59:21,000 --> 00:59:24,000
+no el oro, ahí no hay lingotes.
+
+1024
+00:59:24,000 --> 00:59:27,000
+Yo lo que hago es analizarlo ahí
+
+1025
+00:59:27,000 --> 00:59:30,000
+y determinar qué probabilidades
+
+1026
+00:59:30,000 --> 00:59:33,000
+tengo de que suba.
+
+1027
+00:59:33,000 --> 00:59:36,000
+Pongo la flecha, hago mi análisis,
+
+1028
+00:59:36,000 --> 00:59:39,000
+pendiente negativo, tengo desarrollo,
+
+1029
+00:59:39,000 --> 00:59:42,000
+hay volumen, el precio cae sobre la media,
+
+1030
+00:59:42,000 --> 00:59:45,000
+el punto de control, calculo mi stock,
+
+1031
+00:59:45,000 --> 00:59:48,000
+abro la operación.
+
+1032
+00:59:48,000 --> 00:59:51,000
+¿Y ahora qué? No, pues a ganar.
+
+1033
+00:59:51,000 --> 00:59:54,000
+¿En dónde, pues?
+
+1034
+00:59:54,000 --> 00:59:57,000
+Hay que ir al exchange a comprar,
+
+1035
+00:59:58,000 --> 01:00:01,000
+yo no sé qué esperan, pero yo vengo a enseñar
+
+1036
+01:00:01,000 --> 01:00:04,000
+y a operar.
+
+1037
+01:00:04,000 --> 01:00:07,000
+Yo no vengo aquí con ideas de la teoría,
+
+1038
+01:00:07,000 --> 01:00:10,000
+la velita, y entonces bye bye a todos.
+
+1039
+01:00:10,000 --> 01:00:13,000
+No, aquí es, seguimos.
+
+1040
+01:00:13,000 --> 01:00:16,000
+No, es que yo no sé dónde piensan
+
+1041
+01:00:16,000 --> 01:00:19,000
+comprar, porque ya perdimos mucho tiempo.
+
+1042
+01:00:19,000 --> 01:00:22,000
+Si es que hoy aquí venimos a operar,
+
+1043
+01:00:22,000 --> 01:00:25,000
+no venimos ya a estar con velitas verdes.
+
+1044
+01:00:25,000 --> 01:00:28,000
+Aquí es con billete, que no se puede
+
+1045
+01:00:28,000 --> 01:00:31,000
+ganar billete si no me te billete, pues.
+
+1046
+01:00:31,000 --> 01:00:34,000
+Con análisis no le gana.
+
+1047
+01:00:34,000 --> 01:00:37,000
+Bueno, el que te venga por eso es ese.
+
+1048
+01:00:37,000 --> 01:00:40,000
+Ese se va a ganar. Nosotros no.
+
+1049
+01:00:40,000 --> 01:00:43,000
+Nosotros vamos al mercado. Ahora usted vaya
+
+1050
+01:00:43,000 --> 01:00:46,000
+a cualquier otro exchange que a usted le vaya bien.
+
+1051
+01:00:46,000 --> 01:00:49,000
+Bien, seguimos.
+
+1052
+01:00:51,000 --> 01:00:54,000
+Ajá.
+
+1053
+01:00:54,000 --> 01:00:57,000
+Aquí tenemos otra en línea. Dice,
+
+1054
+01:00:57,000 --> 01:01:00,000
+explicaste sobre cómo poner órdenes de compra hacia abajo.
+
+1055
+01:01:00,000 --> 01:01:03,000
+¿Puedes repetir los porcentajes y las distancias entre cada
+
+1056
+01:01:03,000 --> 01:01:06,000
+compra? No, porque este es un ejemplo
+
+1057
+01:01:06,000 --> 01:01:09,000
+y eso va a depender del activo.
+
+1058
+01:01:09,000 --> 01:01:12,000
+No es lo mismo decir que en el oro
+
+1059
+01:01:12,000 --> 01:01:15,000
+si cae 400 dólares voy a duplicar
+
+1060
+01:01:15,000 --> 01:01:18,000
+a decir que en bitcoin si cae 400
+
+1061
+01:01:18,000 --> 01:01:21,000
+dólares voy a duplicar.
+
+1062
+01:01:21,000 --> 01:01:24,000
+¿Te imaginás comprar en 70 mil y luego en 69
+
+1063
+01:01:24,000 --> 01:01:27,000
+mil 600 a duplicar?
+
+1064
+01:01:27,000 --> 01:01:30,000
+No. O que en XRP vayas a duplicar
+
+1065
+01:01:30,000 --> 01:01:33,000
+porque te cayó un centavo.
+
+1066
+01:01:33,000 --> 01:01:36,000
+Eso depende del activo
+
+1067
+01:01:36,000 --> 01:01:39,000
+en cuestión. O sea, esa es la parte
+
+1068
+01:01:39,000 --> 01:01:42,000
+que yo le digo de los otros dos factores, especulación
+
+1069
+01:01:42,000 --> 01:01:45,000
+y manipulación en el especulador.
+
+1070
+01:01:45,000 --> 01:01:48,000
+Somos nosotros. Entonces,
+
+1071
+01:01:48,000 --> 01:01:51,000
+si yo pudiera, yo le agarrara como una pedrada
+
+1072
+01:01:51,000 --> 01:01:54,000
+y se la tiro de experiencia para que como que le caiga
+
+1073
+01:01:54,000 --> 01:01:57,000
+a usted y ya tenga experiencia.
+
+1074
+01:01:57,000 --> 01:02:00,000
+Eso se gana aquí.
+
+1075
+01:02:00,000 --> 01:02:03,000
+Bueno, en Trading View haciendo el análisis, no. Pero la
+
+1076
+01:02:03,000 --> 01:02:06,000
+experiencia se gana ya cuando vas al exchange y comenzas
+
+1077
+01:02:06,000 --> 01:02:09,000
+a perder dinero y porque allí te enseñan bien.
+
+1078
+01:02:09,000 --> 01:02:12,000
+Ni BinX, ni Binance,
+
+1079
+01:02:12,000 --> 01:02:15,000
+ni Poloniex, ni Coinbase,
+
+1080
+01:02:15,000 --> 01:02:18,000
+nadie te va a hacer el favor.
+
+1081
+01:02:18,000 --> 01:02:21,000
+Si comenzas a perder después de abrir una posición,
+
+1082
+01:02:21,000 --> 01:02:24,000
+no le van a hacer el favor. Lo van a mandar a la esquina.
+
+1083
+01:02:24,000 --> 01:02:27,000
+En Trading View a nadie mandan a la esquina.
+
+1084
+01:02:27,000 --> 01:02:30,000
+Si estos son buena gente. Ahí.
+
+1085
+01:02:30,000 --> 01:02:33,000
+Aquí.
+
+1086
+01:02:33,000 --> 01:02:36,000
+Uy, dicen, esa cosa salió bien.
+
+1087
+01:02:36,000 --> 01:02:39,000
+¿Y cuánto gano? Ah, no, no, nada.
+
+1088
+01:02:39,000 --> 01:02:42,000
+¿Y como por qué? No, pues que yo soy
+
+1089
+01:02:42,000 --> 01:02:45,000
+analista. Ah, bueno. Pero usted no vive de esto.
+
+1090
+01:02:45,000 --> 01:02:48,000
+Te analiza.
+
+1091
+01:02:48,000 --> 01:02:51,000
+Luego vende algo. Perfecto.
+
+1092
+01:02:51,000 --> 01:02:54,000
+O van a vender cursos ustedes porque entonces sí está bien.
+
+1093
+01:02:54,000 --> 01:02:57,000
+Allí sí va a servir.
+
+1094
+01:02:57,000 --> 01:03:00,000
+Pero si quieren multiplicar su capital,
+
+1095
+01:03:00,000 --> 01:03:03,000
+no se queden con el análisis.
+
+1096
+01:03:03,000 --> 01:03:06,000
+El análisis lo hacemos y luego vamos y metemos el dinero.
+
+1097
+01:03:06,000 --> 01:03:09,000
+¿Sino para qué, pues?
+
+1098
+01:03:10,000 --> 01:03:13,000
+Adelante.
+
+1099
+01:03:13,000 --> 01:03:16,000
+Digo, yo he aprendido contigo que las compras en Spot son unas.
+
+1100
+01:03:16,000 --> 01:03:19,000
+Estás comprando, es tuyo. Y cuando es en Futuros,
+
+1101
+01:03:19,000 --> 01:03:22,000
+pues obviamente es algo que no tienes. Correcto.
+
+1102
+01:03:22,000 --> 01:03:25,000
+Ahí lo que veo es que estás apalancado.
+
+1103
+01:03:25,000 --> 01:03:28,000
+Estás a 5X con una compra en Spot en oro.
+
+1104
+01:03:28,000 --> 01:03:31,000
+O sea, no es Spot.
+
+1105
+01:03:31,000 --> 01:03:34,000
+Ese es el nombre que le pone Venex. Ah, solamente es.
+
+1106
+01:03:34,000 --> 01:03:37,000
+Porque usa el precio de Spot. Ah, de acuerdo.
+
+1107
+01:03:37,000 --> 01:03:40,000
+Pero no es Spot. Eso es Futuros.
+
+1108
+01:03:40,000 --> 01:03:43,000
+El Spot de oro es este niño que ves aquí.
+
+1109
+01:03:43,000 --> 01:03:46,000
+O el reloj este.
+
+1110
+01:03:46,000 --> 01:03:49,000
+Ese es el Spot de oro. O el reloj que anda.
+
+1111
+01:03:49,000 --> 01:03:52,000
+¿Qué se hizo? No vino hoy.
+
+1112
+01:03:52,000 --> 01:03:55,000
+No, no, no. Le robaron el reloj.
+
+1113
+01:03:55,000 --> 01:03:58,000
+¡Vos sos!
+
+1114
+01:03:58,000 --> 01:04:01,000
+Ese es el Spot del oro. No crean ustedes que yo ando esto.
+
+1115
+01:04:01,000 --> 01:04:04,000
+¿Por qué se mira? Bueno, se mira bonito, sí.
+
+1116
+01:04:04,000 --> 01:04:07,000
+Yo dije inversión. Es oro.
+
+1117
+01:04:07,000 --> 01:04:10,000
+El reloj igual es oro a cero.
+
+1118
+01:04:10,000 --> 01:04:13,000
+Entonces el Spot del oro es esto.
+
+1119
+01:04:13,000 --> 01:04:16,000
+Esto es Futuros. Obviamente esto es peligroso.
+
+1120
+01:04:16,000 --> 01:04:19,000
+Es lo que le digo. Esto no es portable.
+
+1121
+01:04:19,000 --> 01:04:22,000
+Yo paso ahí por la cosa esta en las
+
+1122
+01:04:22,000 --> 01:04:25,000
+declaraciones de impuestos. Se me quedan viendo.
+
+1123
+01:04:25,000 --> 01:04:28,000
+Y como que...
+
+1124
+01:04:28,000 --> 01:04:31,000
+Y yo sí va.
+
+1125
+01:04:31,000 --> 01:04:34,000
+Y Bitcoin no. Porque yo llevo los Bitcoin aquí.
+
+1126
+01:04:34,000 --> 01:04:37,000
+Llevo más que aquí.
+
+1127
+01:04:37,000 --> 01:04:40,000
+¿Ven? Entonces, eso es Futuros.
+
+1128
+01:04:40,000 --> 01:04:43,000
+Aunque allí diga Spot, vos no les creas.
+
+1129
+01:04:43,000 --> 01:04:46,000
+Seguimos.
+
+1130
+01:04:46,000 --> 01:04:49,000
+Preguntan, ¿se puede ingresar más dinero en una cuenta
+
+1131
+01:04:49,000 --> 01:04:52,000
+de Futuros Cruzados para respaldar que no exista liquidación
+
+1132
+01:04:52,000 --> 01:04:55,000
+de la cuenta? Por supuesto.
+
+1133
+01:04:55,000 --> 01:04:58,000
+Claro. Y por eso tenemos la gestión del capital.
+
+1134
+01:04:58,000 --> 01:05:01,000
+Vamos a asumir que cometimos un error y nos tomamos
+
+1135
+01:05:01,000 --> 01:05:04,000
+unas copas como ayer con ellos.
+
+1136
+01:05:04,000 --> 01:05:07,000
+Estábamos contentos todos a medianoche.
+
+1137
+01:05:07,000 --> 01:05:10,000
+Y a alguien se le ocurre. Pero vamos al exchange.
+
+1138
+01:05:10,000 --> 01:05:13,000
+Critiquen lo que quieran. Usted vaya al exchange que a usted le convenga.
+
+1139
+01:05:13,000 --> 01:05:16,000
+Vamos a asumir que yo estoy aquí.
+
+1140
+01:05:16,000 --> 01:05:19,000
+Y estoy pariendo enanos.
+
+1141
+01:05:19,000 --> 01:05:22,000
+O sea, estoy que ya casi llega al 785
+
+1142
+01:05:22,000 --> 01:05:25,000
+y me van a liquidar. Bien.
+
+1143
+01:05:25,000 --> 01:05:28,000
+Y esto representa el capital que yo tengo.
+
+1144
+01:05:40,000 --> 01:05:43,000
+Por aquí les va a aparecer cuánto les queda de capital.
+
+1145
+01:05:43,000 --> 01:05:46,000
+Aquí el disponible. Si usted se fija en el disponible,
+
+1146
+01:05:46,000 --> 01:05:49,000
+va cambiándonos.
+
+1147
+01:05:49,000 --> 01:05:52,000
+Aquí en el disponible. Imagínense que ya le va quedando
+
+1148
+01:05:52,000 --> 01:05:55,000
+unos 100 dólares.
+
+1149
+01:05:55,000 --> 01:05:58,000
+Está usted a punto de que lo manden en la esquina.
+
+1150
+01:05:58,000 --> 01:06:01,000
+Lo que usted hace, si tiene capital,
+
+1151
+01:06:01,000 --> 01:06:04,000
+es que aquí le mete unos 30 mil dólares más
+
+1152
+01:06:04,000 --> 01:06:07,000
+y a cero otra vez el precio de liquidación.
+
+1153
+01:06:07,000 --> 01:06:10,000
+Entonces,
+
+1154
+01:06:10,000 --> 01:06:13,000
+aquí llegamos al punto y decimos, entonces quién es el que gana
+
+1155
+01:06:13,000 --> 01:06:16,000
+en el mercado? El que tiene dinero.
+
+1156
+01:06:16,000 --> 01:06:19,000
+¿Cómo lo van a liquidar? ¿Cómo lo van a liquidar si él le mete más
+
+1157
+01:06:19,000 --> 01:06:22,000
+dinero aquí? Y el precio de liquidación
+
+1158
+01:06:22,000 --> 01:06:25,000
+lo vuelve a mandar a cero.
+
+1159
+01:06:25,000 --> 01:06:28,000
+Y como sabemos que es el oro,
+
+1160
+01:06:28,000 --> 01:06:31,000
+cuando agarra el movimiento alcista, a ganar va a ir.
+
+1161
+01:06:31,000 --> 01:06:34,000
+Por eso,
+
+1162
+01:06:34,000 --> 01:06:37,000
+Sailor no va a perder.
+
+1163
+01:06:37,000 --> 01:06:40,000
+No hay manera que pierda. Nosotros sí.
+
+1164
+01:06:40,000 --> 01:06:43,000
+Haciendo eso en el oro, no van a perder.
+
+1165
+01:06:43,000 --> 01:06:46,000
+O sea, eso es técnico, eso es práctico, eso es operativo,
+
+1166
+01:06:46,000 --> 01:06:49,000
+no es operativo en el mercado, operando, no analizando.
+
+1167
+01:06:49,000 --> 01:06:52,000
+Entonces,
+
+1168
+01:06:52,000 --> 01:06:55,000
+usted le mete más dinero y ya está, se fue a cero otra vez el precio de liquidación.
+
+1169
+01:06:55,000 --> 01:06:58,000
+Asumiendo que cometió un error
+
+1170
+01:06:58,000 --> 01:07:01,000
+a la hora de abrir la operación.
+
+1171
+01:07:01,000 --> 01:07:04,000
+Pero si usted lo hace bien, no debería de pasar por esas cosas.
+
+1172
+01:07:04,000 --> 01:07:07,000
+Bien, siguiente pregunta
+
+1173
+01:07:07,000 --> 01:07:10,000
+porque vamos a pasar al siguiente.
+
+1174
+01:07:10,000 --> 01:07:13,000
+Es una pregunta técnica
+
+1175
+01:07:13,000 --> 01:07:16,000
+Me quise poner el stop loss y el limit,
+
+1176
+01:07:16,000 --> 01:07:19,000
+el take profit, perdón.
+
+1177
+01:07:19,000 --> 01:07:22,000
+Pensé que no más era habilitando la parte del lado derecho, pero no hay que
+
+1178
+01:07:22,000 --> 01:07:25,000
+como darle doble clic a donde está el precio.
+
+1179
+01:07:25,000 --> 01:07:28,000
+Porque yo le di a activar ahí donde dice take profit,
+
+1180
+01:07:28,000 --> 01:07:31,000
+del lado derecho, donde está abajo del apalancamiento.
+
+1181
+01:07:31,000 --> 01:07:34,000
+Y no se puso solo, no sé si es por
+
+1182
+01:07:34,000 --> 01:07:37,000
+el venex o...
+
+1183
+01:07:37,000 --> 01:07:40,000
+Mira, fíjate que antes de abrir la operación,
+
+1184
+01:07:40,000 --> 01:07:43,000
+ya una vez abierta, yo lo que hago es que le doy doble clic aquí
+
+1185
+01:07:43,000 --> 01:07:46,000
+y lo habilito aquí.
+
+1186
+01:07:46,000 --> 01:07:49,000
+Y lo pongo aquí, digamos, lo voy a poner en 1800
+
+1187
+01:07:49,000 --> 01:07:52,000
+y le doy confirmar.
+
+1188
+01:07:52,000 --> 01:07:55,000
+Me lo mando muy abajo, perdón.
+
+1189
+01:07:55,000 --> 01:07:58,000
+¿Te digas que tu lado derecho no se activó?
+
+1190
+01:07:58,000 --> 01:08:01,000
+O sea, ¿no tiene nada que ver entonces eso?
+
+1191
+01:08:01,000 --> 01:08:04,000
+Sí, pero antes de abrir la operación. ¿Solo desde antes?
+
+1192
+01:08:04,000 --> 01:08:07,000
+O sea, lo tienes ahí para que antes de abrir la operación,
+
+1193
+01:08:07,000 --> 01:08:10,000
+tú defines el stop, pero ya una vez abierta,
+
+1194
+01:08:10,000 --> 01:08:13,000
+pues no porque...
+
+1195
+01:08:13,000 --> 01:08:16,000
+O sea, ya la tienes abierta.
+
+1196
+01:08:16,000 --> 01:08:19,000
+Entonces, ¿cuánto le ponemos para que se ve ahí topadito?
+
+1197
+01:08:19,000 --> 01:08:22,000
+Lo voy a poner 2280.
+
+1198
+01:08:22,000 --> 01:08:25,000
+Sí.
+
+1199
+01:08:25,000 --> 01:08:28,000
+2280.
+
+1200
+01:08:28,000 --> 01:08:31,000
+Ahora sí, ya lo ves ahí, ¿verdad?
+
+1201
+01:08:31,000 --> 01:08:34,000
+Ahí lo ves que está topadito.
+
+1202
+01:08:34,000 --> 01:08:37,000
+Para que te fijes, como el lado derecho sigue desactivado,
+
+1203
+01:08:37,000 --> 01:08:40,000
+entonces no sé si se tenía alguna relación con eso.
+
+1204
+01:08:40,000 --> 01:08:43,000
+No, ahora tú ves,
+
+1205
+01:08:43,000 --> 01:08:46,000
+esta operación que tiene este stop,
+
+1206
+01:08:46,000 --> 01:08:49,000
+esto que está aquí, abramos otra,
+
+1207
+01:08:49,000 --> 01:08:52,000
+así que como aquí estamos en PST, ni siquiera estoy utilizando mi dinero aquí.
+
+1208
+01:08:55,000 --> 01:08:58,000
+Pues sí, éste.
+
+1209
+01:08:58,000 --> 01:09:01,000
+Sí, claro, pero como la operación ya está abierta,
+
+1210
+01:09:01,000 --> 01:09:04,000
+para explicarle eso, digamos aquí voy con...
+
+1211
+01:09:04,000 --> 01:09:07,000
+Cuánto? No, pongámosle mil dólares.
+
+1212
+01:09:07,000 --> 01:09:10,000
+Entonces, como yo estoy en este momento configurando
+
+1213
+01:09:10,000 --> 01:09:13,000
+el trade que voy a abrir,
+
+1214
+01:09:13,000 --> 01:09:16,000
+entonces aquí yo estoy configurando.
+
+1215
+01:09:16,000 --> 01:09:19,000
+Voy a 5X y aquí lo activo de una sola vez.
+
+1216
+01:09:19,000 --> 01:09:22,000
+Stoplo 50, dice.
+
+1217
+01:09:22,000 --> 01:09:25,000
+Y lo puedes usar en porcentajes o en dólares.
+
+1218
+01:09:25,000 --> 01:09:28,000
+Digamos que voy en porcentaje.
+
+1219
+01:09:28,000 --> 01:09:31,000
+Estoy dispuesto a perder un 50%.
+
+1220
+01:09:31,000 --> 01:09:34,000
+Estoy dispuesto a perder un 7.
+
+1221
+01:09:34,000 --> 01:09:37,000
+Porque voy a 5X. ¿Se acuerdan que ya hicimos el análisis en Trading View?
+
+1222
+01:09:37,000 --> 01:09:40,000
+Entonces, aquí lo abro
+
+1223
+01:09:40,000 --> 01:09:43,000
+y aquí abajo ya tendría que aparecer.
+
+1224
+01:09:43,000 --> 01:09:46,000
+El del stop,
+
+1225
+01:09:46,000 --> 01:09:49,000
+déjame ver si lo puedo...
+
+1226
+01:09:49,000 --> 01:09:52,000
+Ah, es que por la laptop, ¿verdad?
+
+1227
+01:09:52,000 --> 01:09:55,000
+Por aquí ya aparece.
+
+1228
+01:09:55,000 --> 01:09:58,000
+Mira, ya dió un solo, ¿te apareció?
+
+1229
+01:09:58,000 --> 01:10:01,000
+Aquí.
+
+1230
+01:10:01,000 --> 01:10:04,000
+O sea, que básicamente esos dos que te aparecen
+
+1231
+01:10:04,000 --> 01:10:07,000
+es para configurar la operación
+
+1232
+01:10:07,000 --> 01:10:10,000
+antes de abrirla.
+
+1233
+01:10:10,000 --> 01:10:13,000
+Ya dejás todo configurado, la abrís y se acabó.
+
+1234
+01:10:13,000 --> 01:10:16,000
+Ahora, ¿en qué se basa esa operación?
+
+1235
+01:10:16,000 --> 01:10:19,000
+En el análisis que ya hicimos aquí.
+
+1236
+01:10:19,000 --> 01:10:22,000
+Por eso es que...
+
+1237
+01:10:22,000 --> 01:10:25,000
+La gente se enoja conmigo porque le doy palo.
+
+1238
+01:10:25,000 --> 01:10:28,000
+Pero es que aquí, ¿quién compra oro aquí?
+
+1239
+01:10:28,000 --> 01:10:31,000
+Bueno, también puede conectarse directamente al Exchange.
+
+1240
+01:10:31,000 --> 01:10:34,000
+Eso estaría bien.
+
+1241
+01:10:34,000 --> 01:10:37,000
+Pero ¿por qué no les enseño a hacer eso? Porque a mí no me cuesta nada decirles
+
+1242
+01:10:37,000 --> 01:10:40,000
+que en vez de estar en paper trading
+
+1243
+01:10:40,000 --> 01:10:43,000
+se salgan, yo lo voy a hacer, por ejemplo, voy a hacer la recesión
+
+1244
+01:10:43,000 --> 01:10:46,000
+y vengo de aquí y se conecten.
+
+1245
+01:10:46,000 --> 01:10:49,000
+Pero ¿por qué no hago eso?
+
+1246
+01:10:49,000 --> 01:10:52,000
+Por eso, nosotros abrimos la operación sin calcular
+
+1247
+01:10:52,000 --> 01:10:55,000
+el stop primero.
+
+1248
+01:10:55,000 --> 01:10:58,000
+Entonces, si el stop es muy grande,
+
+1249
+01:11:01,000 --> 01:11:04,000
+cuando le das comprar, de una sola vez
+
+1250
+01:11:04,000 --> 01:11:07,000
+te abre el stop en el Exchange.
+
+1251
+01:11:07,000 --> 01:11:10,000
+Y después...
+
+1252
+01:11:10,000 --> 01:11:13,000
+O sea, no te queda como un tiempo para analizar
+
+1253
+01:11:13,000 --> 01:11:16,000
+si el stop es correcto para la operativa.
+
+1254
+01:11:19,000 --> 01:11:22,000
+¿Microfono?
+
+1255
+01:11:22,000 --> 01:11:25,000
+Vamos a avanzar porque necesito enseñar otras herramientas
+
+1256
+01:11:25,000 --> 01:11:28,000
+para que... Yo lo que quiero es que ustedes ganen.
+
+1257
+01:11:28,000 --> 01:11:31,000
+A mí no me importa si ganan en el oro o en piedras
+
+1258
+01:11:31,000 --> 01:11:34,000
+o en lo que sea, pero yo les estoy enseñando
+
+1259
+01:11:34,000 --> 01:11:37,000
+lo que es más seguro.
+
+1260
+01:11:37,000 --> 01:11:40,000
+Lo que nos habías enseñado ayer del movimiento
+
+1261
+01:11:40,000 --> 01:11:43,000
+del Target que hacías en TradingView,
+
+1262
+01:11:43,000 --> 01:11:46,000
+¿cómo es similar a lo que estabas aplicando ahorita en BinX?
+
+1263
+01:11:46,000 --> 01:11:49,000
+De moverlo. Digamos, si ven caída, que lo ibas moviendo
+
+1264
+01:11:49,000 --> 01:11:52,000
+y lo ibas moviendo hasta donde querías.
+
+1265
+01:11:52,000 --> 01:11:55,000
+Sí, me conecto y volvemos ahí.
+
+1266
+01:11:55,000 --> 01:11:58,000
+Ya vamos a ver.
+
+1267
+01:11:58,000 --> 01:12:01,000
+Vamos a ver.
+
+1268
+01:12:01,000 --> 01:12:04,000
+Pero tengo que cerrar una porque aquí ya está todo
+
+1269
+01:12:04,000 --> 01:12:07,000
+montonado.
+
+1270
+01:12:07,000 --> 01:12:10,000
+Esta la voy a cerrar.
+
+1271
+01:12:10,000 --> 01:12:13,000
+Recuerden que esto es BST, ni siquiera estoy operando
+
+1272
+01:12:13,000 --> 01:12:16,000
+el dinero real.
+
+1273
+01:12:16,000 --> 01:12:19,000
+Esto, miren, si se fijan, el Stop es el que tengo seguro.
+
+1274
+01:12:19,000 --> 01:12:22,000
+O sea, yo ya sé cuánto voy a perder.
+
+1275
+01:12:22,000 --> 01:12:25,000
+Ahora, vamos a asumir que sale bien.
+
+1276
+01:12:25,000 --> 01:12:28,000
+Entonces, aquí yo voy a ponerle, por ejemplo,
+
+1277
+01:12:28,000 --> 01:12:31,000
+voy a activar el... Voy a añadir
+
+1278
+01:12:31,000 --> 01:12:34,000
+y le voy a poner el Take Profit.
+
+1279
+01:12:34,000 --> 01:12:37,000
+Yo el Take Profit me lo voy a inventar.
+
+1280
+01:12:37,000 --> 01:12:40,000
+Porque no hay manera de saber en un futuro
+
+1281
+01:12:40,000 --> 01:12:43,000
+porque depende del dinero que va a entrar.
+
+1282
+01:12:43,000 --> 01:12:46,000
+¿Sí o no? Bien, entonces, yo le voy a...
+
+1283
+01:12:46,000 --> 01:12:49,000
+Una cosa loca, dos mil...
+
+1284
+01:12:49,000 --> 01:12:52,000
+Le voy a decir que quiero vender en dos mil quinientos.
+
+1285
+01:12:52,000 --> 01:12:55,000
+¿Y por qué va a subir hasta allí?
+
+1286
+01:12:55,000 --> 01:12:58,000
+Me van a decir. No, yo no sé.
+
+1287
+01:12:58,000 --> 01:13:01,000
+Pero, ¿está en dónde? Aquí arriba está
+
+1288
+01:13:01,000 --> 01:13:04,000
+el Take Profit, creo.
+
+1289
+01:13:04,000 --> 01:13:07,000
+Allá arriba.
+
+1290
+01:13:07,000 --> 01:13:10,000
+Para que sea un poquito mejor,
+
+1291
+01:13:10,000 --> 01:13:13,000
+me voy al gráfico de cuatro horas.
+
+1292
+01:13:19,000 --> 01:13:22,000
+Aquí está el Take Profit.
+
+1293
+01:13:22,000 --> 01:13:25,000
+El Take Profit, el Stop está bien ajustadito.
+
+1294
+01:13:25,000 --> 01:13:28,000
+Y aquí, ¿qué es lo que hablábamos, verdad?
+
+1295
+01:13:28,000 --> 01:13:31,000
+Que lo que se le da libertad
+
+1296
+01:13:31,000 --> 01:13:34,000
+es a las ganancias, no a las pérdidas.
+
+1297
+01:13:34,000 --> 01:13:37,000
+Y no le tenga miedo. Pero digamos que comienza
+
+1298
+01:13:37,000 --> 01:13:40,000
+a subir y usted ve que ya
+
+1299
+01:13:40,000 --> 01:13:43,000
+está por tomar ganancias. Súbalo.
+
+1300
+01:13:48,000 --> 01:13:51,000
+Solo lo arrastra.
+
+1301
+01:13:51,000 --> 01:13:54,000
+Por eso es que les digo que
+
+1302
+01:13:54,000 --> 01:13:57,000
+en la práctica es cuando más se aprende.
+
+1303
+01:13:57,000 --> 01:14:00,000
+Porque por esos detallitos la gente cree que es complicado.
+
+1304
+01:14:00,000 --> 01:14:03,000
+No es complicado. Digamos que ya va
+
+1305
+01:14:03,000 --> 01:14:06,000
+y tanto y usted siente que puede ganar más.
+
+1306
+01:14:06,000 --> 01:14:09,000
+Muévalo. Así como lo voy haciendo yo.
+
+1307
+01:14:09,000 --> 01:14:12,000
+Es fácil, ¿no?
+
+1308
+01:14:12,000 --> 01:14:15,000
+Por eso, cuando usted agarra un solo trade
+
+1309
+01:14:15,000 --> 01:14:18,000
+bien agarradito, esa que le va bien,
+
+1310
+01:14:18,000 --> 01:14:21,000
+usted recupera dos o tres stops fácil y se pone a ganar.
+
+1311
+01:14:21,000 --> 01:14:24,000
+Pero tiene que trabajarlo.
+
+1312
+01:14:24,000 --> 01:14:27,000
+Tiene que darle seguimiento.
+
+1313
+01:14:27,000 --> 01:14:30,000
+Allá en Trading View funciona igual. Es decir,
+
+1314
+01:14:30,000 --> 01:14:33,000
+agarro aquí y comienzo a subirlo.
+
+1315
+01:14:33,000 --> 01:14:36,000
+Así.
+
+1316
+01:14:36,000 --> 01:14:39,000
+Bueno, allí lo puse por primera vez. Digamos que ya va llegando ahí
+
+1317
+01:14:39,000 --> 01:14:42,000
+y luego lo subo.
+
+1318
+01:14:42,000 --> 01:14:45,000
+En el exchange funciona igual. La diferencia es que de que lado,
+
+1319
+01:14:45,000 --> 01:14:48,000
+como ya metimos dinero, nos tiemblan un poquito
+
+1320
+01:14:48,000 --> 01:14:51,000
+las piernas. Aquí en Trading View no.
+
+1321
+01:14:51,000 --> 01:14:54,000
+La otra pregunta sería,
+
+1322
+01:14:54,000 --> 01:14:57,000
+cuando ya sacaste el patrón
+
+1323
+01:14:57,000 --> 01:15:00,000
+que trae la tendencia al cista y demás
+
+1324
+01:15:00,000 --> 01:15:03,000
+y va a formar un rango ahí, dices que lo más probable
+
+1325
+01:15:03,000 --> 01:15:06,000
+es que si pasa el tiempo, caiga.
+
+1326
+01:15:06,000 --> 01:15:09,000
+Entonces, si ya tenemos también definido ese patrón,
+
+1327
+01:15:09,000 --> 01:15:12,000
+¿podemos entrar ahí en short?
+
+1328
+01:15:12,000 --> 01:15:15,000
+Si ya sabemos que va a ser lo que...
+
+1329
+01:15:15,000 --> 01:15:18,000
+Miren, yo opino que en oro no le aplica en short.
+
+1330
+01:15:18,000 --> 01:15:21,000
+Yo opino.
+
+1331
+01:15:21,000 --> 01:15:24,000
+Pero yo sí ya le he metido short.
+
+1332
+01:15:24,000 --> 01:15:27,000
+No tienen la experiencia que tienen
+
+1333
+01:15:27,000 --> 01:15:30,000
+y no operan contra tendencia.
+
+1334
+01:15:30,000 --> 01:15:33,000
+Esa tendencia en el gráfico de una hora es al cista,
+
+1335
+01:15:33,000 --> 01:15:36,000
+en el de cuatro horas es al cista,
+
+1336
+01:15:36,000 --> 01:15:39,000
+en el diario es al cista y, hombre,
+
+1337
+01:15:39,000 --> 01:15:42,000
+en meterse en short, no sé.
+
+1338
+01:15:42,000 --> 01:15:45,000
+Siento que no va con
+
+1339
+01:15:45,000 --> 01:15:48,000
+las intenciones de ganar.
+
+1340
+01:15:48,000 --> 01:15:51,000
+O sea, siempre hay que buscar nadar
+
+1341
+01:15:51,000 --> 01:15:54,000
+corriente y no en contra.
+
+1342
+01:15:54,000 --> 01:15:57,000
+Pero no digo que no se pueda porque no me vayan
+
+1343
+01:15:57,000 --> 01:16:00,000
+a malinterpretar, pero eso es a nivel de experiencia,
+
+1344
+01:16:00,000 --> 01:16:03,000
+¿verdad? Hay gente que anda en cinco minutos
+
+1345
+01:16:03,000 --> 01:16:06,000
+o en un minuto operando estas cosas a por todas.
+
+1346
+01:16:06,000 --> 01:16:09,000
+Pero nosotros estamos aprendiendo aquí.
+
+1347
+01:16:09,000 --> 01:16:12,000
+Yo quiero que aprendan bien, que no vayan a perder
+
+1348
+01:16:12,000 --> 01:16:15,000
+porque nos metemos a futuro sin saber en lo que estamos haciendo.
+
+1349
+01:16:15,000 --> 01:16:18,000
+Bien, ahora voy a continuar entonces
+
+1350
+01:16:18,000 --> 01:16:21,000
+con otro patrón de los que ustedes ya conocen
+
+1351
+01:16:21,000 --> 01:16:24,000
+y esto dejémoslo correr, ¿no? Al final
+
+1352
+01:16:24,000 --> 01:16:27,000
+lo podemos hacer aquí en VST o me regreso a mi cuenta,
+
+1353
+01:16:27,000 --> 01:16:30,000
+me voy a regresar a mi cuenta de verdad,
+
+1354
+01:16:30,000 --> 01:16:33,000
+donde la tengo aquí.
+
+1355
+01:16:44,000 --> 01:16:47,000
+Ahí voy.
+
+1356
+01:16:47,000 --> 01:16:50,000
+Aquí ya me cambié a la cuenta de...
+
+1357
+01:16:50,000 --> 01:16:53,000
+porque yo tengo 10.000 dólares ahí.
+
+1358
+01:16:53,000 --> 01:16:56,000
+A mí me gustaría que ustedes practiquen,
+
+1359
+01:16:56,000 --> 01:16:59,000
+pero no con dinero real, ustedes háganlo con
+
+1360
+01:16:59,000 --> 01:17:02,000
+en eso, con VST, para que
+
+1361
+01:17:02,000 --> 01:17:05,000
+ya sepan mover donde está el stop. Esos detallitos
+
+1362
+01:17:05,000 --> 01:17:08,000
+técnicos que al final, a la hora que usted está operando,
+
+1363
+01:17:08,000 --> 01:17:11,000
+se le puede ir un par de ceros en un meme
+
+1364
+01:17:11,000 --> 01:17:14,000
+y va a salir así la velita.
+
+1365
+01:17:14,000 --> 01:17:17,000
+En un toque en eso se le va a meter, si usted tiene 100.000 dólares
+
+1366
+01:17:17,000 --> 01:17:20,000
+y le pensaba meter 1.000, se le van a escapar
+
+1367
+01:17:20,000 --> 01:17:23,000
+un par de ceros. Un dedazo pues.
+
+1368
+01:17:23,000 --> 01:17:26,000
+Entonces mejor practiquen VST y vamos viendo.
+
+1369
+01:17:26,000 --> 01:17:29,000
+Vaya, ahora, vámonos
+
+1370
+01:17:29,000 --> 01:17:32,000
+a un activo que consideremos que va a
+
+1371
+01:17:32,000 --> 01:17:35,000
+entrar en un lateral. Puede ser
+
+1372
+01:17:35,000 --> 01:17:38,000
+los que están...
+
+1373
+01:17:38,000 --> 01:17:41,000
+Davis, Jaime, la estrategia de Scalp Indies.
+
+1374
+01:17:42,000 --> 01:17:45,000
+Amigos, yo no soy Scalper.
+
+1375
+01:17:48,000 --> 01:17:51,000
+Lo vamos a ver hasta el final.
+
+1376
+01:17:51,000 --> 01:17:54,000
+No hay que tragarse el mundo de golpes.
+
+1377
+01:17:54,000 --> 01:17:57,000
+Busquemos ahora
+
+1378
+01:17:57,000 --> 01:18:00,000
+un activo que vaya a dar
+
+1379
+01:18:00,000 --> 01:18:03,000
+un lateral. Ya el patrón,
+
+1380
+01:18:03,000 --> 01:18:06,000
+ustedes lo conocen si no lo vemos juntos.
+
+1381
+01:18:06,000 --> 01:18:09,000
+O sea, lo que sea, no importa. Yo lo que quiero es
+
+1382
+01:18:09,000 --> 01:18:12,000
+abrir, en mi caso, abrir una operación
+
+1383
+01:18:12,000 --> 01:18:15,000
+con mi dinero y
+
+1384
+01:18:15,000 --> 01:18:18,000
+ya les digo qué patrón es el que hay que buscar.
+
+1385
+01:18:18,000 --> 01:18:21,000
+Les voy enseñando los más seguros para operar
+
+1386
+01:18:21,000 --> 01:18:24,000
+porque no quiero que vayan a ir a perder. Bueno, yo no quiero que pierdan pues.
+
+1387
+01:18:24,000 --> 01:18:27,000
+Y ustedes tampoco. Ya les digo cuál.
+
+1388
+01:18:30,000 --> 01:18:33,000
+Este.
+
+1389
+01:18:34,000 --> 01:18:37,000
+Ese es un patrón de entrada.
+
+1390
+01:18:39,000 --> 01:18:42,000
+¿Hay alguna? Creo que hay alguna
+
+1391
+01:18:42,000 --> 01:18:45,000
+que podamos superar.
+
+1392
+01:18:45,000 --> 01:18:48,000
+Sol.
+
+1393
+01:18:49,000 --> 01:18:52,000
+Ok. Solo quiero aclarar
+
+1394
+01:18:52,000 --> 01:18:55,000
+que yo en este ejercicio
+
+1395
+01:18:55,000 --> 01:18:58,000
+que voy a hacer, únicamente lo hago en Bitcoin.
+
+1396
+01:18:58,000 --> 01:19:01,000
+Pero como no puedo esperar, tengo que ir
+
+1397
+01:19:01,000 --> 01:19:04,000
+a buscar una para hacerlo. No.
+
+1398
+01:19:04,000 --> 01:19:07,000
+Sol en gráficos de cuatro horas.
+
+1399
+01:19:09,000 --> 01:19:12,000
+No.
+
+1400
+01:19:16,000 --> 01:19:19,000
+Pero es que ese tiene el gráfico de Bitcoin.
+
+1401
+01:19:22,000 --> 01:19:25,000
+Vaya, pero no. Vaya, ya les voy a
+
+1402
+01:19:25,000 --> 01:19:28,000
+explicar algo.
+
+1403
+01:19:30,000 --> 01:19:33,000
+Sí, tiene que ser en diario.
+
+1404
+01:19:33,000 --> 01:19:36,000
+No se vale en gráficos de cuatro horas. Tiene que ser en diario.
+
+1405
+01:19:36,000 --> 01:19:39,000
+Sí, eso está bueno. Este pato está bueno.
+
+1406
+01:19:42,000 --> 01:19:45,000
+Vamos a hacerlo con el pato este.
+
+1407
+01:19:46,000 --> 01:19:49,000
+Vaya, miren.
+
+1408
+01:19:49,000 --> 01:19:52,000
+Quiero aclarar que lo que les voy a enseñar
+
+1409
+01:19:52,000 --> 01:19:55,000
+yo solamente lo hago en Bitcoin cuando tengo un patrón
+
+1410
+01:19:55,000 --> 01:19:58,000
+como este. O sea,
+
+1411
+01:19:58,000 --> 01:20:01,000
+tápenle el nombre. Esto. ¿Qué dice pato aquí?
+
+1412
+01:20:01,000 --> 01:20:04,000
+Tápenle el nombre.
+
+1413
+01:20:04,000 --> 01:20:07,000
+Imagínense que esto es Bitcoin.
+
+1414
+01:20:07,000 --> 01:20:10,000
+Solamente Bitcoin.
+
+1415
+01:20:10,000 --> 01:20:13,000
+No dusk.
+
+1416
+01:20:15,000 --> 01:20:18,000
+Estamos claros ahí.
+
+1417
+01:20:18,000 --> 01:20:21,000
+Solo Bitcoin con lo que les voy a enseñar.
+
+1418
+01:20:21,000 --> 01:20:24,000
+Yo lo voy a abrir en dusk porque tengo que
+
+1419
+01:20:24,000 --> 01:20:27,000
+enseñar ya. Porque el tiempo corre, ¿no?
+
+1420
+01:20:27,000 --> 01:20:30,000
+Ustedes lo hacen como yo cuando
+
+1421
+01:20:30,000 --> 01:20:33,000
+estén solos. Solo Bitcoin con esta
+
+1422
+01:20:33,000 --> 01:20:36,000
+función que voy a ejecutar.
+
+1423
+01:20:36,000 --> 01:20:39,000
+Lo repito varias veces porque
+
+1424
+01:20:39,000 --> 01:20:42,000
+no quiero que se acuerde de mí después que esté allí triste
+
+1425
+01:20:42,000 --> 01:20:45,000
+por las noches.
+
+1426
+01:20:45,000 --> 01:20:48,000
+Este es un movimiento que usted ya conoce que normalmente suele hacer esto.
+
+1427
+01:20:48,000 --> 01:20:51,000
+¿De acuerdo?
+
+1428
+01:20:51,000 --> 01:20:54,000
+Como estamos en un gráfico diario, esto es spot. Es decir,
+
+1429
+01:20:54,000 --> 01:20:57,000
+si sale mal, usted se va a quedar
+
+1430
+01:20:57,000 --> 01:21:00,000
+con esos patos. O no es patos.
+
+1431
+01:21:00,000 --> 01:21:03,000
+¿Quién sabe inglés aquí?
+
+1432
+01:21:03,000 --> 01:21:06,000
+Me acuerdo que eso es pato.
+
+1433
+01:21:06,000 --> 01:21:09,000
+No, oscuridad.
+
+1434
+01:21:09,000 --> 01:21:12,000
+¿Cómo se escribe pato?
+
+1435
+01:21:12,000 --> 01:21:15,000
+Seca, en serio.
+
+1436
+01:21:15,000 --> 01:21:18,000
+Ah, sí, mira.
+
+1437
+01:21:18,000 --> 01:21:21,000
+Yo jugaba una cosita que...
+
+1438
+01:21:21,000 --> 01:21:24,000
+Una pistolita que le tiraba con unos patos que andaban volando y salía un perro.
+
+1439
+01:21:24,000 --> 01:21:27,000
+No, ustedes no.
+
+1440
+01:21:27,000 --> 01:21:30,000
+Ajá, ese. Me acordé de ese.
+
+1441
+01:21:30,000 --> 01:21:33,000
+Entonces, otra vez vamos al exchange.
+
+1442
+01:21:33,000 --> 01:21:36,000
+En este caso, yo ocupo Binance.
+
+1443
+01:21:36,000 --> 01:21:39,000
+Si usted quiere irse a otro, deje de pelear por eso.
+
+1444
+01:21:39,000 --> 01:21:42,000
+No les estoy diciendo a ustedes, sino a los que quieren hacerle publicidad
+
+1445
+01:21:42,000 --> 01:21:45,000
+a otro exchange.
+
+1446
+01:21:45,000 --> 01:21:48,000
+No se trata de publicidad, se trata de aprender.
+
+1447
+01:21:48,000 --> 01:21:51,000
+Yo me voy a ir a esta sección donde dice...
+
+1448
+01:21:51,000 --> 01:21:54,000
+Ya les digo.
+
+1449
+01:21:54,000 --> 01:21:57,000
+No lo tengo.
+
+1450
+01:22:00,000 --> 01:22:03,000
+No, no, no. Ando a permitirme. Me voy aquí primero.
+
+1451
+01:22:03,000 --> 01:22:06,000
+Aquí arriba es.
+
+1452
+01:22:06,000 --> 01:22:09,000
+Voy a irme aquí.
+
+1453
+01:22:09,000 --> 01:22:12,000
+Sí, el grid es el que ando aquí en Spot.
+
+1454
+01:22:12,000 --> 01:22:15,000
+Aquí ya lo vi.
+
+1455
+01:22:15,000 --> 01:22:18,000
+Vaya, yo me voy a ir aquí.
+
+1456
+01:22:18,000 --> 01:22:21,000
+Y les voy a explicar por qué.
+
+1457
+01:22:21,000 --> 01:22:24,000
+Primero.
+
+1458
+01:22:24,000 --> 01:22:27,000
+Uy, no, eso no. El gráfico, no.
+
+1459
+01:22:27,000 --> 01:22:30,000
+Recuerden, primero se hace el análisis.
+
+1460
+01:22:30,000 --> 01:22:33,000
+Pero aquí no puedo comprar esa cosa que se llama oscuridad.
+
+1461
+01:22:33,000 --> 01:22:36,000
+Entonces, como yo ya tengo proyectado
+
+1462
+01:22:36,000 --> 01:22:39,000
+un máximo y un mínimo que está en la media móvil de 55
+
+1463
+01:22:39,000 --> 01:22:42,000
+con este patrón, que lo que va a hacer es dejar de subir.
+
+1464
+01:22:42,000 --> 01:22:45,000
+Pero ojo, vuelvo y repito.
+
+1465
+01:22:45,000 --> 01:22:48,000
+Quítenle el nombre.
+
+1466
+01:22:48,000 --> 01:22:51,000
+Y nos quedemos con el gráfico.
+
+1467
+01:22:51,000 --> 01:22:54,000
+Entonces, como yo tengo una pendiente negativa,
+
+1468
+01:22:54,000 --> 01:22:57,000
+una direccionalidad bajista y yo quiero operar esto,
+
+1469
+01:22:57,000 --> 01:23:00,000
+yo no quiero complicarme la vida. Lo voy a operar
+
+1470
+01:23:00,000 --> 01:23:03,000
+como lo que es, como un rango en un gráfico diario
+
+1471
+01:23:03,000 --> 01:23:06,000
+a 10 días. Durante esos 10 días,
+
+1472
+01:23:06,000 --> 01:23:09,000
+solo en Bitcoin, como es Spot, yo sé que si me sale mal
+
+1473
+01:23:09,000 --> 01:23:12,000
+yo me voy a quedar holdeando Bitcoin.
+
+1474
+01:23:12,000 --> 01:23:15,000
+Pero no estas cosas que se llaman dusk.
+
+1475
+01:23:15,000 --> 01:23:18,000
+¿Cómo se hace? Ya la proyección la tenemos hecha.
+
+1476
+01:23:18,000 --> 01:23:21,000
+Ahora vamos a hacerlo.
+
+1477
+01:23:21,000 --> 01:23:24,000
+Yo lo voy a abrir. Yo ando con líos.
+
+1478
+01:23:24,000 --> 01:23:27,000
+Y con dinero de verdad en esa cosa.
+
+1479
+01:23:32,000 --> 01:23:35,000
+La probabilidad de que usted pierda en Bitcoin
+
+1480
+01:23:35,000 --> 01:23:38,000
+de verdad, eso no va a pasar.
+
+1481
+01:23:38,000 --> 01:23:41,000
+Mire,
+
+1482
+01:23:41,000 --> 01:23:44,000
+estos dos que usted ve aquí,
+
+1483
+01:23:44,000 --> 01:23:47,000
+la fecha los abrí cuando estuve en Colombia
+
+1484
+01:23:47,000 --> 01:23:50,000
+enseñando esto mismo frente a la gente.
+
+1485
+01:23:50,000 --> 01:23:53,000
+Yo le metí $5,000 a este y $3,000 a este
+
+1486
+01:23:53,000 --> 01:23:56,000
+porque como ando con $10,000 enseñando nada más,
+
+1487
+01:23:56,000 --> 01:23:59,000
+si usted se fija bien,
+
+1488
+01:23:59,000 --> 01:24:02,000
+mire,
+
+1489
+01:24:02,000 --> 01:24:05,000
+si eso está bañadito de verde,
+
+1490
+01:24:05,000 --> 01:24:08,000
+uy, ese hombre,
+
+1491
+01:24:08,000 --> 01:24:11,000
+mire, si que usted va a perder también, hombre.
+
+1492
+01:24:11,000 --> 01:24:14,000
+Pero si usted le hace scroll,
+
+1493
+01:24:14,000 --> 01:24:17,000
+comienza a ver que eso está bañado de verde.
+
+1494
+01:24:17,000 --> 01:24:20,000
+Entonces, si yo me voy a la segunda página,
+
+1495
+01:24:20,000 --> 01:24:23,000
+comienza a ver un poquito más verde,
+
+1496
+01:24:23,000 --> 01:24:26,000
+no sé cómo usted lo ve,
+
+1497
+01:24:26,000 --> 01:24:29,000
+pero si yo hago el cálculo de cuántas verdes tengo
+
+1498
+01:24:29,000 --> 01:24:32,000
+y cuántas rojas, esto queda en ganancias brutales.
+
+1499
+01:24:32,000 --> 01:24:35,000
+Digamos un 80.
+
+1500
+01:24:36,000 --> 01:24:39,000
+¿Podríamos contar?
+
+1501
+01:24:39,000 --> 01:24:42,000
+Aquí hay tres, seis, nueve, doce.
+
+1502
+01:24:42,000 --> 01:24:45,000
+No, hagamos algo.
+
+1503
+01:24:45,000 --> 01:24:48,000
+Yo el grid de futuros,
+
+1504
+01:24:48,000 --> 01:24:51,000
+no se los recomiendo.
+
+1505
+01:24:51,000 --> 01:24:54,000
+¿Para qué?
+
+1506
+01:24:54,000 --> 01:24:57,000
+Vámonos al que me gusta a mí,
+
+1507
+01:24:57,000 --> 01:25:00,000
+al spot infinity grid.
+
+1508
+01:25:00,000 --> 01:25:03,000
+Dígame cuántas he perdido.
+
+1509
+01:25:03,000 --> 01:25:06,000
+Ni una.
+
+1510
+01:25:06,000 --> 01:25:09,000
+Ni siquiera las últimas dos que abrí en Colombia.
+
+1511
+01:25:09,000 --> 01:25:12,000
+Ve.
+
+1512
+01:25:12,000 --> 01:25:15,000
+Con cinco mil, ¿dónde está? Sí, ¿verdad?
+
+1513
+01:25:15,000 --> 01:25:18,000
+¿Dónde estoy? Este es el historial,
+
+1514
+01:25:18,000 --> 01:25:21,000
+por aquí tiene que estar la fecha.
+
+1515
+01:25:21,000 --> 01:25:24,000
+Veinticinco de marzo del 2024,
+
+1516
+01:25:24,000 --> 01:25:27,000
+seis, ¿dónde está el otro?
+
+1517
+01:25:27,000 --> 01:25:30,000
+Ah, es que el otro fue el neutral, porque vamos a ver dos.
+
+1518
+01:25:30,000 --> 01:25:33,000
+Este es el spot infinity,
+
+1519
+01:25:33,000 --> 01:25:36,000
+que lo voy a explicar. El otro es el neutral.
+
+1520
+01:25:36,000 --> 01:25:39,000
+Como yo lo filtré, no lo ven, pero aquí está.
+
+1521
+01:25:39,000 --> 01:25:42,000
+Aquí ve.
+
+1522
+01:25:42,000 --> 01:25:45,000
+Ve.
+
+1523
+01:25:45,000 --> 01:25:48,000
+Veinticinco de marzo del 2024 y aquí aparece la hora.
+
+1524
+01:25:51,000 --> 01:25:54,000
+En esos,
+
+1525
+01:25:54,000 --> 01:25:57,000
+mire, uno, dos, tres,
+
+1526
+01:25:57,000 --> 01:26:00,000
+cuatro, rojo, digamos.
+
+1527
+01:26:00,000 --> 01:26:03,000
+Aquí llevo tres, cuatro, cinco, seis,
+
+1528
+01:26:03,000 --> 01:26:06,000
+siete, ocho, nueve, diez,
+
+1529
+01:26:06,000 --> 01:26:09,000
+once, doce, trece verdes,
+
+1530
+01:26:09,000 --> 01:26:12,000
+contra cuatro rojos, ¿no?
+
+1531
+01:26:12,000 --> 01:26:15,000
+En el spot infinity,
+
+1532
+01:26:15,000 --> 01:26:18,000
+ni uno rojo. ¿A dónde creen ustedes
+
+1533
+01:26:18,000 --> 01:26:21,000
+que yo opero? Si yo ya tengo el backtesting
+
+1534
+01:26:21,000 --> 01:26:24,000
+y yo ya sé dónde voy a ganar,
+
+1535
+01:26:24,000 --> 01:26:27,000
+¿dónde voy aquí?
+
+1536
+01:26:27,000 --> 01:26:30,000
+Pues sí, porque es que al final lo que queremos es ganar dinero, no como.
+
+1537
+01:26:30,000 --> 01:26:33,000
+Yo ya tengo mi backtesting, entonces,
+
+1538
+01:26:33,000 --> 01:26:36,000
+pero como el análisis que yo he hecho ahí en esa cosa
+
+1539
+01:26:36,000 --> 01:26:39,000
+dice que es un lateral,
+
+1540
+01:26:39,000 --> 01:26:42,000
+no puedo abrir un spot infinity grid, entonces...
+
+1541
+01:26:42,000 --> 01:26:45,000
+Oye, Jaime, nada más aclarar que los que
+
+1542
+01:26:45,000 --> 01:26:48,000
+todavía no, bueno, los que vamos empezando en VINX,
+
+1543
+01:26:48,000 --> 01:26:51,000
+nada más hay que crear primero el spot grid,
+
+1544
+01:26:51,000 --> 01:26:54,000
+ya sea el infinity, el spot grid o el de futuros.
+
+1545
+01:26:54,000 --> 01:26:57,000
+Les da la opción pues antes, porque no nos aparece así,
+
+1546
+01:26:57,000 --> 01:27:00,000
+va a estar un botón que hice ahí crear
+
+1547
+01:27:00,000 --> 01:27:03,000
+previo, y ahí dice auto, manual,
+
+1548
+01:27:03,000 --> 01:27:06,000
+lo sé. Y lo otro es que
+
+1549
+01:27:06,000 --> 01:27:09,000
+yo publico mis análisis también aquí
+
+1550
+01:27:09,000 --> 01:27:12,000
+en VINX, pero en el feed, en este momento no van a encontrar
+
+1551
+01:27:12,000 --> 01:27:15,000
+nada. Yo los publico aquí, miren,
+
+1552
+01:27:15,000 --> 01:27:18,000
+creo que por aquí,
+
+1553
+01:27:18,000 --> 01:27:21,000
+no, es que esta es una cuenta
+
+1554
+01:27:21,000 --> 01:27:24,000
+de testing, pero por allí
+
+1555
+01:27:24,000 --> 01:27:27,000
+tengo el link
+
+1556
+01:27:27,000 --> 01:27:30,000
+donde yo publico mis análisis,
+
+1557
+01:27:30,000 --> 01:27:33,000
+para que usted los tenga y si les sirven bien, si no,
+
+1558
+01:27:33,000 --> 01:27:36,000
+solo los desecha, no, pero allí los voy a estar publicando
+
+1559
+01:27:36,000 --> 01:27:39,000
+en el feed de VINX. Bueno, entonces,
+
+1560
+01:27:39,000 --> 01:27:42,000
+vámonos otra vez al grid y lo voy a abrir,
+
+1561
+01:27:42,000 --> 01:27:45,000
+ojo,
+
+1562
+01:27:46,000 --> 01:27:49,000
+aquí en capital,
+
+1563
+01:27:49,000 --> 01:27:52,000
+en la pestañita capital,
+
+1564
+01:27:52,000 --> 01:27:55,000
+te vas a grid trading.
+
+1565
+01:27:58,000 --> 01:28:01,000
+Sí, ok, miren,
+
+1566
+01:28:01,000 --> 01:28:04,000
+yo les voy a decir algo, las únicas personas que pueden ver mis
+
+1567
+01:28:04,000 --> 01:28:07,000
+análisis son los que son referidos millos
+
+1568
+01:28:07,000 --> 01:28:10,000
+o referidos de referidos millos, porque no lo dejo público
+
+1569
+01:28:10,000 --> 01:28:13,000
+porque hay mucha gente que es curiosa.
+
+1570
+01:28:13,000 --> 01:28:16,000
+O sea, llegan solo
+
+1571
+01:28:16,000 --> 01:28:19,000
+con quien, aquí en el chat hay alguien allí
+
+1572
+01:28:19,000 --> 01:28:22,000
+que ande. Entonces,
+
+1573
+01:28:22,000 --> 01:28:25,000
+por eso lo deje así. Entonces,
+
+1574
+01:28:25,000 --> 01:28:28,000
+para filtrar al montón de curiosos.
+
+1575
+01:28:28,000 --> 01:28:31,000
+Entonces, ¿cómo se llega? Yo tengo un link
+
+1576
+01:28:31,000 --> 01:28:34,000
+que les he dejado siempre en mi canal de YouTube,
+
+1577
+01:28:34,000 --> 01:28:37,000
+voy a abrir mi canal de YouTube solo para que sepan
+
+1578
+01:28:37,000 --> 01:28:40,000
+que yo me hago cargo de mis análisis
+
+1579
+01:28:40,000 --> 01:28:43,000
+de ahí, de acuerdo, de otra parte
+
+1580
+01:28:43,000 --> 01:28:46,000
+no, ya van a ver.
+
+1581
+01:28:48,000 --> 01:28:51,000
+Voy a agarrar este, que fue el último, no,
+
+1582
+01:28:51,000 --> 01:28:54,000
+ese no fue el último que hice, bueno, pero igual, debería estar ahí.
+
+1583
+01:28:54,000 --> 01:28:57,000
+Estoy en mi canal oficial, no.
+
+1584
+01:28:57,000 --> 01:29:00,000
+Bueno, este fue aquel,
+
+1585
+01:29:00,000 --> 01:29:03,000
+este es, miren,
+
+1586
+01:29:03,000 --> 01:29:06,000
+aquí abajo yo le dejo
+
+1587
+01:29:06,000 --> 01:29:09,000
+la información, miren,
+
+1588
+01:29:09,000 --> 01:29:12,000
+obtenga análisis gratuito directamente en tu teléfono
+
+1589
+01:29:12,000 --> 01:29:15,000
+uniéndote a nuestra comunidad.
+
+1590
+01:29:15,000 --> 01:29:18,000
+Esto es inteligencia artificial, yo no escribo así,
+
+1591
+01:29:18,000 --> 01:29:21,000
+pero no me complico la vida, le pongo a chat GPT y quiero esto
+
+1592
+01:29:21,000 --> 01:29:24,000
+y me dio eso y yo lo puse.
+
+1593
+01:29:24,000 --> 01:29:27,000
+Es por lo del tiempo que les digo, yo no voy a andar inventando eso.
+
+1594
+01:29:27,000 --> 01:29:30,000
+Bueno, pero dice, ah, sigue estos pasos sencillos.
+
+1595
+01:29:30,000 --> 01:29:33,000
+Listo, regístrate aquí,
+
+1596
+01:29:33,000 --> 01:29:36,000
+completa tu suscripción, clic aquí.
+
+1597
+01:29:36,000 --> 01:29:39,000
+Este es el buen, bueno, si no es partner mío,
+
+1598
+01:29:39,000 --> 01:29:42,000
+o sea, si no creó la cuenta con esto
+
+1599
+01:29:42,000 --> 01:29:45,000
+y le da click, le va a decir que usted no tiene permiso.
+
+1600
+01:29:45,000 --> 01:29:48,000
+Obviamente toda la gente dice que por qué rayos no hay
+
+1601
+01:29:48,000 --> 01:29:51,000
+nada, esto soy yo.
+
+1602
+01:29:51,000 --> 01:29:54,000
+Ahí, bueno, no hay nada porque estoy aquí con usted.
+
+1603
+01:29:54,000 --> 01:29:57,000
+Entonces no va a haber un análisis ahí.
+
+1604
+01:29:57,000 --> 01:30:00,000
+Entonces la gente cree que esto es copy trading,
+
+1605
+01:30:00,000 --> 01:30:03,000
+no es copy trading porque si fuera copy trading
+
+1606
+01:30:03,000 --> 01:30:06,000
+no me cuesta nada ganarle el 10% de todo lo que se opere.
+
+1607
+01:30:06,000 --> 01:30:09,000
+Pero ya mi business es otro,
+
+1608
+01:30:09,000 --> 01:30:12,000
+ando en otros negocios ya. Entonces aquí en ideas
+
+1609
+01:30:12,000 --> 01:30:15,000
+no va a haber nada
+
+1610
+01:30:15,000 --> 01:30:18,000
+porque estoy aquí.
+
+1611
+01:30:18,000 --> 01:30:21,000
+Entonces allí en esa pestañita de ideas
+
+1612
+01:30:21,000 --> 01:30:24,000
+le van a ir apareciendo los análisis que yo voy haciendo.
+
+1613
+01:30:24,000 --> 01:30:27,000
+Yo lo he dejado configurado para que lo pueda ver
+
+1614
+01:30:27,000 --> 01:30:30,000
+durante tres días, porque como yo si lo veo en gráfico diario
+
+1615
+01:30:30,000 --> 01:30:33,000
+o en gráfico de cuatro horas, le pongo el análisis
+
+1616
+01:30:36,000 --> 01:30:39,000
+después de tres días ese análisis ya no sirve,
+
+1617
+01:30:39,000 --> 01:30:42,000
+para qué va a estar ahí, ya no sirve porque alguien no puede ir a verlo
+
+1618
+01:30:42,000 --> 01:30:45,000
+pero y pierde, porque está viendo un análisis de hace tres días
+
+1619
+01:30:45,000 --> 01:30:48,000
+en un gráfico de cuatro horas, ese ya no sirve.
+
+1620
+01:30:48,000 --> 01:30:51,000
+En fin, yo me hago cargo de esta cuenta,
+
+1621
+01:30:51,000 --> 01:30:54,000
+no de ninguna otra
+
+1622
+01:30:54,000 --> 01:30:57,000
+porque no soy yo, o sea, no soy yo.
+
+1623
+01:30:57,000 --> 01:31:00,000
+Pero volvamos al punto.
+
+1624
+01:31:00,000 --> 01:31:03,000
+Lo que voy a hacer es irme a crear
+
+1625
+01:31:03,000 --> 01:31:06,000
+y voy a elegir cuál de estos
+
+1626
+01:31:06,000 --> 01:31:09,000
+me funciona mejor a mí.
+
+1627
+01:31:09,000 --> 01:31:12,000
+Yo me voy a spot grid porque ya dije en mi análisis
+
+1628
+01:31:12,000 --> 01:31:15,000
+que esto va a formar un lateral.
+
+1629
+01:31:15,000 --> 01:31:18,000
+Entonces yo lo que voy a hacer es determinar la parte alta
+
+1630
+01:31:18,000 --> 01:31:21,000
+y la parte más baja, que para mí va a ser
+
+1631
+01:31:21,000 --> 01:31:24,000
+esta.
+
+1632
+01:31:24,000 --> 01:31:27,000
+Yo los tengo aquí arriba, ya solo me resta ir
+
+1633
+01:31:27,000 --> 01:31:30,000
+a llenarlo para que comience a operar.
+
+1634
+01:31:33,000 --> 01:31:36,000
+Vuelvo a recordar, aunque aquí diga DOSK
+
+1635
+01:31:36,000 --> 01:31:39,000
+esto se hace solamente en bitcoin
+
+1636
+01:31:39,000 --> 01:31:42,000
+porque si llega a salir mal
+
+1637
+01:31:42,000 --> 01:31:45,000
+no va a perder porque usted lo que va a hacer
+
+1638
+01:31:45,000 --> 01:31:48,000
+es quedarse con esos bitcoin
+
+1639
+01:31:48,000 --> 01:31:51,000
+no con esos DOSK
+
+1640
+01:31:51,000 --> 01:31:54,000
+o con PP, Paco, eso no sirve.
+
+1641
+01:31:54,000 --> 01:31:57,000
+No vaya a hacer eso con ninguna otra.
+
+1642
+01:31:57,000 --> 01:32:00,000
+Con el tiempo, si usted lo quiere hacer
+
+1643
+01:32:00,000 --> 01:32:03,000
+puede funcionar muy bien con ETH, con Solana,
+
+1644
+01:32:03,000 --> 01:32:06,000
+con Neo, con XRP,
+
+1645
+01:32:06,000 --> 01:32:09,000
+con Laicom, con Avax.
+
+1646
+01:32:09,000 --> 01:32:12,000
+Pero nosotros estamos en un proceso de aprendizaje.
+
+1647
+01:32:12,000 --> 01:32:15,000
+¿De acuerdo? Con cuidado.
+
+1648
+01:32:15,000 --> 01:32:18,000
+Bien, vamos, como ya tengo entonces la parte alta
+
+1649
+01:32:18,000 --> 01:32:21,000
+0.7074, voy a configurarlo, le doy click aquí
+
+1650
+01:32:21,000 --> 01:32:24,000
+en crear, ya saben que yo ya tengo los fondos
+
+1651
+01:32:24,000 --> 01:32:27,000
+aquí, 9348
+
+1652
+01:32:27,000 --> 01:32:30,000
+lo que yo hago es que yo
+
+1653
+01:32:30,000 --> 01:32:33,000
+soy un poco
+
+1654
+01:32:33,000 --> 01:32:36,000
+desconfiado y aquí me dice que esto es bitcoin
+
+1655
+01:32:36,000 --> 01:32:39,000
+aquí, yo lo que hago es me voy a buscar
+
+1656
+01:32:39,000 --> 01:32:42,000
+DOSK, porque ese es el gráfico que estoy analizando
+
+1657
+01:32:42,000 --> 01:32:45,000
+y está aquí.
+
+1658
+01:32:45,000 --> 01:32:48,000
+Yo lo selecciono y ahora sí, me dice, él
+
+1659
+01:32:48,000 --> 01:32:51,000
+me está diciendo que el rango va a estar entre
+
+1660
+01:32:51,000 --> 01:32:54,000
+0.38 y 0.54
+
+1661
+01:32:54,000 --> 01:32:57,000
+mientras que yo, en mi análisis personal
+
+1662
+01:32:57,000 --> 01:33:00,000
+o sea, él me da una idea, que este es el lateral
+
+1663
+01:33:00,000 --> 01:33:03,000
+yo digo que no, que va a estar entre
+
+1664
+01:33:03,000 --> 01:33:06,000
+0.70 y 0.38
+
+1665
+01:33:06,000 --> 01:33:09,000
+él dice que no, que va a estar entre 0.38 y 0.54
+
+1666
+01:33:09,000 --> 01:33:12,000
+bueno, cada quien, verdad
+
+1667
+01:33:12,000 --> 01:33:15,000
+yo lo que hago es que me voy a manual
+
+1668
+01:33:15,000 --> 01:33:18,000
+y pongo lo que yo estoy viendo, no lo que
+
+1669
+01:33:18,000 --> 01:33:21,000
+el exchange me está diciendo
+
+1670
+01:33:21,000 --> 01:33:24,000
+en la parte baja
+
+1671
+01:33:24,000 --> 01:33:27,000
+vamos a poner el que yo determine aquí, que 0.3875
+
+1672
+01:33:27,000 --> 01:33:30,000
+voy 0.
+
+1673
+01:33:30,000 --> 01:33:33,000
+si
+
+1674
+01:33:33,000 --> 01:33:36,000
+3875, verdad?
+
+1675
+01:33:36,000 --> 01:33:39,000
+en la parte alta, voy a determinar
+
+1676
+01:33:39,000 --> 01:33:42,000
+0.7074
+
+1677
+01:33:42,000 --> 01:33:45,000
+aquí
+
+1678
+01:33:45,000 --> 01:33:48,000
+0.7074, perfecto
+
+1679
+01:33:48,000 --> 01:33:51,000
+ojo con este dato, el número de grids
+
+1680
+01:33:51,000 --> 01:33:54,000
+como yo estoy aquí
+
+1681
+01:33:54,000 --> 01:33:57,000
+en spot, gráfico diario
+
+1682
+01:33:57,000 --> 01:34:00,000
+pos, análisis, que ya determine
+
+1683
+01:34:00,000 --> 01:34:03,000
+que eso va a ser un lateral
+
+1684
+01:34:03,000 --> 01:34:06,000
+lo que hay que saber es
+
+1685
+01:34:06,000 --> 01:34:09,000
+que estos grid no cobran comisiones por mantenerlos
+
+1686
+01:34:09,000 --> 01:34:12,000
+abiertos, pero sí por compra y venta de spot
+
+1687
+01:34:12,000 --> 01:34:15,000
+entonces
+
+1688
+01:34:15,000 --> 01:34:18,000
+si yo pongo tantos grid ahí
+
+1689
+01:34:18,000 --> 01:34:21,000
+es decir, la cuadrícula
+
+1690
+01:34:21,000 --> 01:34:24,000
+hay que tirarle a ganar 1% o 1
+
+1691
+01:34:24,000 --> 01:34:27,000
+en bitcoin, verdad, aquí no, pero
+
+1692
+01:34:27,000 --> 01:34:30,000
+es que me hubiese gustado hacerlo en bitcoin, pero es que
+
+1693
+01:34:30,000 --> 01:34:33,000
+estaba en 62.500, entonces justo estaba
+
+1694
+01:34:33,000 --> 01:34:36,000
+donde podía abrirlo
+
+1695
+01:34:36,000 --> 01:34:39,000
+aquí me toca hacerlo en dos
+
+1696
+01:34:39,000 --> 01:34:42,000
+yo voy a poner aquí, por ejemplo 25
+
+1697
+01:34:42,000 --> 01:34:45,000
+que es eso de 25?
+
+1698
+01:34:45,000 --> 01:34:48,000
+son 25 compras y ventas
+
+1699
+01:34:48,000 --> 01:34:51,000
+serían 12 compras y 13 ventas
+
+1700
+01:34:51,000 --> 01:34:54,000
+hacen 25, entonces
+
+1701
+01:34:54,000 --> 01:34:57,000
+la ganancia por cada compra y venta
+
+1702
+01:34:57,000 --> 01:35:00,000
+que hace ahí está al 1.71%
+
+1703
+01:35:00,000 --> 01:35:03,000
+hasta el 3.22%
+
+1704
+01:35:03,000 --> 01:35:06,000
+bastante bien, pero para la volatilidad que tiene no me sirve
+
+1705
+01:35:06,000 --> 01:35:09,000
+entonces yo le voy a ir bajando
+
+1706
+01:35:09,000 --> 01:35:12,000
+un poco más
+
+1707
+01:35:12,000 --> 01:35:15,000
+perdón
+
+1708
+01:35:15,000 --> 01:35:18,000
+era subiendo, no, me voy a ir con 30
+
+1709
+01:35:18,000 --> 01:35:21,000
+me voy a ir con 35, ahí me quedo
+
+1710
+01:35:21,000 --> 01:35:24,000
+porque determino yo
+
+1711
+01:35:24,000 --> 01:35:27,000
+35
+
+1712
+01:35:27,000 --> 01:35:30,000
+aquí lo que estoy haciendo básicamente es como poner órdenes de compra
+
+1713
+01:35:30,000 --> 01:35:33,000
+hacia abajo y ventas hacia arriba
+
+1714
+01:35:33,000 --> 01:35:36,000
+dentro del marco que yo definí, alto y bajo
+
+1715
+01:35:36,000 --> 01:35:39,000
+estoy definiendo cuántas veces va a comprar
+
+1716
+01:35:39,000 --> 01:35:42,000
+por la parte baja y cuántas veces va a vender por la parte alta
+
+1717
+01:35:42,000 --> 01:35:45,000
+por qué 35?
+
+1718
+01:35:45,000 --> 01:35:48,000
+porque yo lo que trato de hacer es de ganar 1.14%
+
+1719
+01:35:48,000 --> 01:35:51,000
+al 2.22% por compra-venta
+
+1720
+01:35:51,000 --> 01:35:54,000
+ahí ya estoy calculando
+
+1721
+01:35:54,000 --> 01:35:57,000
+mi ganancia y lo que el exchange
+
+1722
+01:35:57,000 --> 01:36:00,000
+me va a cobrar por la compra-venta
+
+1723
+01:36:00,000 --> 01:36:03,000
+qué pasa si yo aquí le pongo 100
+
+1724
+01:36:05,000 --> 01:36:08,000
+para ganar un 0.25%
+
+1725
+01:36:08,000 --> 01:36:11,000
+más lo que le tengo que pagar al exchange a mí no me tiene cuenta
+
+1726
+01:36:11,000 --> 01:36:14,000
+a mí no, hay gente que puede decir
+
+1727
+01:36:14,000 --> 01:36:17,000
+no, yo me conformo con 0.25% de spot
+
+1728
+01:36:17,000 --> 01:36:20,000
+o sea que el precio en spot
+
+1729
+01:36:20,000 --> 01:36:23,000
+se va a mover 0.25%
+
+1730
+01:36:23,000 --> 01:36:26,000
+literal en trading view
+
+1731
+01:36:26,000 --> 01:36:29,000
+vamos a calcular ese
+
+1732
+01:36:43,000 --> 01:36:46,000
+no lo voy a poder calcular
+
+1733
+01:36:46,000 --> 01:36:49,000
+porque se mueve demasiado rápido
+
+1734
+01:36:49,000 --> 01:36:52,000
+aquí ya es un 4.24%
+
+1735
+01:36:52,000 --> 01:36:55,000
+pero tiremosle a un 1%
+
+1736
+01:36:55,000 --> 01:36:58,000
+a ganarlo, entonces le pongo 35
+
+1737
+01:36:58,000 --> 01:37:01,000
+que son la cantidad de compra-ventas
+
+1738
+01:37:01,000 --> 01:37:04,000
+aquí abajo le dice que voy a ganar 1.14% al 2.22%
+
+1739
+01:37:04,000 --> 01:37:07,000
+inversión
+
+1740
+01:37:07,000 --> 01:37:10,000
+miren, yo aquí como operó bitcoin
+
+1741
+01:37:10,000 --> 01:37:13,000
+solamente yo le meto bien
+
+1742
+01:37:13,000 --> 01:37:16,000
+o sea esta cuenta es la de testing, en la otra, en la mía
+
+1743
+01:37:16,000 --> 01:37:19,000
+propia, si ayer compré por ejemplo
+
+1744
+01:37:19,000 --> 01:37:22,000
+como unos 85 mil dólares
+
+1745
+01:37:22,000 --> 01:37:25,000
+de Nvidia, a bitcoin le meto más
+
+1746
+01:37:25,000 --> 01:37:28,000
+entonces
+
+1747
+01:37:28,000 --> 01:37:31,000
+no se trata de la cantidad, se trata de
+
+1748
+01:37:31,000 --> 01:37:34,000
+diversificar bien el capital que tenga
+
+1749
+01:37:34,000 --> 01:37:37,000
+entonces, como yo sé que en bitcoin no voy a perder
+
+1750
+01:37:37,000 --> 01:37:40,000
+bueno, aquí no tengo valor porque es dos
+
+1751
+01:37:40,000 --> 01:37:43,000
+entonces no me vaya a decir que le meta todo lo que tengo
+
+1752
+01:37:43,000 --> 01:37:46,000
+le voy a meter mil dólares nada más porque yo sé lo que es
+
+1753
+01:37:46,000 --> 01:37:49,000
+no quiero pensar que bitcoin es
+
+1754
+01:37:49,000 --> 01:37:52,000
+leemos
+
+1755
+01:37:52,000 --> 01:37:55,000
+ya está todo configurado, confirmar
+
+1756
+01:37:55,000 --> 01:37:58,000
+y qué hacemos después de esto? nada
+
+1757
+01:37:58,000 --> 01:38:01,000
+bueno, darle a ver estrategia y se queda así
+
+1758
+01:38:01,000 --> 01:38:04,000
+después de esto
+
+1759
+01:38:04,000 --> 01:38:07,000
+usted siempre va a entrar perdiendo
+
+1760
+01:38:07,000 --> 01:38:10,000
+no tanto por la comisión, sino por el
+
+1761
+01:38:10,000 --> 01:38:13,000
+order book de ese activo digamos
+
+1762
+01:38:13,000 --> 01:38:16,000
+como nosotros cuando compramos en spot
+
+1763
+01:38:16,000 --> 01:38:19,000
+no le compramos el exchange, el exchange solo
+
+1764
+01:38:19,000 --> 01:38:22,000
+es como una pasarela entre tú y yo
+
+1765
+01:38:22,000 --> 01:38:25,000
+entonces el libro de órdenes
+
+1766
+01:38:25,000 --> 01:38:28,000
+hace que yo que quiero comprar dos
+
+1767
+01:38:28,000 --> 01:38:31,000
+en spot, necesito alguien que me venda
+
+1768
+01:38:31,000 --> 01:38:34,000
+o sea, no es que el exchange tenga
+
+1769
+01:38:34,000 --> 01:38:37,000
+como un pool
+
+1770
+01:38:37,000 --> 01:38:40,000
+de tokens de dos
+
+1771
+01:38:40,000 --> 01:38:43,000
+sino que me abre la puerta al mercado donde alguien vende
+
+1772
+01:38:43,000 --> 01:38:46,000
+bien, entonces
+
+1773
+01:38:46,000 --> 01:38:49,000
+él me acaba de vender a mí pero no al precio que decía
+
+1774
+01:38:49,000 --> 01:38:52,000
+ahí en el exchange, sino al precio en el que
+
+1775
+01:38:52,000 --> 01:38:55,000
+estaba
+
+1776
+01:38:55,000 --> 01:38:58,000
+la oferta, por eso
+
+1777
+01:38:58,000 --> 01:39:01,000
+si yo le meto un millón, me lo paso llevando él
+
+1778
+01:39:01,000 --> 01:39:04,000
+y a todos los que están vendiendo hasta
+
+1779
+01:39:04,000 --> 01:39:07,000
+el final y sale la velita
+
+1780
+01:39:07,000 --> 01:39:10,000
+por eso le digo que cuando entra una ballena
+
+1781
+01:39:10,000 --> 01:39:13,000
+arrastra a todos y en el precio
+
+1782
+01:39:13,000 --> 01:39:16,000
+ustedes van a ver que pega un mechazo
+
+1783
+01:39:16,000 --> 01:39:19,000
+es por eso justamente, porque toda la gente que estaba vendiendo
+
+1784
+01:39:19,000 --> 01:39:22,000
+posiciones pequeñas, ni siquiera logran llenar
+
+1785
+01:39:22,000 --> 01:39:25,000
+lo que el otro está comprando
+
+1786
+01:39:25,000 --> 01:39:28,000
+pero asumiendo que si lo logra llenar
+
+1787
+01:39:28,000 --> 01:39:31,000
+no me está vendiendo el precio que yo quiero
+
+1788
+01:39:31,000 --> 01:39:34,000
+no me está vendiendo el precio que él está vendiendo
+
+1789
+01:39:34,000 --> 01:39:37,000
+porque yo estoy en market, no estoy en limit
+
+1790
+01:39:37,000 --> 01:39:40,000
+es decir que estoy dispuesto a pagar el precio que él está pidiendo
+
+1791
+01:39:40,000 --> 01:39:43,000
+esa es una de las razones del porqué
+
+1792
+01:39:43,000 --> 01:39:46,000
+comienzo en rojo, pero eso no significa
+
+1793
+01:39:46,000 --> 01:39:49,000
+que usted va a estar en rojo, significa que esto
+
+1794
+01:39:49,000 --> 01:39:52,000
+se va a poner en verde a medida que mi análisis
+
+1795
+01:39:52,000 --> 01:39:55,000
+dice que mi análisis salga bien aquí
+
+1796
+01:39:55,000 --> 01:39:58,000
+entonces
+
+1797
+01:39:58,000 --> 01:40:01,000
+en este patrón del lateral
+
+1798
+01:40:01,000 --> 01:40:04,000
+estamos por la parte baja
+
+1799
+01:40:04,000 --> 01:40:07,000
+asumiendo que este patrón lo tengo en bitcoin
+
+1800
+01:40:07,000 --> 01:40:10,000
+entonces cuando el precio suba ya va a estar verde
+
+1801
+01:40:10,000 --> 01:40:13,000
+entonces ya usted decide cerrarlo y ganar
+
+1802
+01:40:13,000 --> 01:40:16,000
+en el siguiente movimiento bajista lo puede mantener
+
+1803
+01:40:16,000 --> 01:40:19,000
+pero no después de la onda C
+
+1804
+01:40:19,000 --> 01:40:22,000
+es decir que en algún punto aquí tiene que cerrar
+
+1805
+01:40:22,000 --> 01:40:25,000
+aquí
+
+1806
+01:40:25,000 --> 01:40:28,000
+aquí
+
+1807
+01:40:28,000 --> 01:40:31,000
+aquí abajo no
+
+1808
+01:40:31,000 --> 01:40:34,000
+aquí, aquí
+
+1809
+01:40:34,000 --> 01:40:37,000
+allí se cierra, o sea cuando está en verde pues
+
+1810
+01:40:37,000 --> 01:40:40,000
+asumiendo que eso es bitcoin
+
+1811
+01:40:40,000 --> 01:40:43,000
+en caso que nunca está en verde solo espere si se va a poner en verde
+
+1812
+01:40:43,000 --> 01:40:46,000
+en bitcoin
+
+1813
+01:40:46,000 --> 01:40:49,000
+ahora sí, ¿dudas ahí?
+
+1814
+01:40:49,000 --> 01:40:52,000
+Jaime, la entrada ideal siempre es en la parte baja del rango
+
+1815
+01:40:52,000 --> 01:40:55,000
+para que te reeditúe ganancias
+
+1816
+01:40:55,000 --> 01:40:58,000
+¿y porqué grid y porqué lo infinity?
+
+1817
+01:40:58,000 --> 01:41:01,000
+¿porqué spot grid y porqué lo infinity?
+
+1818
+01:41:01,000 --> 01:41:04,000
+El infinity ya lo vamos a ver, el infinity
+
+1819
+01:41:04,000 --> 01:41:07,000
+es diferente que éste porque el infinity se utiliza
+
+1820
+01:41:07,000 --> 01:41:10,000
+dentro de una tendencia
+
+1821
+01:41:10,000 --> 01:41:13,000
+que se utiliza
+
+1822
+01:41:13,000 --> 01:41:16,000
+dentro de una tendencia que se utiliza
+
+1823
+01:41:16,000 --> 01:41:19,000
+dentro de una tendencia
+
+1824
+01:41:19,000 --> 01:41:22,000
+yo aquí he determinado
+
+1825
+01:41:22,000 --> 01:41:25,000
+que lo que va a hacer es lateralizar, o sea hacer esto
+
+1826
+01:41:25,000 --> 01:41:28,000
+lo que pasa es que se ve bien alto
+
+1827
+01:41:28,000 --> 01:41:31,000
+pero visualmente
+
+1828
+01:41:31,000 --> 01:41:34,000
+te voy a pegar una ayudita
+
+1829
+01:41:34,000 --> 01:41:37,000
+que va a estar haciendo esto
+
+1830
+01:41:37,000 --> 01:41:40,000
+por eso utilicé un neutral
+
+1831
+01:41:40,000 --> 01:41:43,000
+ya vamos a ir a estudiar el infinity
+
+1832
+01:41:43,000 --> 01:41:46,000
+ya vamos a ir a estudiar el infinity grid
+
+1833
+01:41:46,000 --> 01:41:49,000
+que es el que más me gusta a mí porque a mí me gusta operar tendencias
+
+1834
+01:41:49,000 --> 01:41:52,000
+por eso si ustedes ven en el infinity grid
+
+1835
+01:41:52,000 --> 01:41:55,000
+no he perdido ninguna
+
+1836
+01:41:55,000 --> 01:41:58,000
+porque como solo opero bitcoin y agarro el movimiento
+
+1837
+01:41:58,000 --> 01:42:01,000
+ya vamos a ver ese, solo quiero saber que aquí no tengan duda
+
+1838
+01:42:01,000 --> 01:42:04,000
+del porqué usé un spot grid
+
+1839
+01:42:04,000 --> 01:42:07,000
+y no el infinity
+
+1840
+01:42:07,000 --> 01:42:10,000
+ese que les acabo de mostrar es para operar laterales
+
+1841
+01:42:10,000 --> 01:42:13,000
+miren, por ejemplo
+
+1842
+01:42:13,000 --> 01:42:16,000
+hay algunos criptos que tienen
+
+1843
+01:42:16,000 --> 01:42:19,000
+semanas en un lateral
+
+1844
+01:42:19,000 --> 01:42:22,000
+o sea, ahí pasan
+
+1845
+01:42:22,000 --> 01:42:25,000
+si nosotros hacemos esto
+
+1846
+01:42:25,000 --> 01:42:28,000
+en uno de esos criptos que no se mueven nada
+
+1847
+01:42:28,000 --> 01:42:31,000
+o sea que si se mueven pues pero
+
+1848
+01:42:31,000 --> 01:42:34,000
+han visto un electrocardiograma
+
+1849
+01:42:34,000 --> 01:42:37,000
+ah pues, esos que parecen electrocardiograma
+
+1850
+01:42:37,000 --> 01:42:40,000
+usted abre un neutral
+
+1851
+01:42:40,000 --> 01:42:43,000
+y ya tiene resuelto el problema y usted va a estar en la playa
+
+1852
+01:42:43,000 --> 01:42:46,000
+y la cosa sigue ganando
+
+1853
+01:42:46,000 --> 01:42:49,000
+preguntas, seguimos
+
+1854
+01:42:49,000 --> 01:42:52,000
+¿cómo sabes que es un lateral y no un
+
+1855
+01:42:52,000 --> 01:42:55,000
+retroceso a la media para seguir subiendo?
+
+1856
+01:42:55,000 --> 01:42:58,000
+a la media es un retroceso pero ya estoy allí
+
+1857
+01:42:58,000 --> 01:43:01,000
+¿si o no?
+
+1858
+01:43:01,000 --> 01:43:04,000
+si
+
+1859
+01:43:04,000 --> 01:43:07,000
+como la tendencia es alcista
+
+1860
+01:43:07,000 --> 01:43:10,000
+yo me arriesgo aquí en bitcoin
+
+1861
+01:43:10,000 --> 01:43:13,000
+acuérdense, olvídense de ese pato que está allí
+
+1862
+01:43:13,000 --> 01:43:16,000
+no se escribe así pero igual ya le dije pato
+
+1863
+01:43:16,000 --> 01:43:19,000
+se supone que estamos en bitcoin, entonces ¿qué pasa si
+
+1864
+01:43:19,000 --> 01:43:22,000
+esto se desploma todo?
+
+1865
+01:43:22,000 --> 01:43:25,000
+como yo le metí mil dólares de nueve mil
+
+1866
+01:43:25,000 --> 01:43:28,000
+ya saben ustedes qué hacer, baja más
+
+1867
+01:43:28,000 --> 01:43:31,000
+listo, se acabó
+
+1868
+01:43:31,000 --> 01:43:34,000
+nada
+
+1869
+01:43:34,000 --> 01:43:37,000
+por eso les dije solo bitcoin
+
+1870
+01:43:37,000 --> 01:43:40,000
+no me vayan a salir con que aquí diga por ejemplo
+
+1871
+01:43:40,000 --> 01:43:43,000
+meme y me salen con que baja más
+
+1872
+01:43:43,000 --> 01:43:46,000
+compramos más memes, no
+
+1873
+01:43:46,000 --> 01:43:49,000
+por eso vamos, porque aquí me están diciendo que el scalping
+
+1874
+01:43:49,000 --> 01:43:52,000
+le surge perder
+
+1875
+01:43:52,000 --> 01:43:55,000
+no, vamos despacito
+
+1876
+01:43:55,000 --> 01:43:58,000
+manejemos esto bien primero y vamos a ir hasta al
+
+1877
+01:43:58,000 --> 01:44:01,000
+grid a medida que usted me dé tiempo
+
+1878
+01:44:01,000 --> 01:44:04,000
+y el grid solo lo abras en diario
+
+1879
+01:44:04,000 --> 01:44:07,000
+si, porque ese spot
+
+1880
+01:44:07,000 --> 01:44:10,000
+no es futuros, para ir a futuros tendríamos que
+
+1881
+01:44:10,000 --> 01:44:13,000
+ya ir a cuatro horas o una hora y utilizamos el grid
+
+1882
+01:44:13,000 --> 01:44:16,000
+el grid futuros
+
+1883
+01:44:16,000 --> 01:44:19,000
+que está aquí arriba
+
+1884
+01:44:19,000 --> 01:44:22,000
+pero el color no importa
+
+1885
+01:44:22,000 --> 01:44:25,000
+aquí en crear van a ver que dice grid
+
+1886
+01:44:25,000 --> 01:44:28,000
+de futuros, entonces allí te puedes apalancar
+
+1887
+01:44:28,000 --> 01:44:31,000
+pero como no estamos en apalancamiento en este momento
+
+1888
+01:44:31,000 --> 01:44:34,000
+estamos manejando spot
+
+1889
+01:44:34,000 --> 01:44:37,000
+solo esos dos
+
+1890
+01:44:43,000 --> 01:44:46,000
+en el caso de este grid
+
+1891
+01:44:46,000 --> 01:44:49,000
+la temporalidad como la maneja
+
+1892
+01:44:49,000 --> 01:44:52,000
+no es por la cantidad de órdenes que le ejecute
+
+1893
+01:44:52,000 --> 01:44:55,000
+sino por ejemplo en el diario hasta que se acabe
+
+1894
+01:44:55,000 --> 01:44:58,000
+si, acuérdense
+
+1895
+01:44:58,000 --> 01:45:01,000
+que yo aquí ya habíamos quedado
+
+1896
+01:45:01,000 --> 01:45:04,000
+que proyectamos diez velitas por patrón
+
+1897
+01:45:04,000 --> 01:45:07,000
+entonces si yo cuento, uno, dos, tres, cuatro, cinco
+
+1898
+01:45:07,000 --> 01:45:10,000
+seis, siete, ocho, a partir de la octava
+
+1899
+01:45:10,000 --> 01:45:13,000
+ya me permito yo especular
+
+1900
+01:45:13,000 --> 01:45:16,000
+que como ya pasó el tiempo
+
+1901
+01:45:16,000 --> 01:45:19,000
+este movimiento no debería de caer
+
+1902
+01:45:19,000 --> 01:45:22,000
+por debajo de la media
+
+1903
+01:45:22,000 --> 01:45:25,000
+asumiendo que esto es bitcoin
+
+1904
+01:45:25,000 --> 01:45:28,000
+porque como esto es una cosa que ya vale cincuenta centavos
+
+1905
+01:45:28,000 --> 01:45:31,000
+de repente puede pegar un machazo hasta aquí abajo
+
+1906
+01:45:31,000 --> 01:45:34,000
+capaz que llegue por aquí abajo
+
+1907
+01:45:34,000 --> 01:45:37,000
+porque es esa cosa que no conozco
+
+1908
+01:45:37,000 --> 01:45:40,000
+pero vuelvo y insisto, eso es bitcoin, asumamos
+
+1909
+01:45:40,000 --> 01:45:43,000
+no debería de hacer eso
+
+1910
+01:45:43,000 --> 01:45:46,000
+más o menos o no
+
+1911
+01:45:46,000 --> 01:45:49,000
+no, pero me refiero al tiempo que va a correr
+
+1912
+01:45:49,000 --> 01:45:52,000
+el robot por así decirlo
+
+1913
+01:45:52,000 --> 01:45:55,000
+en el lateral, ¿cómo se calcula?
+
+1914
+01:45:55,000 --> 01:45:58,000
+como aquí ya lo tengo
+
+1915
+01:45:58,000 --> 01:46:01,000
+diez días para arriba y otros diez días para abajo, son veinte
+
+1916
+01:46:01,000 --> 01:46:04,000
+a partir de que yo lo abrí
+
+1917
+01:46:04,000 --> 01:46:07,000
+si
+
+1918
+01:46:07,000 --> 01:46:10,000
+porque aquí ya hizo la primera compra
+
+1919
+01:46:10,000 --> 01:46:13,000
+entonces ¿dónde cerraríamos, aquí o aquí?
+
+1920
+01:46:13,000 --> 01:46:16,000
+aquí, y nosotros proyectamos, ¿cuántos movimientos a la vez?
+
+1921
+01:46:16,000 --> 01:46:19,000
+uno, entonces cuando estemos aquí
+
+1922
+01:46:19,000 --> 01:46:22,000
+en la B, cerramos
+
+1923
+01:46:22,000 --> 01:46:25,000
+aquí abajo no
+
+1924
+01:46:28,000 --> 01:46:31,000
+sí, sí, sí, sí, los movimientos
+
+1925
+01:46:31,000 --> 01:46:34,000
+o sea, ¿cómo calcula hasta dónde se va a detener?
+
+1926
+01:46:34,000 --> 01:46:37,000
+no, esos treinta y cinco
+
+1927
+01:46:37,000 --> 01:46:40,000
+buena pregunta, la verdad es que no pensé que se me fuera
+
+1928
+01:46:40,000 --> 01:46:43,000
+a confundir ahí, pero está fácil
+
+1929
+01:46:43,000 --> 01:46:46,000
+esos no son movimientos, son compras
+
+1930
+01:46:46,000 --> 01:46:49,000
+te lo muestro
+
+1931
+01:46:49,000 --> 01:46:52,000
+como se está ejecutando aquí, ¿verdad?
+
+1932
+01:46:52,000 --> 01:46:55,000
+por dentro lo que hay son órdenes de compra y venta tal cual como está en pantalla
+
+1933
+01:46:55,000 --> 01:46:58,000
+en este momento no he hecho ni una más
+
+1934
+01:46:58,000 --> 01:47:01,000
+que la primera compra, entonces lo que aquí estamos diciendo
+
+1935
+01:47:01,000 --> 01:47:04,000
+nosotros, es esto ve
+
+1936
+01:47:04,000 --> 01:47:07,000
+ese es treinta y cinco que le puse
+
+1937
+01:47:07,000 --> 01:47:10,000
+aquí hay trece, más
+
+1938
+01:47:10,000 --> 01:47:13,000
+veintidós
+
+1939
+01:47:13,000 --> 01:47:16,000
+treinta y cinco
+
+1940
+01:47:16,000 --> 01:47:19,000
+esas son las que va a ser en total
+
+1941
+01:47:19,000 --> 01:47:22,000
+estas que ves tú aquí
+
+1942
+01:47:22,000 --> 01:47:25,000
+son las treinta y cinco entre ventas y compras que he configurado
+
+1943
+01:47:25,000 --> 01:47:28,000
+que cada una va a generar del uno punto
+
+1944
+01:47:28,000 --> 01:47:31,000
+¿cuánto dijimos? uno punto veintidós a dos por ciento
+
+1945
+01:47:31,000 --> 01:47:34,000
+más o menos, no me acuerdo
+
+1946
+01:47:34,000 --> 01:47:37,000
+esto no te miden tiempo, sino la distancia de una compra
+
+1947
+01:47:37,000 --> 01:47:40,000
+a una venta, por ejemplo la siguiente compra estaría
+
+1948
+01:47:40,000 --> 01:47:43,000
+en cero punto cuarenta y nueve
+
+1949
+01:47:43,000 --> 01:47:46,000
+sesenta y siete, si el precio cae
+
+1950
+01:47:46,000 --> 01:47:49,000
+a cero punto cuarenta y nueve sesenta y siete
+
+1951
+01:47:49,000 --> 01:47:52,000
+este bot va a comprar más
+
+1952
+01:47:52,000 --> 01:47:55,000
+si cae a cuarenta y ocho setenta y seis
+
+1953
+01:47:55,000 --> 01:47:58,000
+compra, o sea estas son compras, las verdes
+
+1954
+01:47:58,000 --> 01:48:01,000
+a medida va cayendo va comprando, y cuando comience
+
+1955
+01:48:01,000 --> 01:48:04,000
+a subir comienza a vender
+
+1956
+01:48:04,000 --> 01:48:07,000
+y va a ir a vender hasta el cero punto
+
+1957
+01:48:07,000 --> 01:48:10,000
+setenta y setenta y cuatro que ya nosotros
+
+1958
+01:48:10,000 --> 01:48:13,000
+determinamos aquí arriba, aquí
+
+1959
+01:48:13,000 --> 01:48:16,000
+aquí está mira
+
+1960
+01:48:16,000 --> 01:48:19,000
+ese margen de operaciones entonces va a ser de A
+
+1961
+01:48:19,000 --> 01:48:22,000
+hacia B nada más, ahí están las treinta y cinco ya metidas
+
+1962
+01:48:22,000 --> 01:48:25,000
+sí, pero asumiendo
+
+1963
+01:48:25,000 --> 01:48:28,000
+aquí están ya las treinta y cinco
+
+1964
+01:48:28,000 --> 01:48:31,000
+metidas desde el mínimo hasta el máximo
+
+1965
+01:48:31,000 --> 01:48:34,000
+ahora, ¿cuánto tiempo vamos a pasar
+
+1966
+01:48:34,000 --> 01:48:37,000
+lateralizando ahí? honestamente no se sabe
+
+1967
+01:48:37,000 --> 01:48:40,000
+acuérdense que mi estrategia tiene
+
+1968
+01:48:40,000 --> 01:48:43,000
+un nivel de acierto que con este patrón
+
+1969
+01:48:43,000 --> 01:48:46,000
+y con la tendencia que llevamos esto no debería de tener una caída
+
+1970
+01:48:46,000 --> 01:48:49,000
+bueno esto sí porque es esto
+
+1971
+01:48:49,000 --> 01:48:52,000
+no sé qué cosa, pero asumamos que
+
+1972
+01:48:52,000 --> 01:48:55,000
+bitcoin no debería de caer
+
+1973
+01:48:55,000 --> 01:48:58,000
+por ejemplo bitcoin, cuando yo hice esta proyección en bitcoin
+
+1974
+01:48:58,000 --> 01:49:01,000
+va bien, ha salido el rango
+
+1975
+01:49:01,000 --> 01:49:04,000
+tal cual, por eso
+
+1976
+01:49:04,000 --> 01:49:07,000
+voy acumulando cosas
+
+1977
+01:49:07,000 --> 01:49:10,000
+verdes, si usted lo ve todo verde
+
+1978
+01:49:10,000 --> 01:49:13,000
+se ve bonito, pero siempre que lo haga en bitcoin
+
+1979
+01:49:16,000 --> 01:49:19,000
+si por ejemplo
+
+1980
+01:49:19,000 --> 01:49:22,000
+si llegara a suceder, que pegar un mechazo
+
+1981
+01:49:22,000 --> 01:49:25,000
+y rebase tu precio máximo
+
+1982
+01:49:25,000 --> 01:49:28,000
+qué pasaría con las treinta y cinco órdenes, ya simplemente no se ejecuten
+
+1983
+01:49:28,000 --> 01:49:31,000
+todas se vendieron ya
+
+1984
+01:49:31,000 --> 01:49:34,000
+y sacas tus dólares que ganaste
+
+1985
+01:49:37,000 --> 01:49:40,000
+va a ir a vender hasta aquí
+
+1986
+01:49:40,000 --> 01:49:43,000
+va a ejecutar su última venta, de aquí hacia arriba
+
+1987
+01:49:43,000 --> 01:49:46,000
+cerrarlo y llevarte los dólares que te ganaste
+
+1988
+01:49:46,000 --> 01:49:49,000
+qué pasa, asumimos que bitcoin verdad
+
+1989
+01:49:49,000 --> 01:49:52,000
+de aquí para abajo te quedas preñado con bitcoin
+
+1990
+01:49:52,000 --> 01:49:55,000
+por eso
+
+1991
+01:49:55,000 --> 01:49:58,000
+yo insisto, es que tiene que ser bitcoin
+
+1992
+01:49:58,000 --> 01:50:01,000
+porque si sale mal, nosotros sabemos que en bitcoin no vamos a perder
+
+1993
+01:50:01,000 --> 01:50:04,000
+porque eso es spot
+
+1994
+01:50:04,000 --> 01:50:07,000
+entonces como de nueve mil dólares, yo le metí mil
+
+1995
+01:50:07,000 --> 01:50:10,000
+tengo ocho mil para si baja más
+
+1996
+01:50:10,000 --> 01:50:13,000
+compro más, hasta que llegue a mil dólares me vale madre, pero yo de perder no pierdo
+
+1997
+01:50:13,000 --> 01:50:16,000
+porque ya llevo la gestión
+
+1998
+01:50:16,000 --> 01:50:19,000
+si acuerdan aquel cuadrito que vimos al principio
+
+1999
+01:50:19,000 --> 01:50:22,000
+que les dije que solo aprendan de memoria, es por esto
+
+2000
+01:50:22,000 --> 01:50:25,000
+porque si aquí usted, desde aquí le mete los diez mil dólares
+
+2001
+01:50:25,000 --> 01:50:28,000
+y esto llega a romper hacia abajo
+
+2002
+01:50:28,000 --> 01:50:31,000
+eso se llama preñada de elefante
+
+2003
+01:50:31,000 --> 01:50:34,000
+hasta que el precio de bitcoin vuelva a sesenta y seis
+
+2004
+01:50:34,000 --> 01:50:37,000
+cuánto está
+
+2005
+01:50:37,000 --> 01:50:40,000
+digamos que hasta que vuelva a llegar al
+
+2006
+01:50:40,000 --> 01:50:43,000
+a sesenta y ocho mil, lo va a volver a ver verde
+
+2007
+01:50:43,000 --> 01:50:46,000
+que no va a perder, pero puede pasar
+
+2008
+01:50:46,000 --> 01:50:49,000
+un año o dos años ahí esperando
+
+2009
+01:50:49,000 --> 01:50:52,000
+entonces no se trata de que va a perder, se trata del tiempo
+
+2010
+01:50:52,000 --> 01:50:55,000
+que le va a tomar estar esperando
+
+2011
+01:50:55,000 --> 01:50:58,000
+entonces nosotros lo que queremos es ganar
+
+2012
+01:50:58,000 --> 01:51:01,000
+en el menor tiempo posible con el menor riesgo posible
+
+2013
+01:51:01,000 --> 01:51:04,000
+por eso le estoy enseñando cómo se hace
+
+2014
+01:51:04,000 --> 01:51:07,000
+es que miren, hoy nosotros ya tenemos
+
+2015
+01:51:07,000 --> 01:51:10,000
+la estrategia
+
+2016
+01:51:10,000 --> 01:51:13,000
+y la operamos
+
+2017
+01:51:13,000 --> 01:51:16,000
+o sea, ya está terminado el ciclo
+
+2018
+01:51:16,000 --> 01:51:19,000
+para cerrar
+
+2019
+01:51:19,000 --> 01:51:22,000
+cuando ganemos
+
+2020
+01:51:22,000 --> 01:51:25,000
+o sea, aquí yo lo que, porque si yo, a ver
+
+2021
+01:51:25,000 --> 01:51:28,000
+si yo voy y aquí me pongo aquí y les digo que cierren
+
+2022
+01:51:28,000 --> 01:51:31,000
+porque ya está verde, o sea yo podría cerrar
+
+2023
+01:51:31,000 --> 01:51:34,000
+pero yo qué hago con un dólar
+
+2024
+01:51:34,000 --> 01:51:37,000
+vamos hombre
+
+2025
+01:51:37,000 --> 01:51:40,000
+no vale la pena el esfuerzo
+
+2026
+01:51:43,000 --> 01:51:46,000
+hombre, si ya cuando uno se lo maneja bien esto
+
+2027
+01:51:46,000 --> 01:51:49,000
+aquí fácil con un capítulo
+
+2028
+01:51:49,000 --> 01:51:52,000
+estos son mil dólares, pero si estos fueran diez mil
+
+2029
+01:51:52,000 --> 01:51:55,000
+digamos a diez mil es acaso unos mil quinientos dólares
+
+2030
+01:51:55,000 --> 01:51:58,000
+mensuales, así bien tranquilo
+
+2031
+01:51:58,000 --> 01:52:01,000
+un salario, serían como unos tres, cuatro
+
+2032
+01:52:01,000 --> 01:52:04,000
+salarios mínimos de mi país, cosa que
+
+2033
+01:52:04,000 --> 01:52:07,000
+una persona normal, bueno nosotros
+
+2034
+01:52:07,000 --> 01:52:10,000
+somos normales también, pero digamos una persona
+
+2035
+01:52:10,000 --> 01:52:13,000
+que no sabe hacerlo, tiene que trabajar
+
+2036
+01:52:13,000 --> 01:52:16,000
+de ocho a diez dólares, mejor no hablemos de eso
+
+2037
+01:52:16,000 --> 01:52:19,000
+porque me da como sentimiento
+
+2038
+01:52:19,000 --> 01:52:22,000
+pero trabajan todo el día parados
+
+2039
+01:52:22,000 --> 01:52:25,000
+allí en una maquila y le pagan diez dólares al día
+
+2040
+01:52:25,000 --> 01:52:28,000
+y si nosotros con
+
+2041
+01:52:28,000 --> 01:52:31,000
+esto podemos ganar mil quinientos al mes
+
+2042
+01:52:31,000 --> 01:52:34,000
+y acostado en una maca frente a la playa
+
+2043
+01:52:34,000 --> 01:52:37,000
+es duro, la vida es así
+
+2044
+01:52:37,000 --> 01:52:40,000
+bien seguimos, entonces para dejarlo claro
+
+2045
+01:52:40,000 --> 01:52:43,000
+cuando hacemos el análisis
+
+2046
+01:52:43,000 --> 01:52:46,000
+y vemos el rango, un grid neutral
+
+2047
+01:52:46,000 --> 01:52:49,000
+verdad, correcto
+
+2048
+01:52:49,000 --> 01:52:52,000
+ese es el resumen, por eso hoy
+
+2049
+01:52:52,000 --> 01:52:55,000
+se acuerdan que yo les expliqué que hay que llevar
+
+2050
+01:52:55,000 --> 01:52:58,000
+un proceso de aprendizaje, allí están que
+
+2051
+01:52:58,000 --> 01:53:01,000
+si no saben ni siquiera manejar
+
+2052
+01:53:01,000 --> 01:53:04,000
+spot, a que van a ir a un minuto
+
+2053
+01:53:04,000 --> 01:53:07,000
+entonces cuando ya nosotros sabemos donde ganar dinero
+
+2054
+01:53:07,000 --> 01:53:10,000
+no necesitamos ir a hacer scalping
+
+2055
+01:53:10,000 --> 01:53:13,000
+pero bien, nosotros lo vamos a hacer a modo educativo
+
+2056
+01:53:13,000 --> 01:53:16,000
+ahora puedo pasar ya a explicar el spot infinity grid
+
+2057
+01:53:16,000 --> 01:53:19,000
+aplicado dentro de mi estrategia operativa
+
+2058
+01:53:19,000 --> 01:53:22,000
+ya, o sea que con billete en mano
+
+2059
+01:53:22,000 --> 01:53:25,000
+no como analista, ya como operador
+
+2060
+01:53:25,000 --> 01:53:28,000
+y para terminar, después te has probado esta misma estrategia
+
+2061
+01:53:28,000 --> 01:53:31,000
+pero en gráfico semanal o ya es muy largo
+
+2062
+01:53:31,000 --> 01:53:34,000
+mucho tiempo?
+
+2063
+01:53:34,000 --> 01:53:37,000
+no, la verdad es que
+
+2064
+01:53:37,000 --> 01:53:40,000
+en el semanal es mejor incluso el spot infinity grid
+
+2065
+01:53:40,000 --> 01:53:43,000
+porque como no te cobran nada
+
+2066
+01:53:43,000 --> 01:53:46,000
+lo dejas ahí y dejas como las órdenes puestas
+
+2067
+01:53:46,000 --> 01:53:49,000
+y ya está
+
+2068
+01:53:49,000 --> 01:53:52,000
+o sea no necesitas hacer mucho
+
+2069
+01:53:52,000 --> 01:53:55,000
+por ejemplo, pensaba yo, si es un semanal
+
+2070
+01:53:55,000 --> 01:53:58,000
+algo más grande
+
+2071
+01:53:58,000 --> 01:54:01,000
+y para las pupusas como decís vos
+
+2072
+01:54:01,000 --> 01:54:04,000
+es que en el semanal
+
+2073
+01:54:04,000 --> 01:54:07,000
+lo más bonito del semanal es que cuando detectas un rango
+
+2074
+01:54:07,000 --> 01:54:10,000
+en el semanal como el que les mostré, el que tienen en su libro
+
+2075
+01:54:10,000 --> 01:54:13,000
+yo creo que huele a nuevo
+
+2076
+01:54:13,000 --> 01:54:16,000
+yo ando un poquito mal, yo creo que huele a nuevo
+
+2077
+01:54:17,000 --> 01:54:20,000
+esto es material de apoyo
+
+2078
+01:54:20,000 --> 01:54:23,000
+ah no, por lo menos ya escribiste algo
+
+2079
+01:54:23,000 --> 01:54:26,000
+mira, yo a mi hijo le digo, hijo y usted estudie
+
+2080
+01:54:26,000 --> 01:54:29,000
+y le digo, sí me dice
+
+2081
+01:54:29,000 --> 01:54:32,000
+no creo
+
+2082
+01:54:32,000 --> 01:54:35,000
+esto huele a nuevo
+
+2083
+01:54:35,000 --> 01:54:38,000
+pero no, miren, es este miren
+
+2084
+01:54:38,000 --> 01:54:41,000
+en el semanal ya les voy a enseñar
+
+2085
+01:54:41,000 --> 01:54:44,000
+ya les digo a qué página se vayan
+
+2086
+01:54:44,000 --> 01:54:47,000
+qué es lo que él me está diciendo, se acuerdan que en el semanal
+
+2087
+01:54:47,000 --> 01:54:50,000
+yo les comentaba de que se iba a formar
+
+2088
+01:54:53,000 --> 01:54:56,000
+esto es importante, el que está en la página
+
+2089
+01:54:56,000 --> 01:54:59,000
+16, ese cuadrito resume el 50% del éxito
+
+2090
+01:54:59,000 --> 01:55:02,000
+como tráiler que pueda tener
+
+2091
+01:55:02,000 --> 01:55:05,000
+ya va a ver
+
+2092
+01:55:05,000 --> 01:55:08,000
+alguien lo encuentra antes que yo, porfa
+
+2093
+01:55:08,000 --> 01:55:11,000
+qué página es
+
+2094
+01:55:11,000 --> 01:55:14,000
+no, es la página
+
+2095
+01:55:14,000 --> 01:55:17,000
+es en la página nueve
+
+2096
+01:55:17,000 --> 01:55:20,000
+miren, en la página nueve
+
+2097
+01:55:20,000 --> 01:55:23,000
+de su, el libro, bueno no sé cómo llamarle
+
+2098
+01:55:23,000 --> 01:55:26,000
+cómo le llamamos, workbook
+
+2099
+01:55:26,000 --> 01:55:29,000
+el documento es el que tienen de apoyo
+
+2100
+01:55:29,000 --> 01:55:32,000
+miren, aprovechando el semanal
+
+2101
+01:55:32,000 --> 01:55:35,000
+aprovechando que me dice alguien
+
+2102
+01:55:35,000 --> 01:55:38,000
+que si eso se hace en el semanal, claro
+
+2103
+01:55:38,000 --> 01:55:41,000
+cuando usted determine esto en un gráfico semanal
+
+2104
+01:55:41,000 --> 01:55:44,000
+si usted se fija
+
+2105
+01:55:44,000 --> 01:55:47,000
+es el mismo patrón
+
+2106
+01:55:47,000 --> 01:55:50,000
+por eso ya conocemos los patrones, ahí lo tiene usted
+
+2107
+01:55:50,000 --> 01:55:53,000
+en su documento de apoyo
+
+2108
+01:55:53,000 --> 01:55:56,000
+si se fija
+
+2109
+01:55:56,000 --> 01:55:59,000
+yo creo que ya hay café allí, verdad, no
+
+2110
+01:55:59,000 --> 01:56:02,000
+no hay ni agua, cómo dicen
+
+2111
+01:56:02,000 --> 01:56:05,000
+ok, solo
+
+2112
+01:56:05,000 --> 01:56:08,000
+y vamos ahí
+
+2113
+01:56:08,000 --> 01:56:11,000
+a revisar por qué no hay agua
+
+2114
+01:56:11,000 --> 01:56:14,000
+miren
+
+2115
+01:56:14,000 --> 01:56:17,000
+aquí la gente dice, pero y cómo sabía
+
+2116
+01:56:17,000 --> 01:56:20,000
+que iba a ser un lateral, porque esto como es en vivo
+
+2117
+01:56:20,000 --> 01:56:23,000
+no hay manera de mentir, no
+
+2118
+01:56:23,000 --> 01:56:26,000
+si esto estaba así, es que es por la temporalidad
+
+2119
+01:56:26,000 --> 01:56:29,000
+si yo me espero a que esto se gire a la baja
+
+2120
+01:56:29,000 --> 01:56:32,000
+esto va a estar aquí abajo, porque el indicador
+
+2121
+01:56:32,000 --> 01:56:35,000
+más alto es el tiempo
+
+2122
+01:56:35,000 --> 01:56:38,000
+sí, entonces ya en el semanal hay que
+
+2123
+01:56:38,000 --> 01:56:41,000
+adelantarse a estos dos
+
+2124
+01:56:41,000 --> 01:56:44,000
+entonces si ya nos, digamos, si ya ustedes detectaron
+
+2125
+01:56:44,000 --> 01:56:47,000
+que se va a meter en un rango como yo, porque al final vamos a ver lo mismo
+
+2126
+01:56:47,000 --> 01:56:50,000
+te llegas a agarrar todo este, son varias
+
+2127
+01:56:50,000 --> 01:56:53,000
+semanas, son tres meses, miren, uno, dos, tres
+
+2128
+01:56:53,000 --> 01:56:56,000
+cuatro, cinco, seis, siete, ocho, nueve
+
+2129
+01:56:56,000 --> 01:56:59,000
+en la diez rompe el alza
+
+2130
+01:56:59,000 --> 01:57:02,000
+diez semanas, dos meses y medio comiendo
+
+2131
+01:57:02,000 --> 01:57:05,000
+carne aquí
+
+2132
+01:57:05,000 --> 01:57:08,000
+con un spot infinity grid, perdón, con un spot neutral
+
+2133
+01:57:08,000 --> 01:57:11,000
+porque usted antes ya sabe que va a formar un rango
+
+2134
+01:57:11,000 --> 01:57:14,000
+entonces se va a su exchange
+
+2135
+01:57:14,000 --> 01:57:17,000
+y abre ese bendito rango, o sea a operarlo
+
+2136
+01:57:17,000 --> 01:57:20,000
+automático
+
+2137
+01:57:20,000 --> 01:57:23,000
+ya no esté usted sufriendo ahí con el mouse
+
+2138
+01:57:23,000 --> 01:57:26,000
+listo, sí
+
+2139
+01:57:26,000 --> 01:57:29,000
+Jaime
+
+2140
+01:57:29,000 --> 01:57:32,000
+Jaime, allí fallé un poquito
+
+2141
+01:57:32,000 --> 01:57:35,000
+o sea, porque como le digo
+
+2142
+01:57:35,000 --> 01:57:38,000
+en un curso no fallo, en la vida real sí
+
+2143
+01:57:38,000 --> 01:57:41,000
+por ejemplo yo decía aquí que se iba a formar un lateral
+
+2144
+01:57:41,000 --> 01:57:44,000
+y esto yo no lo puedo editar ni eliminar, o sea
+
+2145
+01:57:44,000 --> 01:57:47,000
+o sí, este creo que es privado o no
+
+2146
+01:57:47,000 --> 01:57:50,000
+no sé, el punto es el siguiente
+
+2147
+01:57:50,000 --> 01:57:53,000
+aquí con el patrón que tiene
+
+2148
+01:57:53,000 --> 01:57:56,000
+teníamos diez semanas dijimos, verdad
+
+2149
+01:57:56,000 --> 01:57:59,000
+el lateral yo lo calculaba a los
+
+2150
+01:57:59,000 --> 01:58:02,000
+treinta y un mil
+
+2151
+01:58:02,000 --> 01:58:05,000
+que se conoce como duda dentro de la onda
+
+2152
+01:58:05,000 --> 01:58:08,000
+tres alcista, aquí te hacen dudar
+
+2153
+01:58:08,000 --> 01:58:11,000
+después de que rompe el máximo, te hacen dudar
+
+2154
+01:58:11,000 --> 01:58:14,000
+y luego para arriba
+
+2155
+01:58:14,000 --> 01:58:17,000
+entonces en estas diez semanas puedes ocuparme
+
+2156
+01:58:17,000 --> 01:58:20,000
+¿cuánto es? es que yo no lo logro ver honestamente, el máximo aquí ¿cuánto fue?
+
+2157
+01:58:20,000 --> 01:58:23,000
+es que como estoy bien cerca de la pantalla
+
+2158
+01:58:23,000 --> 01:58:26,000
+y la parte baja
+
+2159
+01:58:26,000 --> 01:58:29,000
+yo lo dejé en treinta y uno
+
+2160
+01:58:29,000 --> 01:58:32,000
+como parte más baja
+
+2161
+01:58:32,000 --> 01:58:35,000
+o sea me equivoqué como por cuatro mil quizás
+
+2162
+01:58:35,000 --> 01:58:38,000
+o no, bueno no sé
+
+2163
+01:58:38,000 --> 01:58:41,000
+el punto es que hizo ese
+
+2164
+01:58:41,000 --> 01:58:44,000
+ese lateral, ahora no intenten
+
+2165
+01:58:44,000 --> 01:58:47,000
+saber con exactitud
+
+2166
+01:58:47,000 --> 01:58:50,000
+el mínimo y el máximo
+
+2167
+01:58:50,000 --> 01:58:53,000
+eso no lo logra nadie
+
+2168
+01:58:53,000 --> 01:58:56,000
+pues si se calcula y se opera
+
+2169
+01:58:56,000 --> 01:58:59,000
+verdad, entonces vayan a comer algo ahí
+
+2170
+01:58:59,000 --> 01:59:02,000
+y miren que ya les trajeron algo
+
+2171
+01:59:02,000 --> 01:59:05,000
+y huele rico y yo quiero tomar café también
+
+2172
+01:59:05,000 --> 01:59:08,000
+Jaime, le paso una pregunta antes de terminar
+
+2173
+01:59:08,000 --> 01:59:11,000
+en rangos
+
+2174
+01:59:11,000 --> 01:59:14,000
+pero analizando las listas de Binx
+
+2175
+01:59:14,000 --> 01:59:17,000
+en uno de sus listas se encuentra DAI
+
+2176
+01:59:17,000 --> 01:59:20,000
+ya que como un stablecoin siempre suele mantenerse lineal
+
+2177
+01:59:20,000 --> 01:59:23,000
+¿recomienda abrir un neutral grid en un stablecoin?
+
+2178
+01:59:23,000 --> 01:59:26,000
+no porque como un stablecoin
+
+2179
+01:59:26,000 --> 01:59:29,000
+no tiene par con que operar
+
+2180
+01:59:29,000 --> 01:59:32,000
+o con que lo quieres operar
+
+2181
+01:59:32,000 --> 01:59:35,000
+lo que pasa es que en Binx te da la opción de DAI USDT
+
+2182
+01:59:35,000 --> 01:59:38,000
+y pues el gráfico está en
+
+2183
+01:59:38,000 --> 01:59:41,000
+no pero parece gracioso, vamos a operar forex entonces
+
+2184
+01:59:42,000 --> 01:59:45,000
+vamos, ya te entendí, quieres operar DAI
+
+2185
+01:59:45,000 --> 01:59:48,000
+que es un stablecoin que supuestamente está respaldado en un dólar
+
+2186
+01:59:48,000 --> 01:59:51,000
+contra USDT que también supuestamente está respaldado en un dólar
+
+2187
+01:59:51,000 --> 01:59:54,000
+no tanto por eso sino más bien por el tipo de gráfico que tiene
+
+2188
+01:59:54,000 --> 01:59:57,000
+ya que como no suele tener muchas variaciones
+
+2189
+01:59:57,000 --> 02:00:00,000
+a diferencia de bitcoin y es un poquito más lineal
+
+2190
+02:00:00,000 --> 02:00:03,000
+habría que probarlo, pero la pregunta ahí es
+
+2191
+02:00:03,000 --> 02:00:06,000
+si la volatilidad que tiene
+
+2192
+02:00:06,000 --> 02:00:09,000
+es de un centavo o de cuánto?
+
+2193
+02:00:09,000 --> 02:00:12,000
+pues ahí también tiene mechazos como todo
+
+2194
+02:00:12,000 --> 02:00:15,000
+pero normalmente suele ser de 99999997
+
+2195
+02:00:15,000 --> 02:00:18,000
+a 1.0020 por decir
+
+2196
+02:00:18,000 --> 02:00:21,000
+yo creo que no vas a ganar ni para las
+
+2197
+02:00:21,000 --> 02:00:24,000
+comisiones del exchange
+
+2198
+02:00:24,000 --> 02:00:27,000
+eso creo yo, pero no le he probado, capaz que le sacamos más dinerito
+
+2199
+02:00:27,000 --> 02:00:30,000
+ahí, pero creo que no es
+
+2200
+02:00:30,000 --> 02:00:33,000
+rentable, porque como tendrías que meterle
+
+2201
+02:00:33,000 --> 02:00:36,000
+100 grids
+
+2202
+02:00:36,000 --> 02:00:39,000
+entonces cuando hagas el intercambio de USDT a DAI
+
+2203
+02:00:39,000 --> 02:00:42,000
+y te vayas haciendo eso, vas a estar pagando comisiones
+
+2204
+02:00:42,000 --> 02:00:45,000
+yo creo que no es rentable
+
+2205
+02:00:45,000 --> 02:00:48,000
+pero si fuese rentable tendría que ser
+
+2206
+02:00:48,000 --> 02:00:51,000
+de 99 centavos a 1.01
+
+2207
+02:00:51,000 --> 02:00:54,000
+tratando de sacarle un centavo a cada operación
+
+2208
+02:00:54,000 --> 02:00:57,000
+y luego ver cuánto te cobra el exchange
+
+2209
+02:00:57,000 --> 02:01:00,000
+por ese intercambio, porque ahí básicamente estás vendiendo DAI
+
+2210
+02:01:00,000 --> 02:01:03,000
+y lo pasas a USDT, y luego al revés
+
+2211
+02:01:03,000 --> 02:01:06,000
+habría que hacer esos cálculos
+
+2212
+02:01:06,000 --> 02:01:09,000
+yo la verdad
+
+2213
+02:01:09,000 --> 02:01:12,000
+yo creo que no es rentable, pero como no te puedo asegurar
+
+2214
+02:01:12,000 --> 02:01:15,000
+habría que probar, lo vamos a abrir, si yo no ando con cosas
+
+2215
+02:01:15,000 --> 02:01:18,000
+abramoslo y vemos a ver qué cosa hace allí
+
+2216
+02:01:33,000 --> 02:01:50,000
+¡SUSCRÍBETE!
+

@@ -1,0 +1,3212 @@
+WEBVTT
+
+00:00.000 --> 00:03.780
+Estrategia que utiliza Jaime de Trading Latino
+
+00:03.780 --> 00:11.000
+Voy a tratar de explicarla de manera bastante sencilla, que te resulte fácil y que quede lo más completa posible
+
+00:11.000 --> 00:13.960
+Ya que yo también utilizo la misma estrategia que utiliza él
+
+00:13.960 --> 00:17.840
+Y si es una estrategia con pautas, con entradas, salidas, etc etc
+
+00:17.840 --> 00:21.520
+En la que utilizamos los cinco indicadores que vemos aquí en pantalla
+
+00:21.520 --> 00:23.120
+Medias móviles
+
+00:23.880 --> 00:26.840
+El área de volumen importante, el ADX y el Squisk
+
+00:26.840 --> 00:33.280
+Si tú todavía no has puesto los indicadores estos, de acuerdo, te he dejado un tutorial de cómo ponerlos de manera gratuita
+
+00:33.280 --> 00:35.880
+Por aquí arriba lo tendrás, ve corriendo a verlo
+
+00:35.880 --> 00:40.680
+Y después te vienes a ver este vídeo en el que voy a explicar la estrategia que utiliza Jaime de Trading Latino
+
+00:40.680 --> 00:42.000
+Por cierto, no me he presentado
+
+00:42.000 --> 00:43.280
+Bienvenidos al canal de Don Cash
+
+00:43.280 --> 00:45.240
+Yo soy Yosu, tu capitalista de confianza
+
+00:45.240 --> 00:45.760
+¡Ey!
+
+00:45.760 --> 00:48.880
+Olvidé decir dos cosas muy importantes para la estrategia
+
+00:48.880 --> 00:53.440
+La primera es que si tú no tienes ningún conocimiento de trading, de gráficos y demás
+
+00:53.440 --> 00:55.880
+No te vas a aclarar nada en este vídeo
+
+00:55.920 --> 01:00.600
+Así que haré un vídeo de trading básico para principiantes para que puedas entender un poco de todo esto
+
+01:00.600 --> 01:01.840
+Y después venirte a este vídeo
+
+01:01.840 --> 01:04.360
+Lo dejaré por aquí, en cuanto lo tenga hecho os aparecerá por aquí arriba
+
+01:04.360 --> 01:07.920
+Hacéis click y después de ver ese vídeo y entenderlo os venís a este
+
+01:07.920 --> 01:09.560
+De acuerdo, si no no vas a entender nada
+
+01:09.560 --> 01:12.760
+Y la segunda cosa te la digo a continuación, que sí que la dije en el vídeo
+
+01:12.760 --> 01:13.960
+Y es la más importante
+
+01:13.960 --> 01:14.520
+Let's go
+
+01:14.520 --> 01:18.800
+Y lo más importante que os quiero decir, de acuerdo, antes de que empecéis a estudiar la estrategia
+
+01:18.800 --> 01:20.440
+No es por nada, pero es que es así
+
+01:20.440 --> 01:25.680
+Lo más importante es la psicología del trader, eso es lo más importante por encima de todo
+
+01:25.720 --> 01:27.280
+Y aplicarla a la estrategia
+
+01:27.280 --> 01:30.880
+Por eso os recomiendo 100% que sigáis a diario
+
+01:30.880 --> 01:33.360
+Que se analicéis con esta estrategia que os voy a enseñar en el vídeo
+
+01:33.360 --> 01:35.960
+Sigáis a diario y comparéis vuestros análisis
+
+01:35.960 --> 01:38.960
+Con los que pueda hacer a diario, por ejemplo, pues Jaime de Trading Latino
+
+01:38.960 --> 01:41.320
+O otro youtuber que utilice su estrategia que te guste
+
+01:41.320 --> 01:44.280
+O yo en este caso, por ejemplo, que en este canal la vamos a utilizar
+
+01:44.280 --> 01:47.680
+Y la estamos utilizando y hacemos análisis diario todos los días
+
+01:47.680 --> 01:50.080
+Y viendo a diario los análisis que hace Jaime de Trading Latino
+
+01:50.080 --> 01:51.120
+El youtuber que te guste
+
+01:51.120 --> 01:52.160
+O yo en este caso
+
+01:52.160 --> 01:54.160
+Si es que te gusto, me sos rojo, por favor
+
+01:54.200 --> 01:55.880
+En serio, vamos a comenzar
+
+01:55.880 --> 01:58.880
+Vamos a empezar explicando las medias móviles, ¿de acuerdo?
+
+01:58.880 --> 02:04.760
+Ya sabéis que tenemos medias móviles de 10 periodos y 55 periodos son las que utilizamos
+
+02:04.760 --> 02:09.040
+Yo la azulita, la que va pegada al precio es la de 10 periodos, esta que vemos por aquí, ¿de acuerdo?
+
+02:09.040 --> 02:10.400
+Es la línea esta azul
+
+02:10.400 --> 02:14.800
+Y la de B y la de 55 periodos, perdón, es esta que va más despegada al precio
+
+02:14.800 --> 02:17.080
+Son E+, ¿de acuerdo? Medias móviles exponenciales
+
+02:17.080 --> 02:20.320
+Pero con eso no vamos a entrar en detalles, lo que os tiene que interesar es esto
+
+02:20.320 --> 02:22.720
+Bien, vamos a explicar lo sencillo que es
+
+02:22.720 --> 02:24.360
+Cuando la media de 10 periodos
+
+02:24.360 --> 02:28.040
+Vale, esto es un gráfico diario, importante la temporalidad en la que estéis operando
+
+02:28.040 --> 02:29.800
+Gráfico diario es este, ¿vale?
+
+02:29.800 --> 02:34.480
+Cuando la media de 10 periodos está por encima de la de 55, que es la marrón
+
+02:34.480 --> 02:38.160
+Significa que es alcista, ¿de acuerdo? Movimiento alcista
+
+02:38.160 --> 02:41.000
+Aquí lo tenéis, aquí lo tenéis, aquí lo tenéis, ¿vale?
+
+02:41.000 --> 02:46.400
+Cuando está por debajo la media de 10 periodos de la de 55, es decir, está por debajo de esta
+
+02:46.400 --> 02:48.200
+Significa que el movimiento es bajista, ¿vale?
+
+02:48.200 --> 02:50.760
+Aquí tenéis la caída, aquí lo tenéis, aquí lo tenéis
+
+02:50.760 --> 02:53.000
+Media por encima, el precio subiendo
+
+02:53.000 --> 02:55.880
+Media por encima, el precio subiendo, ¿vale?
+
+02:55.880 --> 02:59.960
+Aquí hay como una especie de falso cruce, pero eso ya lo veremos ahora, ¿de acuerdo?
+
+02:59.960 --> 03:02.280
+Porque no solamente estamos haciendo trading con las medias móviles
+
+03:02.280 --> 03:07.560
+Ahora, importante también, media móvil de 55, la marrón
+
+03:07.560 --> 03:11.800
+Hace de soporte y hace de resistencia también, ¿vale?
+
+03:11.800 --> 03:15.320
+Lo estamos viendo aquí, el famoso, bueno, tenemos las medias por encima, el famoso
+
+03:15.320 --> 03:17.600
+Rebote a la media y hacia arriba
+
+03:17.640 --> 03:20.960
+Rebote a la media, no tiene por qué ser a la media exacta, ¿vale?
+
+03:20.960 --> 03:22.760
+A la zona de la media móvil
+
+03:22.760 --> 03:26.200
+Hace arriba, rebote a la zona de la media, hacia arriba, lo estáis viendo
+
+03:26.200 --> 03:30.200
+Aquí sí que tenemos esto y la ruptura, pero eso ahora lo veremos
+
+03:30.200 --> 03:32.240
+Cuando estamos bajistas, ¿de acuerdo?
+
+03:32.240 --> 03:34.440
+Que veis aquí como las medias están cruzadas
+
+03:34.440 --> 03:38.240
+Tenemos el famoso rebote a la media para seguir cae...
+
+03:38.240 --> 03:39.360
+¡Crayendo, madre mía!
+
+03:39.360 --> 03:40.800
+Para seguir cayendo, ¿de acuerdo?
+
+03:40.800 --> 03:44.160
+Aunque esto lo vamos a ver mejor en un gráfico de 4 horas que sea bastante mala situación
+
+03:44.160 --> 03:47.000
+Ya que esto es un gráfico diario y tenemos, pues, menos información, ¿no?
+
+03:47.040 --> 03:50.200
+Pero bueno, aquí también se puede ver, rebote a la media para abajo
+
+03:50.200 --> 03:51.720
+Rebote a la media para abajo
+
+03:51.720 --> 03:54.120
+Importante también tener en cuenta de las medias móviles
+
+03:54.120 --> 03:56.360
+Zonas de compresión, es decir...
+
+03:56.360 --> 04:00.640
+Solo algo que yo veía Jaime decir bastantes veces es que cuando hay una zona de compresión
+
+04:00.640 --> 04:03.160
+Entre las medias móviles, después solo ocurre un movimiento explosivo
+
+04:03.160 --> 04:04.960
+¿Veis cómo se comprimen?
+
+04:04.960 --> 04:08.040
+Y a continuación tenemos ese movimiento explosivo que en este caso ha sido la subida
+
+04:08.040 --> 04:11.400
+O por ejemplo, no sé, por ejemplo, yo que se mira, no sé
+
+04:11.400 --> 04:14.600
+Aquí, ¿no? Vemos que las medias móviles, a ver
+
+04:14.600 --> 04:16.960
+Vemos que las medias móviles van comprimiéndose
+
+04:16.960 --> 04:19.640
+¿Veis? Se comprimen, se comprimen, se comprimen
+
+04:19.640 --> 04:21.200
+¡Pum! Movimiento explosivo
+
+04:21.200 --> 04:24.560
+Eso es algo un poco más rebuscado, de acuerdo, dentro de lo que es la estrategia
+
+04:24.560 --> 04:26.240
+Pero me apetecía comentárselo
+
+04:26.240 --> 04:27.680
+Es algo importante, ¿vale?
+
+04:27.680 --> 04:30.880
+Bueno, vamos a seguir porque si no el vídeo se va a quedar del copón de largo
+
+04:30.880 --> 04:33.440
+Aunque no me importa, lo que me importa es que os quede claro
+
+04:33.440 --> 04:35.440
+Bien, vamos a explicar el siguiente indicador
+
+04:35.440 --> 04:37.880
+Áreas de volumen importante, de acuerdo, que este es el...
+
+04:37.880 --> 04:42.000
+Esto lo que hace es agarrar el volumen, de acuerdo, por precio
+
+04:42.000 --> 04:43.400
+Por precio, no este volumen, ¿vale?
+
+04:43.400 --> 04:46.480
+Aquí tenemos este volumen, que son las velas, que es el volumen por vela
+
+04:46.520 --> 04:49.480
+No, este volumen, vamos a quitar esta verga, ahí está
+
+04:49.480 --> 04:54.320
+Este volumen es el volumen por precio, es decir, el interés de compra que hubo a lo mejor
+
+04:54.320 --> 04:57.160
+Que ha habido en toda la zona de, yo que sé, 38.000, que veis estos picos
+
+04:57.160 --> 04:59.720
+El interés de compra que ha habido, de compra y venta, ¿de acuerdo?
+
+04:59.720 --> 05:04.280
+En la zona de 47.000, que veis que aumenta el pico, etc, etc
+
+05:04.280 --> 05:08.400
+Lo podéis poner de manera gratuita si vais aquí, perfil de volumen con rango fijo
+
+05:08.400 --> 05:10.920
+Y lo único que tendréis que hacer es hacerlo manual, es decir, pinchar
+
+05:10.920 --> 05:13.040
+Del principio de la pantalla
+
+05:13.040 --> 05:14.960
+Hasta el final, ¿vale?
+
+05:15.000 --> 05:15.880
+Y eso, es lo mismo
+
+05:15.880 --> 05:18.080
+Un momento, voy a activar esto, que lo había quitado
+
+05:18.080 --> 05:20.280
+Esto, el POC, ¿vale?
+
+05:20.280 --> 05:21.320
+Para que veis que se queda igual
+
+05:21.320 --> 05:23.840
+Aquí lo tenéis, es lo mismo
+
+05:23.840 --> 05:27.600
+Lo único que tenéis que hacer es lo manual, si yo ahora estiro el precio hacia atrás
+
+05:27.600 --> 05:29.840
+Veis cómo cambia, porque está cogiendo el área de todo
+
+05:29.840 --> 05:32.160
+Entonces tú tendrías que coger este de aquí y arrastrarlo hacia atrás
+
+05:33.400 --> 05:34.240
+Es lo mismo, ¿vale?
+
+05:34.240 --> 05:37.040
+Lo único que tienes que cambiar es lo manual y es que se cambia automático, ya está
+
+05:37.040 --> 05:39.280
+Vamos a borrarlo y voy a explicarlo con este de aquí
+
+05:39.280 --> 05:42.600
+Esto nos mide las áreas de volumen por precio
+
+05:42.640 --> 05:46.840
+Lo que significa que es la zona de interés y que nos hacen de soportes y resistencia
+
+05:46.840 --> 05:50.440
+Y la línea roja esta es el POC, o punto de control, ¿de acuerdo?
+
+05:50.440 --> 05:53.240
+Que es la zona de mayor interés, ¿vale?
+
+05:53.240 --> 05:56.520
+Es la zona que ha habido de mayor interés de volumen por precio
+
+05:56.520 --> 05:59.880
+En todo lo que aparece aquí en la pantalla, que es lo que está cogiendo, ¿de acuerdo?
+
+05:59.880 --> 06:04.160
+Pero lo que me interesa es que nos centremos en estos picos que aparecen por aquí, ¿de acuerdo?
+
+06:04.160 --> 06:07.520
+Picos de estos que sobresalen, significan áreas de volumen importantes
+
+06:07.520 --> 06:09.960
+Cuando las pillas de abajo hacia arriba, ¿vale?
+
+06:09.960 --> 06:12.600
+Cuando las cogemos, como en este caso, las hemos cogido
+
+06:12.600 --> 06:17.080
+Bueno, a ver, ahora desaparece porque ahora está cogiendo la área de volumen de todo lo que hay aquí en pantalla
+
+06:17.080 --> 06:19.280
+Que es menos información de la que había antes, no sé si me explico
+
+06:19.280 --> 06:21.240
+Pero bueno, aquí tenéis el pico este
+
+06:21.240 --> 06:25.080
+Esto significa que es una resistencia en este caso
+
+06:25.080 --> 06:28.160
+Porque la hemos cogido de abajo hacia arriba, como estáis viendo
+
+06:28.160 --> 06:31.240
+Estamos en esta zona actualmente en este momento, el precio de Bitcoin está aquí
+
+06:31.240 --> 06:33.760
+Y esto está haciendo de resistencia
+
+06:33.760 --> 06:37.360
+Ahora, si nosotros cayésemos en este caso
+
+06:37.400 --> 06:40.880
+Hacia abajo, por ejemplo, a este área de volumen, a este nodo
+
+06:40.880 --> 06:44.440
+Esta zona nos haría de soporte ahora, ¿vale? Porque la estamos cogiendo hacia abajo
+
+06:44.440 --> 06:46.400
+Esto sería un soporte a tener en cuenta
+
+06:46.400 --> 06:50.480
+Por ejemplo, aquí, veis que arrancamos de esta zona de aquí
+
+06:50.480 --> 06:52.960
+Que nos estaba haciendo de soporte de aquí, ¿vale?
+
+06:52.960 --> 06:54.640
+Esta zona nos estaba haciendo de soporte
+
+06:54.640 --> 06:57.240
+Y conforme llegamos a esta zona de aquí
+
+06:57.240 --> 07:01.560
+El precio, miradlo, es que lo estamos viendo en un gráfico diario, ¿vale?
+
+07:01.560 --> 07:05.720
+El precio tiene aquí su rechazo, hace como su retroceso
+
+07:05.760 --> 07:08.480
+Porque esto es una área de resistencia
+
+07:08.480 --> 07:12.280
+Luego, es cierto que a la rompe, sigue subiendo y llegamos al siguiente área de resistencia
+
+07:12.280 --> 07:13.840
+Que es donde nos estamos parando, ¿vale?
+
+07:13.840 --> 07:15.720
+Esto es lo que hacen las áreas de volumen
+
+07:15.720 --> 07:20.720
+Entonces, es algo muy fundamental para tener en cuenta a la hora de operar con la estrategia
+
+07:20.720 --> 07:24.360
+Ya que si no lo tienes en cuenta, la estrategia podría fallar, ¿de acuerdo?
+
+07:24.360 --> 07:27.480
+Por eso te digo que es un todo junto y también la psicología del trader
+
+07:27.480 --> 07:30.480
+Por eso es muy importante que a diario comparéis vuestros análisis
+
+07:30.480 --> 07:33.000
+Con los que pueda estar haciendo yo, que sabéis que subo análisis diario
+
+07:33.000 --> 07:34.320
+O Jaime de Trayden Latino, ¿de acuerdo?
+
+07:34.520 --> 07:38.520
+O el youtuber que os guste que suba vídeos con esta estrategia, perfecto
+
+07:38.520 --> 07:45.040
+Y es muy importante que os quedéis con esto, lo que hace es captar el volumen por precio de lo que aparece en pantalla
+
+07:45.040 --> 07:48.240
+Es decir, ahora mismo lo está captando de todo esto, ¿no?
+
+07:48.240 --> 07:49.640
+De todo esto de aquí
+
+07:49.640 --> 07:55.160
+Si yo hago la pantallaza atrás, va a captar el volumen de todo esto, ¿de acuerdo?
+
+07:55.160 --> 07:56.480
+De todo lo que aparece en pantalla
+
+07:56.480 --> 07:59.320
+Por eso si vosotros queréis operar en un rango, como hicimos el otro día
+
+07:59.320 --> 08:02.040
+En el vídeo del otro día yo dije, quiero operar el ranguito de aquí, ¿vale?
+
+08:02.080 --> 08:05.080
+Y lo que hice fue bajar la temporalidad a 15 minutos
+
+08:05.080 --> 08:07.080
+Para ver qué estaba sucediendo en el rango
+
+08:08.400 --> 08:09.720
+Así, ¿de acuerdo?
+
+08:09.720 --> 08:11.640
+Y sí, lo puedes operar viéndolo de aquí
+
+08:11.640 --> 08:14.920
+Pero yo dije, oye, me parece más cómodo hacerlo así, ¿no?
+
+08:14.920 --> 08:17.920
+Operarlo así, con este indicador, ¿vale?
+
+08:17.920 --> 08:19.640
+Y ya pues, ahí está
+
+08:19.640 --> 08:22.040
+Ahí lo estoy viendo en pantalla, con este indicador
+
+08:22.040 --> 08:24.240
+Eso lo podéis hacer a vuestro gusto
+
+08:24.240 --> 08:26.240
+Pero con este podéis hacer lo mismo
+
+08:26.880 --> 08:28.680
+Si ahora te tiras para atrás
+
+08:28.680 --> 08:30.560
+Este agarra todo esto
+
+08:30.560 --> 08:32.760
+Tú lo coges, lo echas para atrás para que haga lo mismo
+
+08:32.760 --> 08:33.960
+Y agarre todo, ¿vale?
+
+08:33.960 --> 08:35.760
+Marca lo mismo, quiero que os quede claro
+
+08:35.760 --> 08:38.560
+Os enseñé cómo ponerlo en el vídeo que os he dejado por ahí dentro
+
+08:38.560 --> 08:39.960
+El de cómo poner todo esto
+
+08:39.960 --> 08:42.560
+Voy a volver a poner el gráfico diario, que es lo que nos interesa
+
+08:42.560 --> 08:45.160
+Que es para explicarlo todo más sencillito, aquí está
+
+08:45.160 --> 08:48.160
+Ay, es raro, chavales, espero que se esté quedando claro, ¿vale?
+
+08:48.160 --> 08:50.760
+Porque estoy un poco nervioso la hora de explicar esto, no sé por qué
+
+08:50.760 --> 08:52.360
+Quiero explicarlo bien, quiero que os quede claro
+
+08:52.360 --> 08:56.160
+Así que si apoyáis mucho este vídeo con likes, suscripciones, todo lo demás
+
+08:56.160 --> 08:59.360
+En un futuro puedo hacer un vídeo resolviendo dudas sobre la estrategia
+
+08:59.360 --> 09:01.160
+Por ejemplo, si ha quedado alguna duda, ¿vale?
+
+09:01.160 --> 09:03.960
+O actualizar el vídeo y hacer un vídeo mejor, yo no lo sé, ¿vale?
+
+09:03.960 --> 09:05.560
+Voy a intentar que quede lo más claro posible
+
+09:05.560 --> 09:06.560
+¿Qué nos queda por explicar?
+
+09:06.560 --> 09:09.960
+Ahora, vámonos ya con el Squish primero, ¿vale?
+
+09:09.960 --> 09:12.160
+Que es el de los valles, luego iremos con el ADX, ¿vale?
+
+09:12.160 --> 09:13.360
+Vamos con el Squish
+
+09:13.360 --> 09:16.960
+El Squish es este indicador de los valles, ¿vale?
+
+09:16.960 --> 09:20.760
+De los valles verdes y valles rojos, ¿vale?
+
+09:20.760 --> 09:23.160
+Este que vemos así, valle verde, valle rojo, perfecto
+
+09:23.160 --> 09:27.960
+Se conoce como Squish porque digamos que es como un indicador de explosividad, ¿no?
+
+09:27.960 --> 09:29.960
+De momentum
+
+09:29.960 --> 09:33.360
+Se utiliza verdaderamente con estas cruces grises que veis y las cruces negras
+
+09:33.360 --> 09:35.560
+Aunque Jaime no las utiliza, yo tampoco las utilizo
+
+09:35.560 --> 09:38.760
+Pero digamos que es para marcar el momento en el que se produce esa explosividad
+
+09:38.760 --> 09:42.160
+Pero verdaderamente yo prefiero compaginarlo con el ADX
+
+09:42.160 --> 09:46.360
+Y ver la fuerza del movimiento mediante el ADX que es la otra, la línea blanquita, ¿vale?
+
+09:46.360 --> 09:48.160
+Vamos a explicar primero el Squish este
+
+09:48.160 --> 09:51.960
+Y esto es un indicador de momentum, de intensidad del movimiento, ¿de acuerdo?
+
+09:51.960 --> 09:53.560
+Podemos decirlo así, como veis
+
+09:53.560 --> 09:57.360
+Contra más grandes el valle, por así decirlo, pues mayores lo que vean ser el movimiento, ¿vale?
+
+09:57.360 --> 10:01.360
+Por esto, ahí está, mira de ese valle, mira de este valle y mira del movimiento este
+
+10:01.360 --> 10:04.760
+Luego mira de este que más pequeñito y mira del movimiento este, ¿vale?
+
+10:04.760 --> 10:05.960
+De retroceso que más pequeñito
+
+10:05.960 --> 10:07.560
+Valles verdes, ¿de acuerdo?
+
+10:07.560 --> 10:10.960
+Alcista, valle rojo, bajista, ¿vale?
+
+10:10.960 --> 10:14.160
+A la baja, aquí lo veis, valle verde, hacia arriba
+
+10:14.160 --> 10:16.960
+Y el valle rojito este de aquí, abajo, ¿vale?
+
+10:16.960 --> 10:17.960
+Lo veas donde lo veas, ¿vale?
+
+10:17.960 --> 10:20.360
+Luego, por ejemplo, si ves este valle rojo grande de aquí
+
+10:20.360 --> 10:23.560
+Coincide con la caída gorda de aquí, ¿vale?
+
+10:23.560 --> 10:26.160
+Ahora, ¿por qué también es muy importante este indicador?
+
+10:26.160 --> 10:31.960
+Porque nos permite ver divergencias entre precio y el movimiento, vamos a decirlo así, ¿no?
+
+10:31.960 --> 10:33.960
+Para ver si el movimiento es armónico, si no
+
+10:33.960 --> 10:38.960
+Y nos puede ayudar a predecir posibles o evitar posibles caídas gordas
+
+10:38.960 --> 10:39.960
+¿Qué es una divergencia?
+
+10:39.960 --> 10:40.760
+Aquí lo vemos, ¿vale?
+
+10:40.760 --> 10:42.760
+En este caso, por ejemplo, mira, divergencia bajista
+
+10:42.760 --> 10:45.760
+Mirad, voy a ponerlo con la línita de tendencia esta
+
+10:45.760 --> 10:47.960
+Si veis esto, el precio aumenta
+
+10:47.960 --> 10:49.360
+Precio sube, ¿de acuerdo?
+
+10:49.360 --> 10:51.160
+Aquí lo podéis ver
+
+10:51.160 --> 10:52.960
+Los máximos cada vez son más altos
+
+10:52.960 --> 10:55.160
+Sin embargo, en el indicador
+
+10:55.160 --> 10:57.160
+Divergencia bajista, es decir
+
+10:57.160 --> 10:59.960
+Él nos marca la divergencia bajista, mejor dicho
+
+10:59.960 --> 11:02.960
+En el indicador, los máximos cada vez son más bajos
+
+11:02.960 --> 11:04.160
+A continuación, ¿qué tuvimos?
+
+11:04.160 --> 11:06.560
+Bueno, si tuvimos esta caída, aquí
+
+11:06.560 --> 11:08.760
+Y el derrumbe del copón, ¿vale?
+
+11:08.760 --> 11:12.160
+Por eso son importantes tener en cuenta las divergencias
+
+11:12.160 --> 11:14.560
+Y tener en cuenta en qué temporalidad las operamos
+
+11:14.560 --> 11:17.160
+Porque no es lo mismo una divergencia en un gráfico de cuatro horas
+
+11:17.160 --> 11:21.360
+Que si se confirma, nos va a tirar el precio una cantidad mucho menor
+
+11:21.360 --> 11:23.560
+A la que nos va a tirar el precio una divergencia bajista
+
+11:23.560 --> 11:25.360
+En un gráfico diario, como es en este caso
+
+11:25.360 --> 11:27.160
+O en un gráfico semanal incluso
+
+11:27.160 --> 11:28.960
+Que es una temporalidad mayor, ¿de acuerdo?
+
+11:28.960 --> 11:30.160
+Eso es muy importante
+
+11:30.160 --> 11:31.560
+Eso es una divergencia bajista
+
+11:31.560 --> 11:35.360
+Y las divergencias alcistas se cogen de abajo a arriba
+
+11:35.360 --> 11:36.960
+Es decir, por ejemplo, mira, aquí
+
+11:36.960 --> 11:38.160
+Aquí tenemos una, ¿vale?
+
+11:38.160 --> 11:40.760
+Esta divergencia de aquí, divergencia alcista
+
+11:40.760 --> 11:42.760
+Se coge de abajo a arriba, ¿de acuerdo?
+
+11:42.760 --> 11:43.760
+Vamos a borrar esto
+
+11:43.760 --> 11:46.160
+Y la tendríamos aquí, mirad el precio
+
+11:46.160 --> 11:47.160
+¿Cómo va?
+
+11:48.160 --> 11:52.160
+Con, digamos, los bajos al mismo nivel
+
+11:52.160 --> 11:53.360
+O más bajos incluso
+
+11:53.360 --> 11:57.360
+Y, sin embargo, el monitor, el indicador, el squeeze, ¿vale?
+
+11:58.360 --> 12:00.160
+Fijaros cómo está al alza, ¿vale?
+
+12:00.160 --> 12:02.960
+Son divergencias y son muy importantes
+
+12:02.960 --> 12:04.960
+A continuación de esto, ¿qué vivimos?
+
+12:04.960 --> 12:07.160
+Bueno, el despegue, ¿de acuerdo?
+
+12:07.160 --> 12:08.160
+Importante
+
+12:08.160 --> 12:11.160
+Quiero que quede claro que cuando hablamos de un gráfico de cuatro horas
+
+12:11.160 --> 12:13.160
+Estamos proyectando a lo mejor el movimiento
+
+12:13.160 --> 12:15.160
+Para uno, dos, tres días, como muchísimo
+
+12:15.160 --> 12:17.160
+Y cuando hablamos de gráficos diarios
+
+12:17.160 --> 12:19.160
+Sí que lo proyectamos a lo mejor para semana, semana y media
+
+12:19.160 --> 12:21.160
+Y un gráfico semanal, por ejemplo
+
+12:21.160 --> 12:23.160
+Estamos proyectando para dos o tres meses
+
+12:23.160 --> 12:25.160
+Lo que viene a ser el movimiento, ¿vale?
+
+12:25.160 --> 12:26.160
+Eso es importante
+
+12:26.160 --> 12:28.160
+Y vamos a pasar con el ADX, ¿de acuerdo?
+
+12:28.160 --> 12:32.160
+El ADX, que es con la que la gente más lío se hace
+
+12:32.160 --> 12:34.160
+Incluso yo me hacía lío, ¿de acuerdo?
+
+12:34.160 --> 12:36.160
+Es este de aquí, es la linita
+
+12:36.160 --> 12:38.160
+Vamos a bajar esto por aquí, ¿vale?
+
+12:38.160 --> 12:39.160
+Es este, que da igual que...
+
+12:39.160 --> 12:41.160
+O sea, esto de ponerlo encima, ponerlo por arriba
+
+12:41.160 --> 12:42.160
+No importa
+
+12:42.160 --> 12:43.160
+No importa
+
+12:43.160 --> 12:46.160
+Simplemente lo tenemos así pues para ahorrar espacio
+
+12:46.160 --> 12:48.160
+Y porque uno se complementa con el otro, ¿no?
+
+12:48.160 --> 12:51.160
+Pero no significa que tenga que estar a la misma altura ni cosas
+
+12:51.160 --> 12:53.160
+Eso no rayarse, chavales, que eso no tiene nada que ver, ¿vale?
+
+12:53.160 --> 12:56.160
+A ver, el ADX se mide así
+
+12:56.160 --> 12:57.160
+Es este que tenemos aquí
+
+12:57.160 --> 12:58.160
+Que va verdaderamente
+
+12:58.160 --> 13:01.160
+El ADX es un oscilador que se mide de 0 a 100, ¿vale?
+
+13:01.160 --> 13:02.160
+Teóricamente
+
+13:02.160 --> 13:05.160
+Entonces, esto, porque esté hacia arriba
+
+13:06.160 --> 13:07.160
+Vamos a ponerlo así
+
+13:07.160 --> 13:09.160
+Porque el ADX esté hacia arriba o hacia abajo
+
+13:09.160 --> 13:11.160
+No significa que el movimiento sea hacia arriba o hacia abajo
+
+13:11.160 --> 13:14.160
+Simplemente mide la fuerza de una tendencia
+
+13:14.160 --> 13:16.160
+La fuerza de un movimiento, ¿de acuerdo?
+
+13:16.160 --> 13:18.160
+Esto solamente mide la fuerza del movimiento
+
+13:18.160 --> 13:19.160
+Como estáis viendo aquí
+
+13:19.160 --> 13:20.160
+El precio, ¿vale?
+
+13:20.160 --> 13:23.160
+Tiene su caída y el ADX se dispara a el alza, ¿vale?
+
+13:23.160 --> 13:24.160
+¿Por qué?
+
+13:24.160 --> 13:26.160
+Porque esto tiene fuerza
+
+13:26.160 --> 13:29.160
+No significa que esto sea alcista, ¿de acuerdo?
+
+13:29.160 --> 13:30.160
+No, el movimiento tiene fuerza
+
+13:30.160 --> 13:31.160
+¿Para dónde tiene la fuerza?
+
+13:31.160 --> 13:33.160
+Para abajo, ¿vale?
+
+13:33.160 --> 13:35.160
+Vale, chavales, me veis ya cambiadito
+
+13:35.160 --> 13:37.160
+Porque no pude grabar más
+
+13:37.160 --> 13:39.160
+Y vamos a continuar con la explicación
+
+13:39.160 --> 13:41.160
+Así que continuo hoy con la explicación
+
+13:41.160 --> 13:42.160
+Y vamos por el ADX
+
+13:42.160 --> 13:45.160
+Bien, este indicador es el que más lío hace, ¿vale?
+
+13:45.160 --> 13:46.160
+Como ya hemos dicho
+
+13:46.160 --> 13:51.160
+Solamente mide si una tendencia o un movimiento tiene fuerza o no tiene fuerza, ¿de acuerdo?
+
+13:51.160 --> 13:54.160
+Es decir, por ejemplo, estoy en un gráfico de cuatro horas ahora, ¿vale?
+
+13:54.160 --> 13:56.160
+Como veis, aquí hay una bajada, ¿de acuerdo?
+
+13:56.160 --> 13:59.160
+Y el ADX tiene pendiente positivo
+
+13:59.160 --> 14:00.160
+Es decir, hacia arriba, ¿de acuerdo?
+
+14:00.160 --> 14:01.160
+¿Por qué?
+
+14:01.160 --> 14:03.160
+Porque este movimiento tiene fuerza
+
+14:03.160 --> 14:04.160
+Simplemente
+
+14:04.160 --> 14:07.160
+El ADX solamente mide la fuerza del movimiento
+
+14:07.160 --> 14:08.160
+El movimiento es fuerte o no
+
+14:08.160 --> 14:10.160
+No te dice si es hacia arriba o hacia abajo
+
+14:10.160 --> 14:12.160
+Ahora te voy a explicar cómo saber
+
+14:12.160 --> 14:14.160
+Qué movimiento está teniendo en cuenta el ADX
+
+14:14.160 --> 14:16.160
+Si está teniendo en cuenta un movimiento hacia arriba o un movimiento hacia abajo
+
+14:16.160 --> 14:18.160
+Te voy a explicar, ¿de acuerdo?
+
+14:18.160 --> 14:20.160
+Antes quiero decirte que el ADX
+
+14:20.160 --> 14:22.160
+Es un oscilador que va de 0 a 100, ¿de acuerdo?
+
+14:22.160 --> 14:24.160
+El famoso punto 23
+
+14:24.160 --> 14:26.160
+Este que muchas veces menciona Jaime, ¿de acuerdo?
+
+14:26.160 --> 14:28.160
+Digamos que esto se divide así, ¿de acuerdo?
+
+14:28.160 --> 14:30.160
+De 0 a 25
+
+14:30.160 --> 14:33.160
+Lo que tenemos es ausencia de tendencia, ¿de acuerdo?
+
+14:33.160 --> 14:35.160
+O movimiento que no tiene fuerza
+
+14:35.160 --> 14:37.160
+Luego digamos que de 25 a 50
+
+14:37.160 --> 14:39.160
+Es una tendencia fuerte
+
+14:39.160 --> 14:40.160
+De 50 a 75
+
+14:40.160 --> 14:42.160
+Es una tendencia muy fuerte
+
+14:42.160 --> 14:44.160
+Y de 75 a 100 sería una tendencia
+
+14:44.160 --> 14:45.160
+Boom!
+
+14:45.160 --> 14:46.160
+Mind blown
+
+14:46.160 --> 14:47.160
+De locos, ¿de acuerdo?
+
+14:47.160 --> 14:49.160
+Y como oscilador que es, ¿de acuerdo?
+
+14:49.160 --> 14:51.160
+Es bueno que esto
+
+14:51.160 --> 14:53.160
+Tenga sus subidas y sus bajadas
+
+14:53.160 --> 14:54.160
+¿De acuerdo?
+
+14:54.160 --> 14:55.160
+Lo que viene a ser el ADX
+
+14:55.160 --> 14:56.160
+Porque también es algo a favor
+
+14:56.160 --> 14:58.160
+Para sanear los movimientos, ¿no?
+
+14:58.160 --> 14:59.160
+Para que los movimientos sean sanos
+
+14:59.160 --> 15:01.160
+Porque no puede ser que
+
+15:01.160 --> 15:02.160
+Esto a lo mejor
+
+15:02.160 --> 15:04.160
+Ya que la subida, pues, debe de ser natural
+
+15:04.160 --> 15:05.160
+Y esto debe de ser detener
+
+15:05.160 --> 15:06.160
+Por lo que viene a ser
+
+15:06.160 --> 15:09.160
+Sus oscilaciones, etc, etc, ¿de acuerdo?
+
+15:09.160 --> 15:10.160
+Aquí lo que importa es
+
+15:10.160 --> 15:12.160
+¿Cómo que el ADX se gira al alza?
+
+15:12.160 --> 15:13.160
+Se gira a la baja
+
+15:13.160 --> 15:14.160
+Bien, para esto
+
+15:14.160 --> 15:16.160
+Para saber qué movimiento está teniendo en cuenta
+
+15:16.160 --> 15:17.160
+El ADX
+
+15:17.160 --> 15:20.160
+O qué dirección está teniendo en cuenta el ADX
+
+15:20.160 --> 15:22.160
+Jaime decía que esto tiene que entrar por los ojos, ¿no?
+
+15:22.160 --> 15:23.160
+¿De acuerdo?
+
+15:23.160 --> 15:24.160
+Pero yo entiendo que es que es normal
+
+15:24.160 --> 15:25.160
+Que cuando todos empezamos
+
+15:25.160 --> 15:26.160
+Pues no tenemos ni idea
+
+15:26.160 --> 15:28.160
+En qué dirección está teniendo en cuenta el ADX
+
+15:28.160 --> 15:30.160
+O qué dirección está teniendo en cuenta el ADX
+
+15:30.160 --> 15:31.160
+Cuando todos empezamos
+
+15:31.160 --> 15:32.160
+Pues no tenemos ni idea
+
+15:32.160 --> 15:33.160
+Entonces
+
+15:33.160 --> 15:34.160
+Lo que es el ADX consta
+
+15:34.160 --> 15:36.160
+Del ADX
+
+15:36.160 --> 15:37.160
+Del D y positivo
+
+15:37.160 --> 15:38.160
+Y del D y negativo, ¿vale?
+
+15:38.160 --> 15:39.160
+El D y positivo
+
+15:39.160 --> 15:41.160
+Mide la fuerza positiva del movimiento
+
+15:41.160 --> 15:42.160
+Y el D y negativo
+
+15:42.160 --> 15:44.160
+Mide la fuerza negativa del movimiento, ¿no?
+
+15:44.160 --> 15:45.160
+Esto lo podemos activar de aquí
+
+15:45.160 --> 15:47.160
+Vamos a la ruleta, ¿de acuerdo?
+
+15:47.160 --> 15:49.160
+Y yo lo tengo puesto en verde y en rojo
+
+15:49.160 --> 15:50.160
+Bueno, pues, activas
+
+15:50.160 --> 15:51.160
+D y positivo
+
+15:51.160 --> 15:53.160
+D y negativo, ¿de acuerdo?
+
+15:53.160 --> 15:54.160
+Esto lo voy a explicar
+
+15:54.160 --> 15:56.160
+Junto a la estrategia, ¿de acuerdo?
+
+15:56.160 --> 15:57.160
+Es decir, vamos a explicarlo ya
+
+15:57.160 --> 15:59.160
+Voy a desactivarlo un momento
+
+15:59.160 --> 16:00.160
+Y ahora veréis, ¿vale?
+
+16:00.160 --> 16:01.160
+Estamos en un gráfico de cuatro horas
+
+16:01.160 --> 16:03.160
+Por ejemplo, aquí
+
+16:03.160 --> 16:05.160
+Bien, voy a tratar de explicar también a la vez que explico
+
+16:05.160 --> 16:07.160
+Lo que viene a ser el ADX
+
+16:07.160 --> 16:09.160
+Porque creo que es lo complicado de entender, ¿vale?
+
+16:09.160 --> 16:11.160
+A la vez que explicamos lo que viene a ser
+
+16:11.160 --> 16:13.160
+La estrategia, ¿de acuerdo?
+
+16:13.160 --> 16:14.160
+Lo que viene a ser la estrategia
+
+16:14.160 --> 16:16.160
+Mirad, primero vamos a venirnos a esta zona, ¿vale?
+
+16:16.160 --> 16:18.160
+Lo que yo quiero que entendáis
+
+16:18.160 --> 16:19.160
+Es sobre todo el tema del ADX
+
+16:19.160 --> 16:21.160
+Porque es que sé que es lo más complicado
+
+16:21.160 --> 16:23.160
+Porque esto de cómo que se gira la baja y el monitor al alza
+
+16:23.160 --> 16:24.160
+Y está dando entrada
+
+16:24.160 --> 16:26.160
+Y cómo que se gira al alza y el monitor al alza
+
+16:26.160 --> 16:27.160
+También está dando entrada
+
+16:27.160 --> 16:28.160
+Entonces no tiene sentido
+
+16:28.160 --> 16:29.160
+Lo vamos a ver, ¿de acuerdo?
+
+16:29.160 --> 16:30.160
+Esta zona, por ejemplo
+
+16:30.160 --> 16:32.160
+En un gráfico de cuatro horas, ¿vale?
+
+16:32.160 --> 16:33.160
+Vemos que sí, que el precio
+
+16:33.160 --> 16:35.160
+Aquí el cruce de la media móvil es del azul
+
+16:35.160 --> 16:37.160
+Sobre esta, ¿de acuerdo?
+
+16:37.160 --> 16:38.160
+Un cruce
+
+16:38.160 --> 16:40.160
+Que el precio está rompiendo con fuerza
+
+16:40.160 --> 16:42.160
+Y aquí nosotros lo que estamos buscando
+
+16:42.160 --> 16:44.160
+Es un rebote a la zona de la media móvil
+
+16:44.160 --> 16:46.160
+Para seguir subiendo, ¿no?
+
+16:46.160 --> 16:47.160
+Vale
+
+16:47.160 --> 16:49.160
+Con lo que buscamos también, obviamente
+
+16:49.160 --> 16:51.160
+Es que el squeeze, es decir, el de los valles
+
+16:51.160 --> 16:53.160
+Pase por debajo del punto cero
+
+16:53.160 --> 16:55.160
+Que es el punto este de las cruces
+
+16:55.160 --> 16:57.160
+Y empieza a desarrollar valle rojo, ¿vale?
+
+16:57.160 --> 16:58.160
+Que vayamos buscando entrada
+
+16:58.160 --> 17:00.160
+Y si tú quieres esperar a tu entrada confirmada
+
+17:00.160 --> 17:02.160
+Por estos indicadores de abajo
+
+17:02.160 --> 17:03.160
+Que son el ADX y el squeeze
+
+17:03.160 --> 17:05.160
+Aquí tienes que esperar
+
+17:05.160 --> 17:07.160
+Por ejemplo, que el squeeze
+
+17:07.160 --> 17:09.160
+Si tú querías esperar entrada confirmada
+
+17:09.160 --> 17:11.160
+Tienes que esperar que el squeeze, que es el de los valles
+
+17:11.160 --> 17:13.160
+Se gire al alza, como lo estamos viendo aquí
+
+17:13.160 --> 17:15.160
+De acuerdo, el valle rojo se empieza a girar al alza
+
+17:15.160 --> 17:17.160
+Y que el ADX, que es la línea esta
+
+17:17.160 --> 17:19.160
+Se gire al alza también
+
+17:19.160 --> 17:21.160
+¿Veis que aquí se giran los dos a la vez al alza?
+
+17:21.160 --> 17:23.160
+Ahí tienes el squeeze al alza y el ADX al alza, ¿no?
+
+17:23.160 --> 17:25.160
+Es decir, vamos a hacer esto más grande
+
+17:25.160 --> 17:27.160
+Así para que lo podáis ver mejor
+
+17:27.160 --> 17:29.160
+La línea blanca esta
+
+17:29.160 --> 17:31.160
+Se gira al alza y lo que viene a ser
+
+17:31.160 --> 17:33.160
+Uy, perdón, que gallo, madre mía
+
+17:33.160 --> 17:35.160
+Y lo que viene a ser el valle rojo se gira al alza
+
+17:35.160 --> 17:37.160
+Confirmándonos lo que viene a ser la entrada
+
+17:37.160 --> 17:39.160
+Eso se gira al alza en cuanto sale esta vela gorda
+
+17:39.160 --> 17:41.160
+Porque los indicadores
+
+17:41.160 --> 17:43.160
+Siguen al precio, no el precio sigue a los indicadores
+
+17:43.160 --> 17:45.160
+Vale, eso sería una confirmación de entrada
+
+17:45.160 --> 17:47.160
+Por esto, es importante que os quedéis a ver
+
+17:47.160 --> 17:49.160
+Toda la explicación que vamos a dar ahora
+
+17:49.160 --> 17:51.160
+Vale, ahora voy a poner otro ejemplo
+
+17:51.160 --> 17:53.160
+Aquí ADX al alza y squeeze al alza
+
+17:53.160 --> 17:55.160
+Es una confirmación de entrada, ¿de acuerdo?
+
+17:55.160 --> 17:57.160
+Ahora, voy a ponerte otro ejemplo
+
+17:57.160 --> 17:59.160
+Porque es que esto es lo que te va a liar
+
+17:59.160 --> 18:01.160
+Voy a un gráfico diario, por ejemplo
+
+18:01.160 --> 18:03.160
+A la zona esta que habíamos visto hace un montón de tiempo
+
+18:03.160 --> 18:05.160
+Por aquí la tenéis
+
+18:05.160 --> 18:07.160
+Esta zona que hemos dicho de aquí, ¿de acuerdo?
+
+18:07.160 --> 18:09.160
+Por ejemplo
+
+18:09.160 --> 18:11.160
+Y vemos que aquí
+
+18:11.160 --> 18:13.160
+La zona esta que habíamos dicho que estábamos esperando
+
+18:13.160 --> 18:15.160
+Un movimiento al alza
+
+18:15.160 --> 18:17.160
+Que es la zona esta en la que habíamos comentado lo de la divergencia
+
+18:17.160 --> 18:19.160
+Porque tenemos una divergencia alcista
+
+18:19.160 --> 18:21.160
+Por eso estábamos esperando
+
+18:21.160 --> 18:23.160
+Ese movimiento fuerte
+
+18:23.160 --> 18:25.160
+A lo que viene a ser al alza, ¿de acuerdo?
+
+18:25.160 --> 18:27.160
+Tenemos la divergencia alcista en el gráfico diario
+
+18:27.160 --> 18:29.160
+Por eso esperábamos un movimiento fuerte que lo tuvimos
+
+18:29.160 --> 18:31.160
+Bien, aquí
+
+18:31.160 --> 18:33.160
+Como veis, tenemos
+
+18:33.160 --> 18:35.160
+Que el monitor está... Esperamos entonces
+
+18:35.160 --> 18:37.160
+Para confirmar una entrada que el squeeze
+
+18:37.160 --> 18:39.160
+Es decir, el de los valles se gire al alza
+
+18:39.160 --> 18:41.160
+Es decir, empiece el valle rojo al alza
+
+18:41.160 --> 18:43.160
+Y porque aquí el ADX se gira a la baja
+
+18:43.160 --> 18:45.160
+En vez de al alza como en la otra entrada
+
+18:45.160 --> 18:47.160
+Aquí para confirmar nuestra entrada
+
+18:47.160 --> 18:49.160
+Teníamos que esperar que el ADX se girase a la baja
+
+18:49.160 --> 18:51.160
+Y el squeeze al alza
+
+18:51.160 --> 18:53.160
+Como lo tenemos aquí, ADX aquí
+
+18:53.160 --> 18:55.160
+Veis que se gira a la baja y el squeeze se gira al alza
+
+18:55.160 --> 18:57.160
+¿Por qué?
+
+18:57.160 --> 18:59.160
+Porque tenemos que tener en cuenta
+
+18:59.160 --> 19:01.160
+Que tendencia o que movimiento está teniendo en cuenta el ADX
+
+19:01.160 --> 19:03.160
+Para saber hacia dónde se va a girar
+
+19:03.160 --> 19:05.160
+¿Vale? ¿Cómo sabemos esto?
+
+19:05.160 --> 19:07.160
+Pues, con lo que hemos comentado del DI positivo y el DI negativo
+
+19:07.160 --> 19:09.160
+Podemos saber
+
+19:09.160 --> 19:11.160
+Que movimiento está teniendo en cuenta el ADX
+
+19:11.160 --> 19:13.160
+Es decir, aquí el ADX está teniendo en cuenta
+
+19:13.160 --> 19:15.160
+Un movimiento bajista, ¿vale?
+
+19:15.160 --> 19:17.160
+Es decir, está teniendo en cuenta
+
+19:17.160 --> 19:19.160
+Como si estuviésemos en una tendencia hacia abajo
+
+19:19.160 --> 19:21.160
+¿Por qué? Pues como hemos dicho
+
+19:21.160 --> 19:23.160
+Con el DI positivo y el negativo activos
+
+19:23.160 --> 19:25.160
+Con DI positivo y DI negativo
+
+19:25.160 --> 19:27.160
+Lo que mide es, DI positivo
+
+19:27.160 --> 19:29.160
+Fuerza positiva, DI negativo
+
+19:29.160 --> 19:31.160
+Negativa, ¿de acuerdo?
+
+19:31.160 --> 19:33.160
+Entonces, si el negativo
+
+19:33.160 --> 19:35.160
+Que es el que yo tengo puesto por aquí
+
+19:35.160 --> 19:37.160
+Que es el rojito, ¿vale?
+
+19:37.160 --> 19:39.160
+Y el positivo es el verde
+
+19:39.160 --> 19:41.160
+Si el negativo está por encima del positivo
+
+19:41.160 --> 19:43.160
+El ADX está teniendo en cuenta
+
+19:43.160 --> 19:45.160
+Una tendencia hacia abajo
+
+19:45.160 --> 19:47.160
+Y si es al revés
+
+19:47.160 --> 19:49.160
+El positivo está por encima del negativo
+
+19:49.160 --> 19:51.160
+El ADX está teniendo en cuenta
+
+19:51.160 --> 19:53.160
+Una tendencia positiva, ¿vale?
+
+19:53.160 --> 19:55.160
+Una tendencia hacia arriba
+
+19:55.160 --> 19:57.160
+¿Qué ocurre? ¿Por qué aquí lo que esperamos es
+
+19:57.160 --> 19:59.160
+Que el squeeze, el del valle rojo
+
+19:59.160 --> 20:01.160
+Se gire al alza y el ADX
+
+20:01.160 --> 20:03.160
+A la baja?
+
+20:03.160 --> 20:05.160
+Porque el ADX está teniendo en cuenta
+
+20:05.160 --> 20:07.160
+Una tendencia negativa hacia abajo
+
+20:07.160 --> 20:09.160
+Y entonces, si el ADX se gira hacia abajo
+
+20:09.160 --> 20:11.160
+Significa que la tendencia negativa
+
+20:11.160 --> 20:13.160
+La tendencia negativa, la tendencia hacia abajo
+
+20:13.160 --> 20:15.160
+Por eso nosotros lo que queremos saber
+
+20:15.160 --> 20:17.160
+Es cuando esto se gira al alza
+
+20:17.160 --> 20:19.160
+Y cuando la tendencia negativa
+
+20:19.160 --> 20:21.160
+Que es la que está teniendo en cuenta el ADX
+
+20:21.160 --> 20:23.160
+Pierde fuerza para buscar la entrada
+
+20:23.160 --> 20:25.160
+Por eso aquí la entrada es
+
+20:25.160 --> 20:27.160
+ADX se gira hacia abajo
+
+20:27.160 --> 20:29.160
+Y el squeeze se gira hacia arriba
+
+20:29.160 --> 20:31.160
+Porque el ADX está teniendo en cuenta
+
+20:31.160 --> 20:33.160
+Una tendencia hacia abajo
+
+20:33.160 --> 20:35.160
+Sin embargo, si vamos al otro ejemplo
+
+20:35.160 --> 20:37.160
+Que te he puesto
+
+20:37.160 --> 20:39.160
+Que era aquí en un gráfico de 4 horas
+
+20:39.160 --> 20:41.160
+Aquí en este rebote a la media
+
+20:41.160 --> 20:43.160
+Tenéis que darle un poco a la mollera aquí
+
+20:43.160 --> 20:45.160
+Porque en este momento de aquí
+
+20:45.160 --> 20:47.160
+Cuando hemos dicho que esto se giraba el alza
+
+20:47.160 --> 20:49.160
+Y el ADX se giraba el alza
+
+20:49.160 --> 20:51.160
+Cuando daba entrada
+
+20:51.160 --> 20:53.160
+Porque hemos dicho que el ADX se giraba el alza
+
+20:53.160 --> 20:55.160
+Y el squeeze se giraba el alza dando entrada
+
+20:55.160 --> 20:57.160
+No como en el otro que se ha girado a la baja
+
+20:57.160 --> 20:59.160
+El ADX, pues porque aquí como veis
+
+20:59.160 --> 21:01.160
+El positivo, el D y positivo está por encima del negativo
+
+21:01.160 --> 21:03.160
+Entonces el ADX se gira el alza instantáneamente
+
+21:03.160 --> 21:05.160
+Porque está teniendo en cuenta
+
+21:05.160 --> 21:07.160
+Una tendencia positiva
+
+21:07.160 --> 21:09.160
+Entonces te está diciendo que la tendencia positiva
+
+21:09.160 --> 21:11.160
+Está perdiendo fuerza
+
+21:11.160 --> 21:13.160
+En el otro caso te está diciendo que la tendencia negativa
+
+21:13.160 --> 21:15.160
+Está perdiendo fuerza
+
+21:15.160 --> 21:17.160
+Esto tenéis que trabajarlo en la cabeza
+
+21:17.160 --> 21:19.160
+Porque no lo puedo explicar de otra manera
+
+21:19.160 --> 21:21.160
+Lo siento, intenté explicarlo el otro día
+
+21:21.160 --> 21:23.160
+No me gustaba como se quedaba, lo volví a hacer el vídeo
+
+21:23.160 --> 21:25.160
+Pero es que no lo puedo explicar de otra manera
+
+21:25.160 --> 21:27.160
+Simplemente mirarlo así de sencillo
+
+21:27.160 --> 21:29.160
+El ADX solo mide si algo tiene fuerza o no
+
+21:29.160 --> 21:31.160
+Nada más, no la dirección
+
+21:31.160 --> 21:33.160
+La dirección te la dan D y positivo y D y negativo
+
+21:33.160 --> 21:35.160
+La dirección se la dan a la DX, el D y positivo y el negativo
+
+21:35.160 --> 21:37.160
+Si el positivo está sobre el negativo
+
+21:37.160 --> 21:39.160
+Va a tener en cuenta una tendencia positiva
+
+21:39.160 --> 21:41.160
+Por lo que si tú quieres entrar
+
+21:41.160 --> 21:43.160
+A el alza, tienes que esperar que se gire
+
+21:43.160 --> 21:45.160
+A el alza
+
+21:45.160 --> 21:47.160
+Si el D y negativo está por encima del positivo
+
+21:47.160 --> 21:49.160
+Y tú quieres buscar una entrada del alza
+
+21:49.160 --> 21:51.160
+Tienes que esperar que el ADX se gire a la baja
+
+21:51.160 --> 21:53.160
+Porque te está indicando que la tendencia negativa
+
+21:53.160 --> 21:55.160
+Es la que él está teniendo en cuenta
+
+21:55.160 --> 21:57.160
+Está perdiendo fuerza
+
+21:57.160 --> 21:59.160
+Sé que es complicado, pero si no no lo vais a entender
+
+21:59.160 --> 22:01.160
+Porque por ejemplo, esta es la mejor manera
+
+22:01.160 --> 22:03.160
+Que tenéis de entender el ADX
+
+22:03.160 --> 22:05.160
+ADX tiene en cuenta D y positivo y D y negativo
+
+22:05.160 --> 22:07.160
+Tienes que saber qué tendencia está teniendo en cuenta
+
+22:07.160 --> 22:09.160
+El ADX para buscar tu entrada
+
+22:09.160 --> 22:11.160
+Aquí el ADX se gira al alza
+
+22:11.160 --> 22:13.160
+La línea blanca se gira al alza dándote entrada
+
+22:13.160 --> 22:15.160
+Junto con el monitor, con el squeeze
+
+22:15.160 --> 22:17.160
+Porque está teniendo en cuenta
+
+22:17.160 --> 22:19.160
+Una fuerza positiva
+
+22:19.160 --> 22:21.160
+La fuerza positiva está ganando fuerza
+
+22:21.160 --> 22:23.160
+Aquí donde hemos dicho antes en el gráfico diario
+
+22:23.160 --> 22:25.160
+En esta zona, en este momento en el que queríamos entrada
+
+22:25.160 --> 22:27.160
+Que el monitor, el squeeze se gira al alza
+
+22:27.160 --> 22:29.160
+Y el ADX a la baja
+
+22:29.160 --> 22:31.160
+Es una entrada también
+
+22:31.160 --> 22:33.160
+Porque el ADX está teniendo en cuenta la tendencia hacia abajo
+
+22:33.160 --> 22:35.160
+Y se ha girado a la baja porque está diciendo
+
+22:35.160 --> 22:37.160
+Sí, la tendencia hacia abajo está perdiendo fuerza
+
+22:37.160 --> 22:39.160
+Está teniendo en cuenta la tendencia de abajo
+
+22:39.160 --> 22:41.160
+Porque el D y negativo está por encima del positivo
+
+22:41.160 --> 22:43.160
+¿Qué ocurre ahora?
+
+22:43.160 --> 22:45.160
+Entenderlo así
+
+22:45.160 --> 22:47.160
+Porque en este punto, el ADX
+
+22:47.160 --> 22:49.160
+La línea blanca, quiero que fijéis en la línea blanca
+
+22:49.160 --> 22:51.160
+Porque aquí el ADX
+
+22:51.160 --> 22:53.160
+Se gira a la baja y de repente tiene un pico
+
+22:53.160 --> 22:55.160
+Y se gira hacia arriba, porque en este momento es cuando
+
+22:55.160 --> 22:57.160
+Se ha cruzado el positivo por encima del negativo
+
+22:57.160 --> 22:59.160
+El D y positivo por encima del negativo
+
+22:59.160 --> 23:01.160
+Entonces, por eso
+
+23:01.160 --> 23:03.160
+El ADX aquí te está diciendo, la tendencia negativa está perdiendo
+
+23:03.160 --> 23:05.160
+Fuerza
+
+23:05.160 --> 23:07.160
+Porque está teniendo en cuenta la tendencia negativa
+
+23:07.160 --> 23:09.160
+Y en este momento en el que se cruzan, empieza a tener en cuenta
+
+23:09.160 --> 23:11.160
+Una tendencia hacia arriba y dice
+
+23:11.160 --> 23:13.160
+Tendencia hacia arriba está ganando fuerza
+
+23:13.160 --> 23:15.160
+Por eso se empieza a ir hacia arriba el ADX
+
+23:15.160 --> 23:17.160
+Esto tenéis que entenderlo, ¿de acuerdo?
+
+23:17.160 --> 23:19.160
+Aquí veis que el positivo
+
+23:19.160 --> 23:21.160
+Se expande hacia arriba sobre el negativo
+
+23:21.160 --> 23:23.160
+Y el negativo se expande hacia abajo
+
+23:23.160 --> 23:25.160
+Y esto se gira hacia arriba porque te está diciendo
+
+23:25.160 --> 23:27.160
+Que el movimiento alcista está ganando fuerza
+
+23:27.160 --> 23:29.160
+Y el bajista está perdiendo fuerza
+
+23:29.160 --> 23:31.160
+Y te está marcando eso
+
+23:31.160 --> 23:33.160
+Que una tendencia positiva
+
+23:33.160 --> 23:35.160
+Está ganando fuerza sobre una negativa
+
+23:35.160 --> 23:37.160
+Vale, y ahora que he tratado de explicar
+
+23:37.160 --> 23:39.160
+Lo de los Ds, o sea, lo de donde se gira
+
+23:39.160 --> 23:41.160
+El ADX, vamos a ir buscando por aquí
+
+23:41.160 --> 23:43.160
+Vámonos aquí, por ejemplo, donde hemos explicado
+
+23:43.160 --> 23:45.160
+La entrada esta, ¿de acuerdo? ¿Qué tenemos?
+
+23:45.160 --> 23:47.160
+Bueno, si nos vamos aquí, por ejemplo
+
+23:47.160 --> 23:49.160
+¿Qué es lo que tenemos? Vale, la entrada
+
+23:49.160 --> 23:51.160
+Está en cuatro horas que hemos visto
+
+23:51.160 --> 23:53.160
+Precio, porque aquí podemos buscar una entrada
+
+23:53.160 --> 23:55.160
+Precio sobre la media móvil
+
+23:55.160 --> 23:57.160
+Precio que
+
+23:57.160 --> 23:59.160
+Empieza a tener, en la zona de la media móvil
+
+23:59.160 --> 24:01.160
+Empieza a tener un rechazo hacia arriba
+
+24:01.160 --> 24:03.160
+Es decir, que se soporta en ella
+
+24:03.160 --> 24:05.160
+Dos velas aquí que vemos
+
+24:05.160 --> 24:07.160
+Que tienen absorción por la parte baja, quiere decir esto
+
+24:07.160 --> 24:09.160
+Que el precio baja a tocarlo y fijaros cómo vuelve a subir
+
+24:09.160 --> 24:11.160
+Mirad la mecha que ha dejado por debajo y el precio cierra ahí
+
+24:11.160 --> 24:13.160
+Otra vez, precio baja a tocarlo
+
+24:13.160 --> 24:15.160
+Cierra ahí, el precio no está cayendo
+
+24:15.160 --> 24:17.160
+Por debajo de la media móvil, el squeeze
+
+24:17.160 --> 24:19.160
+Ha salido por debajo del punto cero ya
+
+24:19.160 --> 24:21.160
+Y nosotros buscamos nuestra entrada
+
+24:21.160 --> 24:23.160
+Además, por si fuese poco
+
+24:23.160 --> 24:25.160
+Tienes el precio que ha subido
+
+24:25.160 --> 24:27.160
+A esta zona de volumen de arriba
+
+24:27.160 --> 24:29.160
+Y ha bajado a apoyarse
+
+24:29.160 --> 24:31.160
+En esta zona que le está haciendo de soporte
+
+24:31.160 --> 24:33.160
+De acuerdo?
+
+24:33.160 --> 24:35.160
+Más lo que hemos comentado, tú te preparas
+
+24:35.160 --> 24:37.160
+Para buscar tu entrada
+
+24:37.160 --> 24:39.160
+Si quieres esperar a que el indicador te la confirme
+
+24:39.160 --> 24:41.160
+Pues aquí esperas que la Dx se gira al alza
+
+24:41.160 --> 24:43.160
+Y el squeeze se gira al alza
+
+24:43.160 --> 24:45.160
+Vale? Y ahí tendrías una entrada
+
+24:45.160 --> 24:47.160
+O sea, quiero que tengáis en cuenta que sí
+
+24:47.160 --> 24:49.160
+Podéis buscar entrada simplemente por el indicador este
+
+24:49.160 --> 24:51.160
+Pero lo mejor que podéis hacer
+
+24:51.160 --> 24:53.160
+Es compaginarlos todos un poco, de acuerdo?
+
+24:53.160 --> 24:55.160
+Por eso os digo que es importante que sigáis
+
+24:55.160 --> 24:57.160
+O a Jaime o a mí, a quien os guste
+
+24:57.160 --> 24:59.160
+O al otro youtuber que os guste que utilice esta estrategia
+
+24:59.160 --> 25:01.160
+Y ver cómo la va desarrollando
+
+25:01.160 --> 25:03.160
+Porque no es solamente seguir una estrategia
+
+25:03.160 --> 25:05.160
+Sino es mezclar a ver cuántas posibilidades
+
+25:05.160 --> 25:07.160
+Tienes a tu favor para buscar una entrada
+
+25:07.160 --> 25:09.160
+Y tratar de gestionar un poquito el riesgo
+
+25:09.160 --> 25:11.160
+Esto es una entrada en largo, de acuerdo?
+
+25:11.160 --> 25:13.160
+Bien, qué tenemos aquí?
+
+25:13.160 --> 25:15.160
+Otra entrada, por ejemplo, en esta zona
+
+25:15.160 --> 25:17.160
+Si tú quieres buscar lo que viene a ser una confirmación
+
+25:17.160 --> 25:19.160
+Con esto, aquí en un gráfico de 4 horas
+
+25:19.160 --> 25:21.160
+Estamos, de acuerdo?
+
+25:21.160 --> 25:23.160
+Veamos, fijaros
+
+25:23.160 --> 25:25.160
+El precio llega a esta zona que le hace resistencia
+
+25:25.160 --> 25:27.160
+Nos tira el precio abajo
+
+25:27.160 --> 25:29.160
+A la zona de la media móvil
+
+25:29.160 --> 25:31.160
+Es importante entender que la media móvil
+
+25:31.160 --> 25:33.160
+No significa que lo vaya a tocar
+
+25:33.160 --> 25:35.160
+Exactamente, de acuerdo?
+
+25:35.160 --> 25:37.160
+Que se vaya a frenar el salto en la zona de la media
+
+25:37.160 --> 25:39.160
+Si se tiene en cuenta que es la zona de la media móvil
+
+25:39.160 --> 25:41.160
+Y también llegamos a esta área de volumen
+
+25:41.160 --> 25:43.160
+Que hace de soporte, es decir, el precio llega aquí
+
+25:43.160 --> 25:45.160
+Nosotros llegamos
+
+25:45.160 --> 25:47.160
+Esto se gira al alza
+
+25:47.160 --> 25:49.160
+En este momento de aquí
+
+25:49.160 --> 25:51.160
+La adx se gira a la baja
+
+25:51.160 --> 25:53.160
+Porque la adx, por lo que os he explicado de los days
+
+25:53.160 --> 25:55.160
+Está teniendo en cuenta ya una tendencia bajista
+
+25:55.160 --> 25:57.160
+Por eso se gira a la baja y te está diciendo
+
+25:57.160 --> 25:59.160
+Oye, la tendencia bajista está perdiendo fuerza
+
+25:59.160 --> 26:01.160
+La tendencia bajista está perdiendo fuerza, eso te conviene a ti
+
+26:01.160 --> 26:03.160
+Y ahí buscarías tu entrada
+
+26:03.160 --> 26:05.160
+¿Qué ocurre? Por ejemplo, en este caso
+
+26:05.160 --> 26:07.160
+La entrada sí que es algo tardía
+
+26:07.160 --> 26:09.160
+Porque fijaros si te da la entrada cuando llevas esta vela
+
+26:09.160 --> 26:11.160
+Hasta aquí arriba
+
+26:11.160 --> 26:13.160
+Es una jodida, entonces tú
+
+26:13.160 --> 26:15.160
+Por eso tienes que tener en cuenta las áreas de volumen
+
+26:15.160 --> 26:17.160
+Que le hacen de soporte
+
+26:17.160 --> 26:19.160
+Es una de la media móvil que hace de soporte también
+
+26:19.160 --> 26:21.160
+Y el desarrollo que pueda llevar esto
+
+26:21.160 --> 26:23.160
+Por debajo, de acuerdo del punto cero
+
+26:23.160 --> 26:25.160
+Es importante que eso lo tengas en cuenta
+
+26:25.160 --> 26:27.160
+Porque aquí lo suyo hubiese sido
+
+26:27.160 --> 26:29.160
+Buscar una compra
+
+26:29.160 --> 26:31.160
+Cuando el precio empezaba a rechazar
+
+26:31.160 --> 26:33.160
+Este área de volumen que hace de soporte
+
+26:33.160 --> 26:35.160
+Y vemos que tiene un par de velas por aquí, por encima
+
+26:35.160 --> 26:37.160
+Tú podrías haber comprado por aquí y poner un stop loss
+
+26:37.160 --> 26:39.160
+Debajo del área de volumen
+
+26:39.160 --> 26:41.160
+Que le está haciendo de soporte, en el caso que lo perdamos
+
+26:41.160 --> 26:43.160
+Por ejemplo, 43.400
+
+26:43.160 --> 26:45.160
+Una cosita así, ¿vale?
+
+26:45.160 --> 26:47.160
+Si, pero es que también
+
+26:47.160 --> 26:49.160
+Si esperas tanto la confirmación
+
+26:49.160 --> 26:51.160
+Igual te puedes quedar fuera
+
+26:51.160 --> 26:53.160
+Porque ya esto te está dando entrada
+
+26:53.160 --> 26:55.160
+Vale, al girarse al alza
+
+26:55.160 --> 26:57.160
+Con esta vela tan fuerte que se ha hecho tan grande
+
+26:57.160 --> 26:59.160
+Te está dando entrada prácticamente cuando ya está llegando
+
+26:59.160 --> 27:01.160
+Al siguiente área de volumen que hace de resistencia
+
+27:01.160 --> 27:03.160
+Entonces aquí te renta entrar, ese es el caso
+
+27:03.160 --> 27:05.160
+Si corres el riesgo de que al llegar aquí
+
+27:05.160 --> 27:07.160
+El precio te pueda rebotar
+
+27:07.160 --> 27:09.160
+Haza abajo, eso es un poco
+
+27:09.160 --> 27:11.160
+Es un poco por lo que os digo que
+
+27:11.160 --> 27:13.160
+Tenéis que seguir gente que
+
+27:13.160 --> 27:15.160
+Utiliza la estrategia para
+
+27:15.160 --> 27:17.160
+Que a base de prueba y error
+
+27:17.160 --> 27:19.160
+Podéis comparar lo que de verdad mejor funciona
+
+27:19.160 --> 27:21.160
+Lo que no funciona, ¿vale? Porque aquí hubiese sido lo suyo
+
+27:21.160 --> 27:23.160
+En mi caso yo, sí que tuve mi entrada
+
+27:23.160 --> 27:25.160
+En la zona, en este punto
+
+27:25.160 --> 27:27.160
+Sí que he tenido mi entrada, por ejemplo, en 45.500
+
+27:27.160 --> 27:29.160
+Aproximadamente, una cosa por aquí, por el estilo
+
+27:29.160 --> 27:31.160
+¿De acuerdo? Cuando he visto ya que esta vela
+
+27:31.160 --> 27:33.160
+Que esta otra vela sí que empezaba a rebotar
+
+27:33.160 --> 27:35.160
+Pero creo que aún no se había girado esto
+
+27:35.160 --> 27:37.160
+A lo que viene a ser a la baja
+
+27:37.160 --> 27:39.160
+Ahora ya tengo el stop puesto a precio de entrada
+
+27:39.160 --> 27:41.160
+Si el precio se gira, me saca y ni he ganado
+
+27:41.160 --> 27:43.160
+Ni he perdido, pero no he perdido, que es lo que importa
+
+27:43.160 --> 27:45.160
+Ahora, si te has esperado hasta aquí
+
+27:45.160 --> 27:47.160
+Pues igual estás jodido y no te renta entrar
+
+27:47.160 --> 27:49.160
+Es importante tener todo un poquito en cuenta
+
+27:49.160 --> 27:51.160
+¿Vale? En el ejemplo de
+
+27:51.160 --> 27:53.160
+Un estoalcista, ¿de acuerdo? Como hemos visto antes
+
+27:53.160 --> 27:55.160
+Nos vamos a venir actualmente donde estamos
+
+27:55.160 --> 27:57.160
+Prácticamente aquí
+
+27:57.160 --> 27:59.160
+¿Qué tienes? Lo que hemos comentado
+
+27:59.160 --> 28:01.160
+El ADX al alza y esto al alza
+
+28:01.160 --> 28:03.160
+¿De acuerdo? Y lo que viene a ser el squeeze al alza
+
+28:03.160 --> 28:05.160
+¿Donde lo hubiese cerrado? Bien
+
+28:05.160 --> 28:07.160
+Si tú quieres esperar una confirmación
+
+28:07.160 --> 28:09.160
+Por estrategia para cerrar lo que viene a ser
+
+28:09.160 --> 28:11.160
+El movimiento hubiese entrado
+
+28:11.160 --> 28:13.160
+Si hubiese entrado, cuando estar dos cosas
+
+28:13.160 --> 28:15.160
+El ADX y este se giraban al alza, ¿de acuerdo?
+
+28:15.160 --> 28:17.160
+Marcándote que fuerza hacia arriba
+
+28:17.160 --> 28:19.160
+Tú podrías haber cerrado cuando el squeeze
+
+28:19.160 --> 28:21.160
+Es decir, el de los valles se gira a la baja
+
+28:21.160 --> 28:23.160
+Y el ADX se gira a la baja también
+
+28:23.160 --> 28:25.160
+Marcándote que el movimiento acista está perdiendo fuerza
+
+28:25.160 --> 28:27.160
+Si tú hubieses esperado aquí
+
+28:27.160 --> 28:29.160
+Por ejemplo, es cierto que hubiese entrado
+
+28:29.160 --> 28:31.160
+Pues en esta zona, ¿no? El squeeze aquí
+
+28:31.160 --> 28:33.160
+Empieza a girarse a la baja, pero el ADX no se gira a la baja
+
+28:33.160 --> 28:35.160
+Por lo que te sigue diciendo que tienes fuerza hacia arriba
+
+28:35.160 --> 28:37.160
+En el momento en el que se giran es
+
+28:37.160 --> 28:39.160
+Aquí, cuando este está girado a la baja
+
+28:39.160 --> 28:41.160
+Y el ADX también está girado a la baja
+
+28:41.160 --> 28:43.160
+O sea, que tu hubieses cerrado tu posición por aquí
+
+28:43.160 --> 28:45.160
+Fíjate aquí, sí que ha salido un buen trade
+
+28:45.160 --> 28:47.160
+Cuando lleveis un trade
+
+28:47.160 --> 28:49.160
+En el que le estáis sacando, por ejemplo
+
+28:49.160 --> 28:51.160
+Pues yo que sé
+
+28:51.160 --> 28:53.160
+No sé, cuando lleves un trade en el que le estás sacando
+
+28:53.160 --> 28:55.160
+Un 5% de profit
+
+28:55.160 --> 28:57.160
+Por ejemplo, lo que puedes plantearte es
+
+28:57.160 --> 28:59.160
+Poner el stop a precio de entrada
+
+28:59.160 --> 29:01.160
+Para no perder, ¿de acuerdo? Si te salta el stop
+
+29:01.160 --> 29:03.160
+Ya busca las otras entradas, es que entradas hay todos los días
+
+29:03.160 --> 29:05.160
+Mejor que te saque a acabar perdiendo
+
+29:05.160 --> 29:07.160
+Hacerme caso, de verdad lo digo
+
+29:07.160 --> 29:09.160
+Lo que he dicho, gestión de riesgo y psicología
+
+29:09.160 --> 29:11.160
+Del trading, es importante
+
+29:11.160 --> 29:13.160
+Que hagáis vuestros análisis
+
+29:13.160 --> 29:15.160
+Con la estrategia y sigáis
+
+29:15.160 --> 29:17.160
+A Jaime, al youtuber que os guste, a mí
+
+29:17.160 --> 29:19.160
+A quien sea, día a día y comparéis vuestros análisis
+
+29:19.160 --> 29:21.160
+Ya sabéis que yo aquí estoy subiendo análisis diarios
+
+29:21.160 --> 29:23.160
+Al canal, es importante
+
+29:23.160 --> 29:25.160
+Yo utilizo esta estrategia, si queréis ver
+
+29:25.160 --> 29:27.160
+Como la utilizo yo, aquí la tenéis
+
+29:27.160 --> 29:29.160
+Y sí, yo os podría decir, no, cuando esto se gira a la baja
+
+29:29.160 --> 29:31.160
+Y esto se gira a la baja tienes entrada
+
+29:31.160 --> 29:33.160
+Y cuando esto se gira a la baja, a la baja
+
+29:33.160 --> 29:35.160
+Tiene la salida, y ya está
+
+29:35.160 --> 29:37.160
+Y callarme y decir, nada, ya tengo vídeo hecho
+
+29:37.160 --> 29:39.160
+Punto y final, pero verdaderamente
+
+29:39.160 --> 29:41.160
+Hay más que eso, o sea, esto está
+
+29:41.160 --> 29:43.160
+Para tenerlo en cuenta, las áreas que hacen de resistencia
+
+29:43.160 --> 29:45.160
+Hay que tener en cuenta cuando Bitcoin empieza
+
+29:45.160 --> 29:47.160
+A hacer un rango lateral y es
+
+29:47.160 --> 29:49.160
+Y el movimiento va cayendo, va cayendo, va cayendo
+
+29:49.160 --> 29:51.160
+Pero el precio no cae, ¿de acuerdo?
+
+29:51.160 --> 29:53.160
+Hay que tener en cuenta que el precio puede seguir subiendo
+
+29:53.160 --> 29:55.160
+Hay que tener en cuenta colocar tus stops
+
+29:55.160 --> 29:57.160
+Al precio de entrada, cuando a lo mejor
+
+29:57.160 --> 29:59.160
+Vas un 5% por arriba de la posición
+
+29:59.160 --> 30:01.160
+Por si acaso se gira, son muchas cosas
+
+30:01.160 --> 30:03.160
+Pero es importante que a diario sigáis
+
+30:03.160 --> 30:05.160
+De verdad lo digo, o sea, no es por nada
+
+30:05.160 --> 30:07.160
+Pero es que es así, aquí, por ejemplo
+
+30:07.160 --> 30:09.160
+El otro día, ¿qué teníamos?
+
+30:09.160 --> 30:11.160
+Veníamos de esta zona que hacía zona de resistencia
+
+30:11.160 --> 30:13.160
+Esto hacía de resistencia, ¿vale?
+
+30:13.160 --> 30:15.160
+El precio caía, ¡boom!
+
+30:15.160 --> 30:17.160
+Caía el siguiente nodo de volumen que hace de soporte
+
+30:17.160 --> 30:19.160
+¿Vale? El precio tiene
+
+30:19.160 --> 30:21.160
+Su recuperación en la zona
+
+30:21.160 --> 30:23.160
+De la media móvil, no tiene que estar exato en la media móvil
+
+30:23.160 --> 30:25.160
+Pero esto está en la zona de la media móvil, ¿vale?
+
+30:25.160 --> 30:27.160
+Porque es importante, que también es un esto que hace de soporte
+
+30:27.160 --> 30:29.160
+Y ¿qué teníamos aquí? Que el precio
+
+30:29.160 --> 30:31.160
+Rebotaba rápidamente en esta zona de soporte
+
+30:31.160 --> 30:33.160
+E intentaba consolidar por arriba, ¿vale?
+
+30:33.160 --> 30:35.160
+El squeeze, que es el valle rojo
+
+30:35.160 --> 30:37.160
+Ya tiene su desarrollo
+
+30:37.160 --> 30:39.160
+Tiene bastante desarrollo
+
+30:39.160 --> 30:41.160
+En un gráfico de 4 horas que estamos
+
+30:41.160 --> 30:43.160
+Por lo que nosotros aquí podíamos estar planteando
+
+30:43.160 --> 30:45.160
+Antes de que la estrategia de esa entrada
+
+30:45.160 --> 30:47.160
+Porque aquí, si te das cuenta
+
+30:47.160 --> 30:49.160
+El ADX se gira a la baja y esto se gira a la alza, ¿vale?
+
+30:49.160 --> 30:51.160
+Bien, el ADX se gira a la baja
+
+30:51.160 --> 30:53.160
+Porque lo que hemos comentado antes de los days
+
+30:53.160 --> 30:55.160
+Esto ya estaba teniendo en cuenta la fuerza de abajo
+
+30:55.160 --> 30:57.160
+Entonces está diciendo
+
+30:57.160 --> 30:59.160
+Hostia, la fuerza de abajo está perdiendo fuerza
+
+30:59.160 --> 31:01.160
+Por eso se ha girado a la baja, ¿vale?
+
+31:01.160 --> 31:03.160
+Y este se gira a la alza, entonces si tú hubieses buscado la entrada
+
+31:03.160 --> 31:05.160
+Cuando eso pasaba, es en esta vela
+
+31:05.160 --> 31:07.160
+Y esta vela ya está muy desarrollada
+
+31:07.160 --> 31:09.160
+Tal vez cuando te dices la entrada
+
+31:09.160 --> 31:11.160
+¿Qué ocurre? Pues que tú aquí llegarías y
+
+31:11.160 --> 31:13.160
+Es que si compras aquí, ¿vale?
+
+31:13.160 --> 31:15.160
+Si tú hubieses comprado aquí en la parte de arriba, ¿de acuerdo?
+
+31:15.160 --> 31:17.160
+Estás en un área que te está haciendo ya de resistencia
+
+31:17.160 --> 31:19.160
+Que es aquí, entonces te hubieses rentado a comprar aquí
+
+31:19.160 --> 31:21.160
+Yo creo que no
+
+31:21.160 --> 31:23.160
+En mi caso, yo aquí sí que hice compra, ¿vale?
+
+31:23.160 --> 31:25.160
+No la hice donde me hubiese gustado que era en el área de volumen
+
+31:25.160 --> 31:27.160
+Que estaba esperando pero me pilló durmiendo
+
+31:27.160 --> 31:29.160
+De noche, es lo que tiene
+
+31:29.160 --> 31:31.160
+Y mi compra la hice sobre 45.500
+
+31:31.160 --> 31:33.160
+Una cosita por aquí, ¿de acuerdo?
+
+31:33.160 --> 31:35.160
+Entonces yo ya voy por esta zona
+
+31:35.160 --> 31:37.160
+Y cuando hemos llegado a esta zona aproximadamente
+
+31:37.160 --> 31:39.160
+Y he dicho, mira, lo que voy a hacer es colocar mi estopaprecio de entrada
+
+31:39.160 --> 31:41.160
+Si esto se gira
+
+31:41.160 --> 31:43.160
+Que me saque, no hay problema
+
+31:43.160 --> 31:45.160
+Por eso te digo que tú puedes esperar tener una confirmación de entrada
+
+31:45.160 --> 31:47.160
+Si quieres ir por aquí, ¿de acuerdo?
+
+31:47.160 --> 31:49.160
+Con el indicador
+
+31:49.160 --> 31:51.160
+O tener en cuenta que esto tiene mucho desarrollo
+
+31:51.160 --> 31:53.160
+Y anticiparte un poco a la estrategia
+
+31:53.160 --> 31:55.160
+Por ejemplo, si has rebotado en un área de volumen
+
+31:55.160 --> 31:57.160
+Estás sobre la media móvil
+
+31:57.160 --> 31:59.160
+Y prefieres operar de manera que digas
+
+31:59.160 --> 32:01.160
+Hostia, pues compro aquí
+
+32:01.160 --> 32:03.160
+Cuando has rebotado en la zona de la media móvil
+
+32:03.160 --> 32:05.160
+Es decir, compro por esta zona
+
+32:05.160 --> 32:07.160
+Cuando he visto que el precio rechaza la zona
+
+32:07.160 --> 32:09.160
+Del área de volumen este que hace de soporte
+
+32:09.160 --> 32:11.160
+Y meto mis toblos
+
+32:11.160 --> 32:13.160
+Por debajo
+
+32:13.160 --> 32:15.160
+¿Por qué he comprado aquí? Pues porque esto, aunque no se haya girado al alza
+
+32:15.160 --> 32:17.160
+En este momento
+
+32:17.160 --> 32:19.160
+Ya tenía mucho desarrollo el valle rojo, ¿vale?
+
+32:19.160 --> 32:21.160
+Podría decir eso, ¿no?
+
+32:21.160 --> 32:23.160
+No te compras cuando esto se gira a la baja y esto se gira al alza
+
+32:23.160 --> 32:25.160
+Sí, ¿vale? Pero es que a mí me gusta tratar de ser más pillo
+
+32:25.160 --> 32:27.160
+Y si me salta el stop, que me salte el stop
+
+32:27.160 --> 32:29.160
+¿De acuerdo?
+
+32:29.160 --> 32:31.160
+Pero si tú hubieses comprado cuando esto aquí sí que te daba entrada por la estrategia
+
+32:31.160 --> 32:33.160
+Igual lo hubieses comprado muy alto
+
+32:33.160 --> 32:35.160
+¿De acuerdo?
+
+32:35.160 --> 32:37.160
+Y ya cómo te renta colocar el stop
+
+32:37.160 --> 32:39.160
+Si sabes que esta zona la puedes rechazar
+
+32:39.160 --> 32:41.160
+Que es una resistencia
+
+32:41.160 --> 32:43.160
+Y tu toblos que lo vas a poner
+
+32:43.160 --> 32:45.160
+Por debajo del área de volumen
+
+32:45.160 --> 32:47.160
+Que es la que sabes que si cae
+
+32:47.160 --> 32:49.160
+Te puede frenar
+
+32:49.160 --> 32:51.160
+Una caída que te puedes comer súper gorda
+
+32:51.160 --> 32:53.160
+Para poco profit que puedas sacar tal vez
+
+32:53.160 --> 32:55.160
+En gráfico diario
+
+32:55.160 --> 32:57.160
+Vamos a poner un ejemplo de un short, ¿vale?
+
+32:57.160 --> 32:59.160
+Aquí tenemos gráfico diario, ¿de acuerdo?
+
+32:59.160 --> 33:01.160
+Aquí está, el precio rompe con fuerza
+
+33:01.160 --> 33:03.160
+Las medias se cruzan
+
+33:03.160 --> 33:05.160
+Entonces vamos a buscar un rebote a la media
+
+33:05.160 --> 33:07.160
+Para seguir cayendo, ¿de acuerdo?
+
+33:07.160 --> 33:09.160
+Aquí tenemos esta zona de rebote a la media
+
+33:09.160 --> 33:11.160
+Para seguir cayendo, bien
+
+33:11.160 --> 33:13.160
+Aquí, ¿vale?
+
+33:13.160 --> 33:15.160
+Vamos allá, que tenemos?
+
+33:15.160 --> 33:17.160
+Zona de la media móvil, ¿de acuerdo?
+
+33:17.160 --> 33:19.160
+Como ejemplo
+
+33:19.160 --> 33:21.160
+Con el modo de repetición este
+
+33:21.160 --> 33:23.160
+Que hemos dicho mil veces, esta zonita de por aquí
+
+33:23.160 --> 33:25.160
+Vemos que estamos llegando a la zona de la media móvil
+
+33:25.160 --> 33:27.160
+Que es una zona que hace de resistencia, ¿vale?
+
+33:27.160 --> 33:29.160
+Estamos operando el rebote a la media para seguir cayendo
+
+33:29.160 --> 33:31.160
+Vemos también por aquí
+
+33:31.160 --> 33:33.160
+Que el squeeze empieza a pasar por encima del punto cero
+
+33:33.160 --> 33:35.160
+Y vamos a darle alguna vela más
+
+33:35.160 --> 33:37.160
+Ahí está, ¿vale?
+
+33:37.160 --> 33:39.160
+Y lo que vemos es que el precio llega a la zona de la media móvil
+
+33:39.160 --> 33:41.160
+Por aquí, y vemos que tiene
+
+33:41.160 --> 33:43.160
+Una vela que es bastante negativa, es decir que tiene
+
+33:43.160 --> 33:45.160
+Mucha mecha por la parte alta
+
+33:45.160 --> 33:47.160
+Es decir que el precio está rechazando esa zona, ¿vale?
+
+33:47.160 --> 33:49.160
+Esto ya tiene su desarrollo por encima del punto cero
+
+33:49.160 --> 33:51.160
+Nosotros por aquí estamos ya planteando
+
+33:51.160 --> 33:53.160
+Entrar en short, ¿qué ocurre aquí?
+
+33:53.160 --> 33:55.160
+Bien, yo
+
+33:55.160 --> 33:57.160
+Personalmente, en mi caso
+
+33:57.160 --> 33:59.160
+¿Vale?
+
+33:59.160 --> 34:01.160
+Antes de tener la confirmación aquí, hubiese entrado
+
+34:01.160 --> 34:03.160
+En short, ¿por qué? Bueno
+
+34:03.160 --> 34:05.160
+Porque a mi me gusta ver cómo reacciona el precio
+
+34:05.160 --> 34:07.160
+Esta zona, y vemos que tenemos velas que empiezan
+
+34:07.160 --> 34:09.160
+A rechazar, ¿de acuerdo? Es mala
+
+34:09.160 --> 34:11.160
+Al ver este cierre de vela
+
+34:11.160 --> 34:13.160
+En la zona de la media móvil que hace de resistencia
+
+34:13.160 --> 34:15.160
+Yo personalmente hubiese comprado y hubiese subido
+
+34:15.160 --> 34:17.160
+Un stop hacia arriba, porque vamos a ver
+
+34:17.160 --> 34:19.160
+Si tú esperas confirmación de entrada
+
+34:19.160 --> 34:21.160
+De acuerdo, aquí, por ejemplo
+
+34:21.160 --> 34:23.160
+Vale, aquí es la zona
+
+34:23.160 --> 34:25.160
+Mirad, que vela ha aparecido ya
+
+34:25.160 --> 34:27.160
+La confirmación de entrada por aquí abajo la tendrías aquí
+
+34:27.160 --> 34:29.160
+Vale, aquí, el ADX se gira al alza
+
+34:29.160 --> 34:31.160
+Y esto se gira a lo que viene a ser
+
+34:31.160 --> 34:33.160
+A la baja, ¿vale? Marcándonos
+
+34:33.160 --> 34:35.160
+Que el movimiento a la baja está cogiendo fuerza
+
+34:35.160 --> 34:37.160
+De nuevo, ¿de acuerdo? Porque el ADX está teniendo en cuenta
+
+34:37.160 --> 34:39.160
+Un movimiento bajista, por eso te está diciendo
+
+34:39.160 --> 34:41.160
+Eh, movimiento a la baja está cogiendo fuerza
+
+34:41.160 --> 34:43.160
+Por eso esto se está girando a la baja y esto al alza
+
+34:43.160 --> 34:45.160
+Bien, si tú hubieses querido entrar
+
+34:45.160 --> 34:47.160
+Por lo que viene a ser
+
+34:47.160 --> 34:49.160
+Esperar entrada en el indicador
+
+34:49.160 --> 34:51.160
+Sí que aquí, por ejemplo, igual también hubieses estado un poquito crudo
+
+34:51.160 --> 34:53.160
+Porque si sigues dando alza alante
+
+34:53.160 --> 34:55.160
+Veamos a ver qué es lo que ocurre
+
+34:55.160 --> 34:57.160
+Cuando a ti te da lo que viene a ser salida, ¿vale?
+
+34:57.160 --> 34:59.160
+Vamos a ir dejando que se desarrolle
+
+34:59.160 --> 35:01.160
+Y es cierto que aquí, ¿vale? Tú podrías haber
+
+35:01.160 --> 35:03.160
+Cerrado perfectamente
+
+35:03.160 --> 35:05.160
+Porque si el ADX empieza a girarse a la baja
+
+35:05.160 --> 35:07.160
+Y esto se ha girado aquí al alza, ¿vale?
+
+35:07.160 --> 35:09.160
+Eso es cierto, lo que viene a ser salida por estrategia
+
+35:09.160 --> 35:11.160
+Ahora, si aquí esto
+
+35:11.160 --> 35:13.160
+Se vuelve a girar al alza
+
+35:13.160 --> 35:15.160
+Y esto se ha vuelto a girar a la baja
+
+35:15.160 --> 35:17.160
+Como estamos viendo, puedes pensar
+
+35:17.160 --> 35:19.160
+Comprar otra vez, sí, y proseguir
+
+35:19.160 --> 35:21.160
+Con lo que viene a ser el short, eso es cierto
+
+35:21.160 --> 35:23.160
+Es utilizando solamente lo que viene a ser lo de abajo, ¿vale?
+
+35:23.160 --> 35:25.160
+Pero es que también es verdad que
+
+35:25.160 --> 35:27.160
+Hay que darle un poco a la cabeza
+
+35:27.160 --> 35:29.160
+Por eso os digo que es importante que
+
+35:29.160 --> 35:31.160
+Sigáis y comparéis vuestros análisis con Jaime
+
+35:31.160 --> 35:33.160
+O conmigo o con quien sea
+
+35:33.160 --> 35:35.160
+Si nosotros seguimos aquí, lo que vemos es que aquí sí que tiene
+
+35:35.160 --> 35:37.160
+Más desarrollo de lo que viene a ser el short
+
+35:37.160 --> 35:39.160
+Aquí sí que es un short ya más desarrollado
+
+35:39.160 --> 35:41.160
+O sea, movimientos que esperamos en un gráfico diario
+
+35:41.160 --> 35:43.160
+Porque es que también tener en cuenta que cuando tratamos
+
+35:43.160 --> 35:45.160
+De proyectar short en un gráfico diario
+
+35:45.160 --> 35:47.160
+O cosas así, no estamos proyectando
+
+35:47.160 --> 35:49.160
+Movimientos de tan poca magnitud
+
+35:49.160 --> 35:51.160
+Estamos proyectando a lo mejor
+
+35:51.160 --> 35:53.160
+Movimientos, yo que sé, de 8.000 dólares
+
+35:53.160 --> 35:55.160
+En el precio, una cosa así por el estilo
+
+35:55.160 --> 35:57.160
+No como en un gráfico de 4 horas que a lo mejor proyectar movimientos
+
+35:57.160 --> 35:59.160
+De 1.000 o 2.000 dólares
+
+35:59.160 --> 36:01.160
+Eso también hay que entenderlo, ¿vale?
+
+36:01.160 --> 36:03.160
+Ahora aquí, por estrategia, sí que aquí
+
+36:03.160 --> 36:05.160
+Tuviese cerrado este short
+
+36:05.160 --> 36:07.160
+Se ha girado a la baja y esto se ha girado al alza, ¿vale?
+
+36:07.160 --> 36:09.160
+Es decir, aquí, habiendo entrado
+
+36:09.160 --> 36:11.160
+Habiendo entrado de nuevo
+
+36:11.160 --> 36:13.160
+Pues lo que viene a ser en esta zona
+
+36:13.160 --> 36:15.160
+Si hubieses contado solamente con lo que viene a ser el indicador
+
+36:15.160 --> 36:17.160
+Para hacer este trade
+
+36:17.160 --> 36:19.160
+Pues tal vez hubieses sacado
+
+36:19.160 --> 36:21.160
+Una cosa
+
+36:21.160 --> 36:23.160
+Hubieses sacado algo así como
+
+36:23.160 --> 36:25.160
+Un 7 o un 8% de profit
+
+36:25.160 --> 36:27.160
+De acuerdo
+
+36:27.160 --> 36:29.160
+Ahora, tú te quieres anticipar a la estrategia
+
+36:29.160 --> 36:31.160
+Perfectamente puedes hacerlo
+
+36:31.160 --> 36:33.160
+Aquí, cuando dices, hostias
+
+36:33.160 --> 36:35.160
+En un sitio en el que veo
+
+36:35.160 --> 36:37.160
+Que velas empiezan a absorber
+
+36:37.160 --> 36:39.160
+Por la parte baja, sobre todo como esta vela
+
+36:39.160 --> 36:41.160
+Dices, hostia, pues con esta vela
+
+36:41.160 --> 36:43.160
+Que tiene tanto rechazo a la zona de aquí abajo
+
+36:43.160 --> 36:45.160
+Me planteo cerrar mi short
+
+36:45.160 --> 36:47.160
+Porque también es algo inteligente
+
+36:47.160 --> 36:49.160
+Y con la cantidad de valle rojo que lleva ya esto desarrollado
+
+36:49.160 --> 36:51.160
+Por debajo del punto cero
+
+36:51.160 --> 36:53.160
+También me parece algo bastante inteligente
+
+36:53.160 --> 36:55.160
+Cerrar esto aquí y ya buscar una entrada
+
+36:55.160 --> 36:57.160
+Más adelante y hubiese salvado más posición
+
+36:57.160 --> 36:59.160
+Porque aquí ya está llegando en un punto en el que
+
+36:59.160 --> 37:01.160
+Esto está curvándose hacia arriba
+
+37:01.160 --> 37:03.160
+Aquí hay una vela que absorbe por la parte baja
+
+37:03.160 --> 37:05.160
+Y el ADX empieza a
+
+37:05.160 --> 37:07.160
+Curvarse lo que viene a ser hacia abajo
+
+37:07.160 --> 37:09.160
+Por lo que viene a ser esta zona de aquí
+
+37:09.160 --> 37:11.160
+La estrategia es más que usar esto
+
+37:11.160 --> 37:13.160
+Simplemente, ¿vale? Sí, esto hay que usarlo, obviamente
+
+37:13.160 --> 37:15.160
+Pero también hay que tener en cuenta esto
+
+37:15.160 --> 37:17.160
+También hay que tener en cuenta la media móvil
+
+37:17.160 --> 37:19.160
+También hay que tener en cuenta la acción del precio
+
+37:19.160 --> 37:21.160
+Lo que viene a ser en las velas
+
+37:21.160 --> 37:23.160
+Hay que tener en cuenta también los cruces
+
+37:23.160 --> 37:25.160
+En las medias móviles
+
+37:25.160 --> 37:27.160
+También hay que tener en cuenta que si estás operando
+
+37:27.160 --> 37:29.160
+Un rebote a la baja, o sea un short
+
+37:29.160 --> 37:31.160
+Pero en un gráfico diario tienes una tendencia al cista
+
+37:31.160 --> 37:33.160
+Tienes que llevar más cuidado
+
+37:33.160 --> 37:35.160
+Y protegerte siempre con un stop loss
+
+37:35.160 --> 37:37.160
+Por ejemplo, cosas así por el estilo
+
+37:37.160 --> 37:39.160
+Es que, por eso os digo que es conveniente
+
+37:39.160 --> 37:41.160
+Que os quedeis seguir gente
+
+37:41.160 --> 37:43.160
+Que utilice esta estrategia y tratar de aprender de ellos
+
+37:43.160 --> 37:45.160
+Comparar vuestro análisis con los suyos
+
+37:45.160 --> 37:47.160
+Simplemente eso
+
+37:47.160 --> 37:49.160
+Lo siento, pero no sé explicarlo
+
+37:49.160 --> 37:51.160
+De una manera más sencilla, tal vez
+
+37:51.160 --> 37:53.160
+Por eso, insisto en esto último
+
+37:53.160 --> 37:55.160
+También os digo, dejar un comentario
+
+37:55.160 --> 37:57.160
+Y si veo que el vídeo tiene mucho apoyo
+
+37:57.160 --> 37:59.160
+Voy a hacer en un futuro un vídeo resolviendo dudas
+
+37:59.160 --> 38:01.160
+Sobre esta estrategia de trading latino
+
+38:01.160 --> 38:03.160
+Por aquí te dejaré siempre el análisis diario
+
+38:03.160 --> 38:05.160
+Que estoy subiendo de bitcoin, es decir aquí tendrás el análisis
+
+38:05.160 --> 38:07.160
+Al día de bitcoin, lo vas a tener aquí
+
+38:07.160 --> 38:09.160
+Para que compares tu análisis con el mío
+
+38:09.160 --> 38:11.160
+Haz clic y vas al vídeo
+
+38:11.160 --> 38:13.160
+Y no te olvides de suscribirte para más y mejor
+
+38:13.160 --> 38:15.160
+Nos vemos la próxima, chao chao
+

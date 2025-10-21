@@ -1,0 +1,1070 @@
+Estrategia que utiliza Jaime de Trading Latino
+Voy a tratar de explicarla de manera bastante sencilla, que te resulte fácil y que quede lo más completa posible
+Ya que yo también utilizo la misma estrategia que utiliza él
+Y si es una estrategia con pautas, con entradas, salidas, etc etc
+En la que utilizamos los cinco indicadores que vemos aquí en pantalla
+Medias móviles
+El área de volumen importante, el ADX y el Squisk
+Si tú todavía no has puesto los indicadores estos, de acuerdo, te he dejado un tutorial de cómo ponerlos de manera gratuita
+Por aquí arriba lo tendrás, ve corriendo a verlo
+Y después te vienes a ver este vídeo en el que voy a explicar la estrategia que utiliza Jaime de Trading Latino
+Por cierto, no me he presentado
+Bienvenidos al canal de Don Cash
+Yo soy Yosu, tu capitalista de confianza
+¡Ey!
+Olvidé decir dos cosas muy importantes para la estrategia
+La primera es que si tú no tienes ningún conocimiento de trading, de gráficos y demás
+No te vas a aclarar nada en este vídeo
+Así que haré un vídeo de trading básico para principiantes para que puedas entender un poco de todo esto
+Y después venirte a este vídeo
+Lo dejaré por aquí, en cuanto lo tenga hecho os aparecerá por aquí arriba
+Hacéis click y después de ver ese vídeo y entenderlo os venís a este
+De acuerdo, si no no vas a entender nada
+Y la segunda cosa te la digo a continuación, que sí que la dije en el vídeo
+Y es la más importante
+Let's go
+Y lo más importante que os quiero decir, de acuerdo, antes de que empecéis a estudiar la estrategia
+No es por nada, pero es que es así
+Lo más importante es la psicología del trader, eso es lo más importante por encima de todo
+Y aplicarla a la estrategia
+Por eso os recomiendo 100% que sigáis a diario
+Que se analicéis con esta estrategia que os voy a enseñar en el vídeo
+Sigáis a diario y comparéis vuestros análisis
+Con los que pueda hacer a diario, por ejemplo, pues Jaime de Trading Latino
+O otro youtuber que utilice su estrategia que te guste
+O yo en este caso, por ejemplo, que en este canal la vamos a utilizar
+Y la estamos utilizando y hacemos análisis diario todos los días
+Y viendo a diario los análisis que hace Jaime de Trading Latino
+El youtuber que te guste
+O yo en este caso
+Si es que te gusto, me sos rojo, por favor
+En serio, vamos a comenzar
+Vamos a empezar explicando las medias móviles, ¿de acuerdo?
+Ya sabéis que tenemos medias móviles de 10 periodos y 55 periodos son las que utilizamos
+Yo la azulita, la que va pegada al precio es la de 10 periodos, esta que vemos por aquí, ¿de acuerdo?
+Es la línea esta azul
+Y la de B y la de 55 periodos, perdón, es esta que va más despegada al precio
+Son E+, ¿de acuerdo? Medias móviles exponenciales
+Pero con eso no vamos a entrar en detalles, lo que os tiene que interesar es esto
+Bien, vamos a explicar lo sencillo que es
+Cuando la media de 10 periodos
+Vale, esto es un gráfico diario, importante la temporalidad en la que estéis operando
+Gráfico diario es este, ¿vale?
+Cuando la media de 10 periodos está por encima de la de 55, que es la marrón
+Significa que es alcista, ¿de acuerdo? Movimiento alcista
+Aquí lo tenéis, aquí lo tenéis, aquí lo tenéis, ¿vale?
+Cuando está por debajo la media de 10 periodos de la de 55, es decir, está por debajo de esta
+Significa que el movimiento es bajista, ¿vale?
+Aquí tenéis la caída, aquí lo tenéis, aquí lo tenéis
+Media por encima, el precio subiendo
+Media por encima, el precio subiendo, ¿vale?
+Aquí hay como una especie de falso cruce, pero eso ya lo veremos ahora, ¿de acuerdo?
+Porque no solamente estamos haciendo trading con las medias móviles
+Ahora, importante también, media móvil de 55, la marrón
+Hace de soporte y hace de resistencia también, ¿vale?
+Lo estamos viendo aquí, el famoso, bueno, tenemos las medias por encima, el famoso
+Rebote a la media y hacia arriba
+Rebote a la media, no tiene por qué ser a la media exacta, ¿vale?
+A la zona de la media móvil
+Hace arriba, rebote a la zona de la media, hacia arriba, lo estáis viendo
+Aquí sí que tenemos esto y la ruptura, pero eso ahora lo veremos
+Cuando estamos bajistas, ¿de acuerdo?
+Que veis aquí como las medias están cruzadas
+Tenemos el famoso rebote a la media para seguir cae...
+¡Crayendo, madre mía!
+Para seguir cayendo, ¿de acuerdo?
+Aunque esto lo vamos a ver mejor en un gráfico de 4 horas que sea bastante mala situación
+Ya que esto es un gráfico diario y tenemos, pues, menos información, ¿no?
+Pero bueno, aquí también se puede ver, rebote a la media para abajo
+Rebote a la media para abajo
+Importante también tener en cuenta de las medias móviles
+Zonas de compresión, es decir...
+Solo algo que yo veía Jaime decir bastantes veces es que cuando hay una zona de compresión
+Entre las medias móviles, después solo ocurre un movimiento explosivo
+¿Veis cómo se comprimen?
+Y a continuación tenemos ese movimiento explosivo que en este caso ha sido la subida
+O por ejemplo, no sé, por ejemplo, yo que se mira, no sé
+Aquí, ¿no? Vemos que las medias móviles, a ver
+Vemos que las medias móviles van comprimiéndose
+¿Veis? Se comprimen, se comprimen, se comprimen
+¡Pum! Movimiento explosivo
+Eso es algo un poco más rebuscado, de acuerdo, dentro de lo que es la estrategia
+Pero me apetecía comentárselo
+Es algo importante, ¿vale?
+Bueno, vamos a seguir porque si no el vídeo se va a quedar del copón de largo
+Aunque no me importa, lo que me importa es que os quede claro
+Bien, vamos a explicar el siguiente indicador
+Áreas de volumen importante, de acuerdo, que este es el...
+Esto lo que hace es agarrar el volumen, de acuerdo, por precio
+Por precio, no este volumen, ¿vale?
+Aquí tenemos este volumen, que son las velas, que es el volumen por vela
+No, este volumen, vamos a quitar esta verga, ahí está
+Este volumen es el volumen por precio, es decir, el interés de compra que hubo a lo mejor
+Que ha habido en toda la zona de, yo que sé, 38.000, que veis estos picos
+El interés de compra que ha habido, de compra y venta, ¿de acuerdo?
+En la zona de 47.000, que veis que aumenta el pico, etc, etc
+Lo podéis poner de manera gratuita si vais aquí, perfil de volumen con rango fijo
+Y lo único que tendréis que hacer es hacerlo manual, es decir, pinchar
+Del principio de la pantalla
+Hasta el final, ¿vale?
+Y eso, es lo mismo
+Un momento, voy a activar esto, que lo había quitado
+Esto, el POC, ¿vale?
+Para que veis que se queda igual
+Aquí lo tenéis, es lo mismo
+Lo único que tenéis que hacer es lo manual, si yo ahora estiro el precio hacia atrás
+Veis cómo cambia, porque está cogiendo el área de todo
+Entonces tú tendrías que coger este de aquí y arrastrarlo hacia atrás
+Es lo mismo, ¿vale?
+Lo único que tienes que cambiar es lo manual y es que se cambia automático, ya está
+Vamos a borrarlo y voy a explicarlo con este de aquí
+Esto nos mide las áreas de volumen por precio
+Lo que significa que es la zona de interés y que nos hacen de soportes y resistencia
+Y la línea roja esta es el POC, o punto de control, ¿de acuerdo?
+Que es la zona de mayor interés, ¿vale?
+Es la zona que ha habido de mayor interés de volumen por precio
+En todo lo que aparece aquí en la pantalla, que es lo que está cogiendo, ¿de acuerdo?
+Pero lo que me interesa es que nos centremos en estos picos que aparecen por aquí, ¿de acuerdo?
+Picos de estos que sobresalen, significan áreas de volumen importantes
+Cuando las pillas de abajo hacia arriba, ¿vale?
+Cuando las cogemos, como en este caso, las hemos cogido
+Bueno, a ver, ahora desaparece porque ahora está cogiendo la área de volumen de todo lo que hay aquí en pantalla
+Que es menos información de la que había antes, no sé si me explico
+Pero bueno, aquí tenéis el pico este
+Esto significa que es una resistencia en este caso
+Porque la hemos cogido de abajo hacia arriba, como estáis viendo
+Estamos en esta zona actualmente en este momento, el precio de Bitcoin está aquí
+Y esto está haciendo de resistencia
+Ahora, si nosotros cayésemos en este caso
+Hacia abajo, por ejemplo, a este área de volumen, a este nodo
+Esta zona nos haría de soporte ahora, ¿vale? Porque la estamos cogiendo hacia abajo
+Esto sería un soporte a tener en cuenta
+Por ejemplo, aquí, veis que arrancamos de esta zona de aquí
+Que nos estaba haciendo de soporte de aquí, ¿vale?
+Esta zona nos estaba haciendo de soporte
+Y conforme llegamos a esta zona de aquí
+El precio, miradlo, es que lo estamos viendo en un gráfico diario, ¿vale?
+El precio tiene aquí su rechazo, hace como su retroceso
+Porque esto es una área de resistencia
+Luego, es cierto que a la rompe, sigue subiendo y llegamos al siguiente área de resistencia
+Que es donde nos estamos parando, ¿vale?
+Esto es lo que hacen las áreas de volumen
+Entonces, es algo muy fundamental para tener en cuenta a la hora de operar con la estrategia
+Ya que si no lo tienes en cuenta, la estrategia podría fallar, ¿de acuerdo?
+Por eso te digo que es un todo junto y también la psicología del trader
+Por eso es muy importante que a diario comparéis vuestros análisis
+Con los que pueda estar haciendo yo, que sabéis que subo análisis diario
+O Jaime de Trayden Latino, ¿de acuerdo?
+O el youtuber que os guste que suba vídeos con esta estrategia, perfecto
+Y es muy importante que os quedéis con esto, lo que hace es captar el volumen por precio de lo que aparece en pantalla
+Es decir, ahora mismo lo está captando de todo esto, ¿no?
+De todo esto de aquí
+Si yo hago la pantallaza atrás, va a captar el volumen de todo esto, ¿de acuerdo?
+De todo lo que aparece en pantalla
+Por eso si vosotros queréis operar en un rango, como hicimos el otro día
+En el vídeo del otro día yo dije, quiero operar el ranguito de aquí, ¿vale?
+Y lo que hice fue bajar la temporalidad a 15 minutos
+Para ver qué estaba sucediendo en el rango
+Así, ¿de acuerdo?
+Y sí, lo puedes operar viéndolo de aquí
+Pero yo dije, oye, me parece más cómodo hacerlo así, ¿no?
+Operarlo así, con este indicador, ¿vale?
+Y ya pues, ahí está
+Ahí lo estoy viendo en pantalla, con este indicador
+Eso lo podéis hacer a vuestro gusto
+Pero con este podéis hacer lo mismo
+Si ahora te tiras para atrás
+Este agarra todo esto
+Tú lo coges, lo echas para atrás para que haga lo mismo
+Y agarre todo, ¿vale?
+Marca lo mismo, quiero que os quede claro
+Os enseñé cómo ponerlo en el vídeo que os he dejado por ahí dentro
+El de cómo poner todo esto
+Voy a volver a poner el gráfico diario, que es lo que nos interesa
+Que es para explicarlo todo más sencillito, aquí está
+Ay, es raro, chavales, espero que se esté quedando claro, ¿vale?
+Porque estoy un poco nervioso la hora de explicar esto, no sé por qué
+Quiero explicarlo bien, quiero que os quede claro
+Así que si apoyáis mucho este vídeo con likes, suscripciones, todo lo demás
+En un futuro puedo hacer un vídeo resolviendo dudas sobre la estrategia
+Por ejemplo, si ha quedado alguna duda, ¿vale?
+O actualizar el vídeo y hacer un vídeo mejor, yo no lo sé, ¿vale?
+Voy a intentar que quede lo más claro posible
+¿Qué nos queda por explicar?
+Ahora, vámonos ya con el Squish primero, ¿vale?
+Que es el de los valles, luego iremos con el ADX, ¿vale?
+Vamos con el Squish
+El Squish es este indicador de los valles, ¿vale?
+De los valles verdes y valles rojos, ¿vale?
+Este que vemos así, valle verde, valle rojo, perfecto
+Se conoce como Squish porque digamos que es como un indicador de explosividad, ¿no?
+De momentum
+Se utiliza verdaderamente con estas cruces grises que veis y las cruces negras
+Aunque Jaime no las utiliza, yo tampoco las utilizo
+Pero digamos que es para marcar el momento en el que se produce esa explosividad
+Pero verdaderamente yo prefiero compaginarlo con el ADX
+Y ver la fuerza del movimiento mediante el ADX que es la otra, la línea blanquita, ¿vale?
+Vamos a explicar primero el Squish este
+Y esto es un indicador de momentum, de intensidad del movimiento, ¿de acuerdo?
+Podemos decirlo así, como veis
+Contra más grandes el valle, por así decirlo, pues mayores lo que vean ser el movimiento, ¿vale?
+Por esto, ahí está, mira de ese valle, mira de este valle y mira del movimiento este
+Luego mira de este que más pequeñito y mira del movimiento este, ¿vale?
+De retroceso que más pequeñito
+Valles verdes, ¿de acuerdo?
+Alcista, valle rojo, bajista, ¿vale?
+A la baja, aquí lo veis, valle verde, hacia arriba
+Y el valle rojito este de aquí, abajo, ¿vale?
+Lo veas donde lo veas, ¿vale?
+Luego, por ejemplo, si ves este valle rojo grande de aquí
+Coincide con la caída gorda de aquí, ¿vale?
+Ahora, ¿por qué también es muy importante este indicador?
+Porque nos permite ver divergencias entre precio y el movimiento, vamos a decirlo así, ¿no?
+Para ver si el movimiento es armónico, si no
+Y nos puede ayudar a predecir posibles o evitar posibles caídas gordas
+¿Qué es una divergencia?
+Aquí lo vemos, ¿vale?
+En este caso, por ejemplo, mira, divergencia bajista
+Mirad, voy a ponerlo con la línita de tendencia esta
+Si veis esto, el precio aumenta
+Precio sube, ¿de acuerdo?
+Aquí lo podéis ver
+Los máximos cada vez son más altos
+Sin embargo, en el indicador
+Divergencia bajista, es decir
+Él nos marca la divergencia bajista, mejor dicho
+En el indicador, los máximos cada vez son más bajos
+A continuación, ¿qué tuvimos?
+Bueno, si tuvimos esta caída, aquí
+Y el derrumbe del copón, ¿vale?
+Por eso son importantes tener en cuenta las divergencias
+Y tener en cuenta en qué temporalidad las operamos
+Porque no es lo mismo una divergencia en un gráfico de cuatro horas
+Que si se confirma, nos va a tirar el precio una cantidad mucho menor
+A la que nos va a tirar el precio una divergencia bajista
+En un gráfico diario, como es en este caso
+O en un gráfico semanal incluso
+Que es una temporalidad mayor, ¿de acuerdo?
+Eso es muy importante
+Eso es una divergencia bajista
+Y las divergencias alcistas se cogen de abajo a arriba
+Es decir, por ejemplo, mira, aquí
+Aquí tenemos una, ¿vale?
+Esta divergencia de aquí, divergencia alcista
+Se coge de abajo a arriba, ¿de acuerdo?
+Vamos a borrar esto
+Y la tendríamos aquí, mirad el precio
+¿Cómo va?
+Con, digamos, los bajos al mismo nivel
+O más bajos incluso
+Y, sin embargo, el monitor, el indicador, el squeeze, ¿vale?
+Fijaros cómo está al alza, ¿vale?
+Son divergencias y son muy importantes
+A continuación de esto, ¿qué vivimos?
+Bueno, el despegue, ¿de acuerdo?
+Importante
+Quiero que quede claro que cuando hablamos de un gráfico de cuatro horas
+Estamos proyectando a lo mejor el movimiento
+Para uno, dos, tres días, como muchísimo
+Y cuando hablamos de gráficos diarios
+Sí que lo proyectamos a lo mejor para semana, semana y media
+Y un gráfico semanal, por ejemplo
+Estamos proyectando para dos o tres meses
+Lo que viene a ser el movimiento, ¿vale?
+Eso es importante
+Y vamos a pasar con el ADX, ¿de acuerdo?
+El ADX, que es con la que la gente más lío se hace
+Incluso yo me hacía lío, ¿de acuerdo?
+Es este de aquí, es la linita
+Vamos a bajar esto por aquí, ¿vale?
+Es este, que da igual que...
+O sea, esto de ponerlo encima, ponerlo por arriba
+No importa
+No importa
+Simplemente lo tenemos así pues para ahorrar espacio
+Y porque uno se complementa con el otro, ¿no?
+Pero no significa que tenga que estar a la misma altura ni cosas
+Eso no rayarse, chavales, que eso no tiene nada que ver, ¿vale?
+A ver, el ADX se mide así
+Es este que tenemos aquí
+Que va verdaderamente
+El ADX es un oscilador que se mide de 0 a 100, ¿vale?
+Teóricamente
+Entonces, esto, porque esté hacia arriba
+Vamos a ponerlo así
+Porque el ADX esté hacia arriba o hacia abajo
+No significa que el movimiento sea hacia arriba o hacia abajo
+Simplemente mide la fuerza de una tendencia
+La fuerza de un movimiento, ¿de acuerdo?
+Esto solamente mide la fuerza del movimiento
+Como estáis viendo aquí
+El precio, ¿vale?
+Tiene su caída y el ADX se dispara a el alza, ¿vale?
+¿Por qué?
+Porque esto tiene fuerza
+No significa que esto sea alcista, ¿de acuerdo?
+No, el movimiento tiene fuerza
+¿Para dónde tiene la fuerza?
+Para abajo, ¿vale?
+Vale, chavales, me veis ya cambiadito
+Porque no pude grabar más
+Y vamos a continuar con la explicación
+Así que continuo hoy con la explicación
+Y vamos por el ADX
+Bien, este indicador es el que más lío hace, ¿vale?
+Como ya hemos dicho
+Solamente mide si una tendencia o un movimiento tiene fuerza o no tiene fuerza, ¿de acuerdo?
+Es decir, por ejemplo, estoy en un gráfico de cuatro horas ahora, ¿vale?
+Como veis, aquí hay una bajada, ¿de acuerdo?
+Y el ADX tiene pendiente positivo
+Es decir, hacia arriba, ¿de acuerdo?
+¿Por qué?
+Porque este movimiento tiene fuerza
+Simplemente
+El ADX solamente mide la fuerza del movimiento
+El movimiento es fuerte o no
+No te dice si es hacia arriba o hacia abajo
+Ahora te voy a explicar cómo saber
+Qué movimiento está teniendo en cuenta el ADX
+Si está teniendo en cuenta un movimiento hacia arriba o un movimiento hacia abajo
+Te voy a explicar, ¿de acuerdo?
+Antes quiero decirte que el ADX
+Es un oscilador que va de 0 a 100, ¿de acuerdo?
+El famoso punto 23
+Este que muchas veces menciona Jaime, ¿de acuerdo?
+Digamos que esto se divide así, ¿de acuerdo?
+De 0 a 25
+Lo que tenemos es ausencia de tendencia, ¿de acuerdo?
+O movimiento que no tiene fuerza
+Luego digamos que de 25 a 50
+Es una tendencia fuerte
+De 50 a 75
+Es una tendencia muy fuerte
+Y de 75 a 100 sería una tendencia
+Boom!
+Mind blown
+De locos, ¿de acuerdo?
+Y como oscilador que es, ¿de acuerdo?
+Es bueno que esto
+Tenga sus subidas y sus bajadas
+¿De acuerdo?
+Lo que viene a ser el ADX
+Porque también es algo a favor
+Para sanear los movimientos, ¿no?
+Para que los movimientos sean sanos
+Porque no puede ser que
+Esto a lo mejor
+Ya que la subida, pues, debe de ser natural
+Y esto debe de ser detener
+Por lo que viene a ser
+Sus oscilaciones, etc, etc, ¿de acuerdo?
+Aquí lo que importa es
+¿Cómo que el ADX se gira al alza?
+Se gira a la baja
+Bien, para esto
+Para saber qué movimiento está teniendo en cuenta
+El ADX
+O qué dirección está teniendo en cuenta el ADX
+Jaime decía que esto tiene que entrar por los ojos, ¿no?
+¿De acuerdo?
+Pero yo entiendo que es que es normal
+Que cuando todos empezamos
+Pues no tenemos ni idea
+En qué dirección está teniendo en cuenta el ADX
+O qué dirección está teniendo en cuenta el ADX
+Cuando todos empezamos
+Pues no tenemos ni idea
+Entonces
+Lo que es el ADX consta
+Del ADX
+Del D y positivo
+Y del D y negativo, ¿vale?
+El D y positivo
+Mide la fuerza positiva del movimiento
+Y el D y negativo
+Mide la fuerza negativa del movimiento, ¿no?
+Esto lo podemos activar de aquí
+Vamos a la ruleta, ¿de acuerdo?
+Y yo lo tengo puesto en verde y en rojo
+Bueno, pues, activas
+D y positivo
+D y negativo, ¿de acuerdo?
+Esto lo voy a explicar
+Junto a la estrategia, ¿de acuerdo?
+Es decir, vamos a explicarlo ya
+Voy a desactivarlo un momento
+Y ahora veréis, ¿vale?
+Estamos en un gráfico de cuatro horas
+Por ejemplo, aquí
+Bien, voy a tratar de explicar también a la vez que explico
+Lo que viene a ser el ADX
+Porque creo que es lo complicado de entender, ¿vale?
+A la vez que explicamos lo que viene a ser
+La estrategia, ¿de acuerdo?
+Lo que viene a ser la estrategia
+Mirad, primero vamos a venirnos a esta zona, ¿vale?
+Lo que yo quiero que entendáis
+Es sobre todo el tema del ADX
+Porque es que sé que es lo más complicado
+Porque esto de cómo que se gira la baja y el monitor al alza
+Y está dando entrada
+Y cómo que se gira al alza y el monitor al alza
+También está dando entrada
+Entonces no tiene sentido
+Lo vamos a ver, ¿de acuerdo?
+Esta zona, por ejemplo
+En un gráfico de cuatro horas, ¿vale?
+Vemos que sí, que el precio
+Aquí el cruce de la media móvil es del azul
+Sobre esta, ¿de acuerdo?
+Un cruce
+Que el precio está rompiendo con fuerza
+Y aquí nosotros lo que estamos buscando
+Es un rebote a la zona de la media móvil
+Para seguir subiendo, ¿no?
+Vale
+Con lo que buscamos también, obviamente
+Es que el squeeze, es decir, el de los valles
+Pase por debajo del punto cero
+Que es el punto este de las cruces
+Y empieza a desarrollar valle rojo, ¿vale?
+Que vayamos buscando entrada
+Y si tú quieres esperar a tu entrada confirmada
+Por estos indicadores de abajo
+Que son el ADX y el squeeze
+Aquí tienes que esperar
+Por ejemplo, que el squeeze
+Si tú querías esperar entrada confirmada
+Tienes que esperar que el squeeze, que es el de los valles
+Se gire al alza, como lo estamos viendo aquí
+De acuerdo, el valle rojo se empieza a girar al alza
+Y que el ADX, que es la línea esta
+Se gire al alza también
+¿Veis que aquí se giran los dos a la vez al alza?
+Ahí tienes el squeeze al alza y el ADX al alza, ¿no?
+Es decir, vamos a hacer esto más grande
+Así para que lo podáis ver mejor
+La línea blanca esta
+Se gira al alza y lo que viene a ser
+Uy, perdón, que gallo, madre mía
+Y lo que viene a ser el valle rojo se gira al alza
+Confirmándonos lo que viene a ser la entrada
+Eso se gira al alza en cuanto sale esta vela gorda
+Porque los indicadores
+Siguen al precio, no el precio sigue a los indicadores
+Vale, eso sería una confirmación de entrada
+Por esto, es importante que os quedéis a ver
+Toda la explicación que vamos a dar ahora
+Vale, ahora voy a poner otro ejemplo
+Aquí ADX al alza y squeeze al alza
+Es una confirmación de entrada, ¿de acuerdo?
+Ahora, voy a ponerte otro ejemplo
+Porque es que esto es lo que te va a liar
+Voy a un gráfico diario, por ejemplo
+A la zona esta que habíamos visto hace un montón de tiempo
+Por aquí la tenéis
+Esta zona que hemos dicho de aquí, ¿de acuerdo?
+Por ejemplo
+Y vemos que aquí
+La zona esta que habíamos dicho que estábamos esperando
+Un movimiento al alza
+Que es la zona esta en la que habíamos comentado lo de la divergencia
+Porque tenemos una divergencia alcista
+Por eso estábamos esperando
+Ese movimiento fuerte
+A lo que viene a ser al alza, ¿de acuerdo?
+Tenemos la divergencia alcista en el gráfico diario
+Por eso esperábamos un movimiento fuerte que lo tuvimos
+Bien, aquí
+Como veis, tenemos
+Que el monitor está... Esperamos entonces
+Para confirmar una entrada que el squeeze
+Es decir, el de los valles se gire al alza
+Es decir, empiece el valle rojo al alza
+Y porque aquí el ADX se gira a la baja
+En vez de al alza como en la otra entrada
+Aquí para confirmar nuestra entrada
+Teníamos que esperar que el ADX se girase a la baja
+Y el squeeze al alza
+Como lo tenemos aquí, ADX aquí
+Veis que se gira a la baja y el squeeze se gira al alza
+¿Por qué?
+Porque tenemos que tener en cuenta
+Que tendencia o que movimiento está teniendo en cuenta el ADX
+Para saber hacia dónde se va a girar
+¿Vale? ¿Cómo sabemos esto?
+Pues, con lo que hemos comentado del DI positivo y el DI negativo
+Podemos saber
+Que movimiento está teniendo en cuenta el ADX
+Es decir, aquí el ADX está teniendo en cuenta
+Un movimiento bajista, ¿vale?
+Es decir, está teniendo en cuenta
+Como si estuviésemos en una tendencia hacia abajo
+¿Por qué? Pues como hemos dicho
+Con el DI positivo y el negativo activos
+Con DI positivo y DI negativo
+Lo que mide es, DI positivo
+Fuerza positiva, DI negativo
+Negativa, ¿de acuerdo?
+Entonces, si el negativo
+Que es el que yo tengo puesto por aquí
+Que es el rojito, ¿vale?
+Y el positivo es el verde
+Si el negativo está por encima del positivo
+El ADX está teniendo en cuenta
+Una tendencia hacia abajo
+Y si es al revés
+El positivo está por encima del negativo
+El ADX está teniendo en cuenta
+Una tendencia positiva, ¿vale?
+Una tendencia hacia arriba
+¿Qué ocurre? ¿Por qué aquí lo que esperamos es
+Que el squeeze, el del valle rojo
+Se gire al alza y el ADX
+A la baja?
+Porque el ADX está teniendo en cuenta
+Una tendencia negativa hacia abajo
+Y entonces, si el ADX se gira hacia abajo
+Significa que la tendencia negativa
+La tendencia negativa, la tendencia hacia abajo
+Por eso nosotros lo que queremos saber
+Es cuando esto se gira al alza
+Y cuando la tendencia negativa
+Que es la que está teniendo en cuenta el ADX
+Pierde fuerza para buscar la entrada
+Por eso aquí la entrada es
+ADX se gira hacia abajo
+Y el squeeze se gira hacia arriba
+Porque el ADX está teniendo en cuenta
+Una tendencia hacia abajo
+Sin embargo, si vamos al otro ejemplo
+Que te he puesto
+Que era aquí en un gráfico de 4 horas
+Aquí en este rebote a la media
+Tenéis que darle un poco a la mollera aquí
+Porque en este momento de aquí
+Cuando hemos dicho que esto se giraba el alza
+Y el ADX se giraba el alza
+Cuando daba entrada
+Porque hemos dicho que el ADX se giraba el alza
+Y el squeeze se giraba el alza dando entrada
+No como en el otro que se ha girado a la baja
+El ADX, pues porque aquí como veis
+El positivo, el D y positivo está por encima del negativo
+Entonces el ADX se gira el alza instantáneamente
+Porque está teniendo en cuenta
+Una tendencia positiva
+Entonces te está diciendo que la tendencia positiva
+Está perdiendo fuerza
+En el otro caso te está diciendo que la tendencia negativa
+Está perdiendo fuerza
+Esto tenéis que trabajarlo en la cabeza
+Porque no lo puedo explicar de otra manera
+Lo siento, intenté explicarlo el otro día
+No me gustaba como se quedaba, lo volví a hacer el vídeo
+Pero es que no lo puedo explicar de otra manera
+Simplemente mirarlo así de sencillo
+El ADX solo mide si algo tiene fuerza o no
+Nada más, no la dirección
+La dirección te la dan D y positivo y D y negativo
+La dirección se la dan a la DX, el D y positivo y el negativo
+Si el positivo está sobre el negativo
+Va a tener en cuenta una tendencia positiva
+Por lo que si tú quieres entrar
+A el alza, tienes que esperar que se gire
+A el alza
+Si el D y negativo está por encima del positivo
+Y tú quieres buscar una entrada del alza
+Tienes que esperar que el ADX se gire a la baja
+Porque te está indicando que la tendencia negativa
+Es la que él está teniendo en cuenta
+Está perdiendo fuerza
+Sé que es complicado, pero si no no lo vais a entender
+Porque por ejemplo, esta es la mejor manera
+Que tenéis de entender el ADX
+ADX tiene en cuenta D y positivo y D y negativo
+Tienes que saber qué tendencia está teniendo en cuenta
+El ADX para buscar tu entrada
+Aquí el ADX se gira al alza
+La línea blanca se gira al alza dándote entrada
+Junto con el monitor, con el squeeze
+Porque está teniendo en cuenta
+Una fuerza positiva
+La fuerza positiva está ganando fuerza
+Aquí donde hemos dicho antes en el gráfico diario
+En esta zona, en este momento en el que queríamos entrada
+Que el monitor, el squeeze se gira al alza
+Y el ADX a la baja
+Es una entrada también
+Porque el ADX está teniendo en cuenta la tendencia hacia abajo
+Y se ha girado a la baja porque está diciendo
+Sí, la tendencia hacia abajo está perdiendo fuerza
+Está teniendo en cuenta la tendencia de abajo
+Porque el D y negativo está por encima del positivo
+¿Qué ocurre ahora?
+Entenderlo así
+Porque en este punto, el ADX
+La línea blanca, quiero que fijéis en la línea blanca
+Porque aquí el ADX
+Se gira a la baja y de repente tiene un pico
+Y se gira hacia arriba, porque en este momento es cuando
+Se ha cruzado el positivo por encima del negativo
+El D y positivo por encima del negativo
+Entonces, por eso
+El ADX aquí te está diciendo, la tendencia negativa está perdiendo
+Fuerza
+Porque está teniendo en cuenta la tendencia negativa
+Y en este momento en el que se cruzan, empieza a tener en cuenta
+Una tendencia hacia arriba y dice
+Tendencia hacia arriba está ganando fuerza
+Por eso se empieza a ir hacia arriba el ADX
+Esto tenéis que entenderlo, ¿de acuerdo?
+Aquí veis que el positivo
+Se expande hacia arriba sobre el negativo
+Y el negativo se expande hacia abajo
+Y esto se gira hacia arriba porque te está diciendo
+Que el movimiento alcista está ganando fuerza
+Y el bajista está perdiendo fuerza
+Y te está marcando eso
+Que una tendencia positiva
+Está ganando fuerza sobre una negativa
+Vale, y ahora que he tratado de explicar
+Lo de los Ds, o sea, lo de donde se gira
+El ADX, vamos a ir buscando por aquí
+Vámonos aquí, por ejemplo, donde hemos explicado
+La entrada esta, ¿de acuerdo? ¿Qué tenemos?
+Bueno, si nos vamos aquí, por ejemplo
+¿Qué es lo que tenemos? Vale, la entrada
+Está en cuatro horas que hemos visto
+Precio, porque aquí podemos buscar una entrada
+Precio sobre la media móvil
+Precio que
+Empieza a tener, en la zona de la media móvil
+Empieza a tener un rechazo hacia arriba
+Es decir, que se soporta en ella
+Dos velas aquí que vemos
+Que tienen absorción por la parte baja, quiere decir esto
+Que el precio baja a tocarlo y fijaros cómo vuelve a subir
+Mirad la mecha que ha dejado por debajo y el precio cierra ahí
+Otra vez, precio baja a tocarlo
+Cierra ahí, el precio no está cayendo
+Por debajo de la media móvil, el squeeze
+Ha salido por debajo del punto cero ya
+Y nosotros buscamos nuestra entrada
+Además, por si fuese poco
+Tienes el precio que ha subido
+A esta zona de volumen de arriba
+Y ha bajado a apoyarse
+En esta zona que le está haciendo de soporte
+De acuerdo?
+Más lo que hemos comentado, tú te preparas
+Para buscar tu entrada
+Si quieres esperar a que el indicador te la confirme
+Pues aquí esperas que la Dx se gira al alza
+Y el squeeze se gira al alza
+Vale? Y ahí tendrías una entrada
+O sea, quiero que tengáis en cuenta que sí
+Podéis buscar entrada simplemente por el indicador este
+Pero lo mejor que podéis hacer
+Es compaginarlos todos un poco, de acuerdo?
+Por eso os digo que es importante que sigáis
+O a Jaime o a mí, a quien os guste
+O al otro youtuber que os guste que utilice esta estrategia
+Y ver cómo la va desarrollando
+Porque no es solamente seguir una estrategia
+Sino es mezclar a ver cuántas posibilidades
+Tienes a tu favor para buscar una entrada
+Y tratar de gestionar un poquito el riesgo
+Esto es una entrada en largo, de acuerdo?
+Bien, qué tenemos aquí?
+Otra entrada, por ejemplo, en esta zona
+Si tú quieres buscar lo que viene a ser una confirmación
+Con esto, aquí en un gráfico de 4 horas
+Estamos, de acuerdo?
+Veamos, fijaros
+El precio llega a esta zona que le hace resistencia
+Nos tira el precio abajo
+A la zona de la media móvil
+Es importante entender que la media móvil
+No significa que lo vaya a tocar
+Exactamente, de acuerdo?
+Que se vaya a frenar el salto en la zona de la media
+Si se tiene en cuenta que es la zona de la media móvil
+Y también llegamos a esta área de volumen
+Que hace de soporte, es decir, el precio llega aquí
+Nosotros llegamos
+Esto se gira al alza
+En este momento de aquí
+La adx se gira a la baja
+Porque la adx, por lo que os he explicado de los days
+Está teniendo en cuenta ya una tendencia bajista
+Por eso se gira a la baja y te está diciendo
+Oye, la tendencia bajista está perdiendo fuerza
+La tendencia bajista está perdiendo fuerza, eso te conviene a ti
+Y ahí buscarías tu entrada
+¿Qué ocurre? Por ejemplo, en este caso
+La entrada sí que es algo tardía
+Porque fijaros si te da la entrada cuando llevas esta vela
+Hasta aquí arriba
+Es una jodida, entonces tú
+Por eso tienes que tener en cuenta las áreas de volumen
+Que le hacen de soporte
+Es una de la media móvil que hace de soporte también
+Y el desarrollo que pueda llevar esto
+Por debajo, de acuerdo del punto cero
+Es importante que eso lo tengas en cuenta
+Porque aquí lo suyo hubiese sido
+Buscar una compra
+Cuando el precio empezaba a rechazar
+Este área de volumen que hace de soporte
+Y vemos que tiene un par de velas por aquí, por encima
+Tú podrías haber comprado por aquí y poner un stop loss
+Debajo del área de volumen
+Que le está haciendo de soporte, en el caso que lo perdamos
+Por ejemplo, 43.400
+Una cosita así, ¿vale?
+Si, pero es que también
+Si esperas tanto la confirmación
+Igual te puedes quedar fuera
+Porque ya esto te está dando entrada
+Vale, al girarse al alza
+Con esta vela tan fuerte que se ha hecho tan grande
+Te está dando entrada prácticamente cuando ya está llegando
+Al siguiente área de volumen que hace de resistencia
+Entonces aquí te renta entrar, ese es el caso
+Si corres el riesgo de que al llegar aquí
+El precio te pueda rebotar
+Haza abajo, eso es un poco
+Es un poco por lo que os digo que
+Tenéis que seguir gente que
+Utiliza la estrategia para
+Que a base de prueba y error
+Podéis comparar lo que de verdad mejor funciona
+Lo que no funciona, ¿vale? Porque aquí hubiese sido lo suyo
+En mi caso yo, sí que tuve mi entrada
+En la zona, en este punto
+Sí que he tenido mi entrada, por ejemplo, en 45.500
+Aproximadamente, una cosa por aquí, por el estilo
+¿De acuerdo? Cuando he visto ya que esta vela
+Que esta otra vela sí que empezaba a rebotar
+Pero creo que aún no se había girado esto
+A lo que viene a ser a la baja
+Ahora ya tengo el stop puesto a precio de entrada
+Si el precio se gira, me saca y ni he ganado
+Ni he perdido, pero no he perdido, que es lo que importa
+Ahora, si te has esperado hasta aquí
+Pues igual estás jodido y no te renta entrar
+Es importante tener todo un poquito en cuenta
+¿Vale? En el ejemplo de
+Un estoalcista, ¿de acuerdo? Como hemos visto antes
+Nos vamos a venir actualmente donde estamos
+Prácticamente aquí
+¿Qué tienes? Lo que hemos comentado
+El ADX al alza y esto al alza
+¿De acuerdo? Y lo que viene a ser el squeeze al alza
+¿Donde lo hubiese cerrado? Bien
+Si tú quieres esperar una confirmación
+Por estrategia para cerrar lo que viene a ser
+El movimiento hubiese entrado
+Si hubiese entrado, cuando estar dos cosas
+El ADX y este se giraban al alza, ¿de acuerdo?
+Marcándote que fuerza hacia arriba
+Tú podrías haber cerrado cuando el squeeze
+Es decir, el de los valles se gira a la baja
+Y el ADX se gira a la baja también
+Marcándote que el movimiento acista está perdiendo fuerza
+Si tú hubieses esperado aquí
+Por ejemplo, es cierto que hubiese entrado
+Pues en esta zona, ¿no? El squeeze aquí
+Empieza a girarse a la baja, pero el ADX no se gira a la baja
+Por lo que te sigue diciendo que tienes fuerza hacia arriba
+En el momento en el que se giran es
+Aquí, cuando este está girado a la baja
+Y el ADX también está girado a la baja
+O sea, que tu hubieses cerrado tu posición por aquí
+Fíjate aquí, sí que ha salido un buen trade
+Cuando lleveis un trade
+En el que le estáis sacando, por ejemplo
+Pues yo que sé
+No sé, cuando lleves un trade en el que le estás sacando
+Un 5% de profit
+Por ejemplo, lo que puedes plantearte es
+Poner el stop a precio de entrada
+Para no perder, ¿de acuerdo? Si te salta el stop
+Ya busca las otras entradas, es que entradas hay todos los días
+Mejor que te saque a acabar perdiendo
+Hacerme caso, de verdad lo digo
+Lo que he dicho, gestión de riesgo y psicología
+Del trading, es importante
+Que hagáis vuestros análisis
+Con la estrategia y sigáis
+A Jaime, al youtuber que os guste, a mí
+A quien sea, día a día y comparéis vuestros análisis
+Ya sabéis que yo aquí estoy subiendo análisis diarios
+Al canal, es importante
+Yo utilizo esta estrategia, si queréis ver
+Como la utilizo yo, aquí la tenéis
+Y sí, yo os podría decir, no, cuando esto se gira a la baja
+Y esto se gira a la baja tienes entrada
+Y cuando esto se gira a la baja, a la baja
+Tiene la salida, y ya está
+Y callarme y decir, nada, ya tengo vídeo hecho
+Punto y final, pero verdaderamente
+Hay más que eso, o sea, esto está
+Para tenerlo en cuenta, las áreas que hacen de resistencia
+Hay que tener en cuenta cuando Bitcoin empieza
+A hacer un rango lateral y es
+Y el movimiento va cayendo, va cayendo, va cayendo
+Pero el precio no cae, ¿de acuerdo?
+Hay que tener en cuenta que el precio puede seguir subiendo
+Hay que tener en cuenta colocar tus stops
+Al precio de entrada, cuando a lo mejor
+Vas un 5% por arriba de la posición
+Por si acaso se gira, son muchas cosas
+Pero es importante que a diario sigáis
+De verdad lo digo, o sea, no es por nada
+Pero es que es así, aquí, por ejemplo
+El otro día, ¿qué teníamos?
+Veníamos de esta zona que hacía zona de resistencia
+Esto hacía de resistencia, ¿vale?
+El precio caía, ¡boom!
+Caía el siguiente nodo de volumen que hace de soporte
+¿Vale? El precio tiene
+Su recuperación en la zona
+De la media móvil, no tiene que estar exato en la media móvil
+Pero esto está en la zona de la media móvil, ¿vale?
+Porque es importante, que también es un esto que hace de soporte
+Y ¿qué teníamos aquí? Que el precio
+Rebotaba rápidamente en esta zona de soporte
+E intentaba consolidar por arriba, ¿vale?
+El squeeze, que es el valle rojo
+Ya tiene su desarrollo
+Tiene bastante desarrollo
+En un gráfico de 4 horas que estamos
+Por lo que nosotros aquí podíamos estar planteando
+Antes de que la estrategia de esa entrada
+Porque aquí, si te das cuenta
+El ADX se gira a la baja y esto se gira a la alza, ¿vale?
+Bien, el ADX se gira a la baja
+Porque lo que hemos comentado antes de los days
+Esto ya estaba teniendo en cuenta la fuerza de abajo
+Entonces está diciendo
+Hostia, la fuerza de abajo está perdiendo fuerza
+Por eso se ha girado a la baja, ¿vale?
+Y este se gira a la alza, entonces si tú hubieses buscado la entrada
+Cuando eso pasaba, es en esta vela
+Y esta vela ya está muy desarrollada
+Tal vez cuando te dices la entrada
+¿Qué ocurre? Pues que tú aquí llegarías y
+Es que si compras aquí, ¿vale?
+Si tú hubieses comprado aquí en la parte de arriba, ¿de acuerdo?
+Estás en un área que te está haciendo ya de resistencia
+Que es aquí, entonces te hubieses rentado a comprar aquí
+Yo creo que no
+En mi caso, yo aquí sí que hice compra, ¿vale?
+No la hice donde me hubiese gustado que era en el área de volumen
+Que estaba esperando pero me pilló durmiendo
+De noche, es lo que tiene
+Y mi compra la hice sobre 45.500
+Una cosita por aquí, ¿de acuerdo?
+Entonces yo ya voy por esta zona
+Y cuando hemos llegado a esta zona aproximadamente
+Y he dicho, mira, lo que voy a hacer es colocar mi estopaprecio de entrada
+Si esto se gira
+Que me saque, no hay problema
+Por eso te digo que tú puedes esperar tener una confirmación de entrada
+Si quieres ir por aquí, ¿de acuerdo?
+Con el indicador
+O tener en cuenta que esto tiene mucho desarrollo
+Y anticiparte un poco a la estrategia
+Por ejemplo, si has rebotado en un área de volumen
+Estás sobre la media móvil
+Y prefieres operar de manera que digas
+Hostia, pues compro aquí
+Cuando has rebotado en la zona de la media móvil
+Es decir, compro por esta zona
+Cuando he visto que el precio rechaza la zona
+Del área de volumen este que hace de soporte
+Y meto mis toblos
+Por debajo
+¿Por qué he comprado aquí? Pues porque esto, aunque no se haya girado al alza
+En este momento
+Ya tenía mucho desarrollo el valle rojo, ¿vale?
+Podría decir eso, ¿no?
+No te compras cuando esto se gira a la baja y esto se gira al alza
+Sí, ¿vale? Pero es que a mí me gusta tratar de ser más pillo
+Y si me salta el stop, que me salte el stop
+¿De acuerdo?
+Pero si tú hubieses comprado cuando esto aquí sí que te daba entrada por la estrategia
+Igual lo hubieses comprado muy alto
+¿De acuerdo?
+Y ya cómo te renta colocar el stop
+Si sabes que esta zona la puedes rechazar
+Que es una resistencia
+Y tu toblos que lo vas a poner
+Por debajo del área de volumen
+Que es la que sabes que si cae
+Te puede frenar
+Una caída que te puedes comer súper gorda
+Para poco profit que puedas sacar tal vez
+En gráfico diario
+Vamos a poner un ejemplo de un short, ¿vale?
+Aquí tenemos gráfico diario, ¿de acuerdo?
+Aquí está, el precio rompe con fuerza
+Las medias se cruzan
+Entonces vamos a buscar un rebote a la media
+Para seguir cayendo, ¿de acuerdo?
+Aquí tenemos esta zona de rebote a la media
+Para seguir cayendo, bien
+Aquí, ¿vale?
+Vamos allá, que tenemos?
+Zona de la media móvil, ¿de acuerdo?
+Como ejemplo
+Con el modo de repetición este
+Que hemos dicho mil veces, esta zonita de por aquí
+Vemos que estamos llegando a la zona de la media móvil
+Que es una zona que hace de resistencia, ¿vale?
+Estamos operando el rebote a la media para seguir cayendo
+Vemos también por aquí
+Que el squeeze empieza a pasar por encima del punto cero
+Y vamos a darle alguna vela más
+Ahí está, ¿vale?
+Y lo que vemos es que el precio llega a la zona de la media móvil
+Por aquí, y vemos que tiene
+Una vela que es bastante negativa, es decir que tiene
+Mucha mecha por la parte alta
+Es decir que el precio está rechazando esa zona, ¿vale?
+Esto ya tiene su desarrollo por encima del punto cero
+Nosotros por aquí estamos ya planteando
+Entrar en short, ¿qué ocurre aquí?
+Bien, yo
+Personalmente, en mi caso
+¿Vale?
+Antes de tener la confirmación aquí, hubiese entrado
+En short, ¿por qué? Bueno
+Porque a mi me gusta ver cómo reacciona el precio
+Esta zona, y vemos que tenemos velas que empiezan
+A rechazar, ¿de acuerdo? Es mala
+Al ver este cierre de vela
+En la zona de la media móvil que hace de resistencia
+Yo personalmente hubiese comprado y hubiese subido
+Un stop hacia arriba, porque vamos a ver
+Si tú esperas confirmación de entrada
+De acuerdo, aquí, por ejemplo
+Vale, aquí es la zona
+Mirad, que vela ha aparecido ya
+La confirmación de entrada por aquí abajo la tendrías aquí
+Vale, aquí, el ADX se gira al alza
+Y esto se gira a lo que viene a ser
+A la baja, ¿vale? Marcándonos
+Que el movimiento a la baja está cogiendo fuerza
+De nuevo, ¿de acuerdo? Porque el ADX está teniendo en cuenta
+Un movimiento bajista, por eso te está diciendo
+Eh, movimiento a la baja está cogiendo fuerza
+Por eso esto se está girando a la baja y esto al alza
+Bien, si tú hubieses querido entrar
+Por lo que viene a ser
+Esperar entrada en el indicador
+Sí que aquí, por ejemplo, igual también hubieses estado un poquito crudo
+Porque si sigues dando alza alante
+Veamos a ver qué es lo que ocurre
+Cuando a ti te da lo que viene a ser salida, ¿vale?
+Vamos a ir dejando que se desarrolle
+Y es cierto que aquí, ¿vale? Tú podrías haber
+Cerrado perfectamente
+Porque si el ADX empieza a girarse a la baja
+Y esto se ha girado aquí al alza, ¿vale?
+Eso es cierto, lo que viene a ser salida por estrategia
+Ahora, si aquí esto
+Se vuelve a girar al alza
+Y esto se ha vuelto a girar a la baja
+Como estamos viendo, puedes pensar
+Comprar otra vez, sí, y proseguir
+Con lo que viene a ser el short, eso es cierto
+Es utilizando solamente lo que viene a ser lo de abajo, ¿vale?
+Pero es que también es verdad que
+Hay que darle un poco a la cabeza
+Por eso os digo que es importante que
+Sigáis y comparéis vuestros análisis con Jaime
+O conmigo o con quien sea
+Si nosotros seguimos aquí, lo que vemos es que aquí sí que tiene
+Más desarrollo de lo que viene a ser el short
+Aquí sí que es un short ya más desarrollado
+O sea, movimientos que esperamos en un gráfico diario
+Porque es que también tener en cuenta que cuando tratamos
+De proyectar short en un gráfico diario
+O cosas así, no estamos proyectando
+Movimientos de tan poca magnitud
+Estamos proyectando a lo mejor
+Movimientos, yo que sé, de 8.000 dólares
+En el precio, una cosa así por el estilo
+No como en un gráfico de 4 horas que a lo mejor proyectar movimientos
+De 1.000 o 2.000 dólares
+Eso también hay que entenderlo, ¿vale?
+Ahora aquí, por estrategia, sí que aquí
+Tuviese cerrado este short
+Se ha girado a la baja y esto se ha girado al alza, ¿vale?
+Es decir, aquí, habiendo entrado
+Habiendo entrado de nuevo
+Pues lo que viene a ser en esta zona
+Si hubieses contado solamente con lo que viene a ser el indicador
+Para hacer este trade
+Pues tal vez hubieses sacado
+Una cosa
+Hubieses sacado algo así como
+Un 7 o un 8% de profit
+De acuerdo
+Ahora, tú te quieres anticipar a la estrategia
+Perfectamente puedes hacerlo
+Aquí, cuando dices, hostias
+En un sitio en el que veo
+Que velas empiezan a absorber
+Por la parte baja, sobre todo como esta vela
+Dices, hostia, pues con esta vela
+Que tiene tanto rechazo a la zona de aquí abajo
+Me planteo cerrar mi short
+Porque también es algo inteligente
+Y con la cantidad de valle rojo que lleva ya esto desarrollado
+Por debajo del punto cero
+También me parece algo bastante inteligente
+Cerrar esto aquí y ya buscar una entrada
+Más adelante y hubiese salvado más posición
+Porque aquí ya está llegando en un punto en el que
+Esto está curvándose hacia arriba
+Aquí hay una vela que absorbe por la parte baja
+Y el ADX empieza a
+Curvarse lo que viene a ser hacia abajo
+Por lo que viene a ser esta zona de aquí
+La estrategia es más que usar esto
+Simplemente, ¿vale? Sí, esto hay que usarlo, obviamente
+Pero también hay que tener en cuenta esto
+También hay que tener en cuenta la media móvil
+También hay que tener en cuenta la acción del precio
+Lo que viene a ser en las velas
+Hay que tener en cuenta también los cruces
+En las medias móviles
+También hay que tener en cuenta que si estás operando
+Un rebote a la baja, o sea un short
+Pero en un gráfico diario tienes una tendencia al cista
+Tienes que llevar más cuidado
+Y protegerte siempre con un stop loss
+Por ejemplo, cosas así por el estilo
+Es que, por eso os digo que es conveniente
+Que os quedeis seguir gente
+Que utilice esta estrategia y tratar de aprender de ellos
+Comparar vuestro análisis con los suyos
+Simplemente eso
+Lo siento, pero no sé explicarlo
+De una manera más sencilla, tal vez
+Por eso, insisto en esto último
+También os digo, dejar un comentario
+Y si veo que el vídeo tiene mucho apoyo
+Voy a hacer en un futuro un vídeo resolviendo dudas
+Sobre esta estrategia de trading latino
+Por aquí te dejaré siempre el análisis diario
+Que estoy subiendo de bitcoin, es decir aquí tendrás el análisis
+Al día de bitcoin, lo vas a tener aquí
+Para que compares tu análisis con el mío
+Haz clic y vas al vídeo
+Y no te olvides de suscribirte para más y mejor
+Nos vemos la próxima, chao chao

@@ -1,0 +1,140 @@
+# RESUMEN D1T2 - PATRONES DE ENTRADA Y EJEMPLOS PRÁCTICOS
+## Bootcamp TradingLatino - Día 1 Parte 2
+
+### PATRONES DE ENTRADA PRINCIPALES
+
+#### 1. **PATRÓN SHORT EN TENDENCIA BAJISTA**
+- **Condiciones**:
+  - Precio por debajo de MA55
+  - Monitor rojo (tendencia bajista)
+  - Precio toca MA55 pero no logra romperla
+  - Se forma valle verde pequeño
+  - Stop por arriba de MA55
+
+- **Ejemplo MATIC**:
+  - Temporalidad 4H
+  - Precio se quiebra hacia lateral
+  - Toca punto cero y MA55 sin romper
+  - Entrada casi perfecta en short
+  - Target: seguimiento continuo
+
+#### 2. **PATRÓN LATERAL CON FUERZA BAJISTA**
+- **Condiciones**:
+  - Lateral con pendiente negativa
+  - Monitor toca punto cero
+  - Precio no sube después del tiempo
+  - Entrada en short cuando no hay movimiento alcista
+  - Cancelación si pasa tiempo y no cae
+
+#### 3. **PATRÓN LONG EN TENDENCIA ALCISTA**
+- **Condiciones**:
+  - Tendencia diaria alcista
+  - Gráfico 4H con monitor rojo
+  - Entrada en long por tendencia superior
+  - Stop por debajo de soporte clave
+
+- **Ejemplo FALLIDO**:
+  - Tendencia diaria alcista
+  - Gráfico 4H con monitor rojo
+  - Se forma doble valle rojo con fuerza bajista
+  - Resultado: pérdida del stop
+
+### ANÁLISIS DE EJEMPLOS REALES
+
+#### **CASOS EXITOSOS (3 de 4)**
+1. **MATIC**: Short perfecto en tendencia bajista
+2. **METIS**: Patrón similar, más complicado pero exitoso
+3. **Ejemplo lateral**: Short después de tiempo sin subida
+
+#### **CASO FALLIDO (1 de 4)**
+- **Long en tendencia alcista**:
+  - Tendencia diaria alcista
+  - Gráfico 4H con monitor rojo
+  - Se forma doble valle rojo bajista
+  - Lección: "No se ganan todas, reconocer errores"
+
+### PATRÓN DIVERGENCIA ALCISTA
+- **Condiciones**:
+  - Divergencia alcista dentro de tendencia alcista
+  - Rebote a la media
+  - Lateralización mientras pasa tiempo
+  - Punto de control (línea blanca) como soporte
+
+- **Ejemplo BITCOIN 25K**:
+  - Lateral donde medias móviles se estrechan
+  - Si pasa tiempo y no cae → entrada al alza
+  - Continuación: revienta al alza después
+
+### GESTIÓN DE CAPITAL Y RIESGO
+
+#### **SIZE DE POSICIÓN**
+- **Spot**: Hasta 10% del capital por trade
+- **Futuros**: 
+  - Oro: 5x apalancamiento máximo
+  - Criptos: Cuidado con stops amplios
+  - Nunca 100x apalancamiento
+
+#### **STOP LOSS CALCULATION**
+- **Spot**: Stop del 10% aceptable
+- **Futuros**: 
+  - 10x apalancamiento = stop del 10% te mata
+  - 3x apalancamiento = stop del 30% muy riesgoso
+  - Ejemplo: $10,000 capital → máximo $1,000 riesgo
+
+### METODOLOGÍA DE ANÁLISIS
+
+#### **FLUJO DE TRABAJO**
+1. **Total 2 primero**: Analizar mercado completo
+2. **Bitcoin después**: Confirmar dirección general
+3. **Criptos individuales**: Buscar patrones específicos
+4. **Verificar volumen**: Evitar criptos con poco volumen
+
+#### **FILTROS DE ACTIVOS**
+- **Recomendados**: Oro, acciones blue chip, Bitcoin
+- **Evitar**: Memes, criptos con baja capitalización
+- **Volumen**: Verificar liquidez suficiente
+
+### PATRONES AVANZADOS
+
+#### **ROMBRE Y APOYA**
+- **Condiciones**:
+  - ADX tocando punto 23
+  - Se forma valle rojo
+  - Precio por arriba de MA55
+  - Acumulación dentro de tendencia alcista
+
+#### **ONDAS DE ELLIOTT**
+- **Onda 5 final**: Cuidado con fallos de quinta
+- **Onda 1**: Todo el tramo como lateral/onda 2
+- **ABC**: Patrón de corrección
+
+### EJEMPLOS PRÁCTICOS EN VIVO
+
+#### **ISP (Ejemplo)**
+- Tendencia diaria alcista
+- Gráfico 4H: retroceso ABC
+- Sobre MA55 → long
+- Stop calculado, target hacia arriba
+
+#### **GOLD (Oro)**
+- Mejor activo para la estrategia
+- 5x apalancamiento máximo
+- Stop amplio por baja volatilidad
+- Fundamentales sólidos
+
+### LECCIONES CLAVE
+
+1. **No ganar todas**: 3 buenas vs 1 mala es aceptable
+2. **Reconocer errores**: Es bueno para aprendizaje
+3. **Gestión emocional**: Dinero real vs paper trading
+4. **Practicar patrones**: Velocidad viene con práctica
+5. **Total 2 primero**: Ahorra tiempo en análisis
+
+### PRÓXIMOS PASOS
+- **Día 2**: Patrones de salida y no operables
+- **Día 3**: 100% práctica operativa
+- **Meta**: Poder identificar patrones rápidamente
+
+---
+*Documento generado del análisis de bootcamp/d1t2.txt*
+*Estrategia TradingLatino - Metodología probada con ejemplos reales*

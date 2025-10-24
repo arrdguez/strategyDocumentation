@@ -1,0 +1,18 @@
+El texto es la transcripción de un taller de trading impartido por un instructor llamado Jaime. El objetivo principal del taller es enseñar a los asistentes a ganar dinero haciendo crecer su capital a través de una estrategia de trading específica.
+
+Jaime presenta un sistema de gestión de capital basado en porcentajes y plazos de inversión:
+
+*   **40% para holding a largo plazo (gráfico mensual):** Invertir en Bitcoin y guardarlo en una billetera fría, sin vender nunca.
+*   **30% para trading a largo plazo (gráfico semanal):** Operar en base a patrones de venta en el gráfico semanal, también con almacenamiento en frío.
+*   **20% para trading a medio plazo (gráfico diario):** Operar en spot en un exchange, con un riesgo más elevado.
+*   **10% para trading a corto plazo (futuros):** Operar en gráficos de 4 horas y 1 hora, siendo esta la parte más arriesgada de la cartera.
+
+La estrategia de análisis técnico se basa en la combinación de varios indicadores para identificar tendencias y patrones de entrada/salida:
+
+*   **Medias móviles de 55 y 10 períodos:** Para determinar la tendencia principal (alcista, bajista o lateral).
+*   **Squeeze Momentum Indicator y ADX:** Para medir la fuerza y direccionalidad del mercado.
+*   **Perfil de volumen de rango fijo:** Para identificar zonas de soporte y resistencia.
+
+Jaime explica cómo interpretar estos indicadores en conjunto para tomar decisiones de trading, y pone ejemplos prácticos analizando el gráfico de Bitcoin y otras criptomonedas en tiempo real. Se enfoca en la importancia de operar a favor de la tendencia y de utilizar la herramienta adecuada para cada condición del mercado, como los "spot grids" para mercados laterales. También se mencionan patrones específicos como las divergencias alcistas y bajistas.
+
+En resumen, el documento es una guía detallada sobre una estrategia de trading que combina una estricta gestión de capital con un análisis técnico multifactorial para operar en el mercado de criptomonedas.

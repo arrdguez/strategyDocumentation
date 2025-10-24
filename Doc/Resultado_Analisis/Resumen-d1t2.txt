@@ -1,0 +1,13 @@
+Este documento es la continuación de un taller de trading. En esta sesión, el instructor, Jaime, se enfoca en la aplicación práctica de su estrategia a través del análisis de operaciones pasadas y la práctica de identificación de patrones de entrada.
+
+Puntos clave del contenido:
+
+*   **Análisis de Casos Reales:** Se revisan operaciones anteriores, tanto ganadoras como perdedoras, para ilustrar la aplicación de la estrategia. Se destaca un `short` exitoso en MATIC y se analiza una operación perdedora en `long` para enfatizar que ninguna estrategia es infalible y la importancia de la gestión del riesgo.
+*   **Seguimiento del Análisis de Bitcoin:** Se muestra la evolución de un análisis a largo plazo de Bitcoin, explicando cómo se ajustó la previsión de bajista a alcista después de que el precio lateralizara y no cayera, demostrando la naturaleza dinámica del análisis técnico. Se presenta una proyección a largo plazo basada en las ondas de Elliott, con un objetivo final de entre 125.000 y 135.000 dólares para finales de 2024 o principios de 2025.
+*   **Práctica de Patrones de Entrada:** Se repasan y practican los patrones de entrada alcista estudiados en la sesión anterior. Los asistentes, tanto presenciales como en línea, proponen diferentes activos (criptomonedas, acciones como Petrobras, e índices como el S&P 500) para analizarlos en tiempo real y determinar si presentan una oportunidad de compra según la estrategia.
+*   **Consejos y Flujo de Trabajo:**
+    *   Se recomienda analizar primero el gráfico del `TOTAL2` (capitalización total de las altcoins) para tener una visión general del mercado antes de buscar oportunidades en criptomonedas individuales.
+    *   Se discute la efectividad de la estrategia en diferentes mercados, mencionando que funciona bien en oro y acciones, donde también se apoya en el análisis fundamental.
+    *   Se responde a preguntas sobre la gestión de riesgo en futuros (stops del 2-3% con apalancamiento 5x) y sobre cómo filtrar activos en TradingView por exchange.
+
+En resumen, esta segunda parte del taller se centra en reforzar el aprendizaje a través de la práctica, el análisis de ejemplos concretos y la resolución de dudas, preparando a los asistentes para aplicar la estrategia de forma autónoma.

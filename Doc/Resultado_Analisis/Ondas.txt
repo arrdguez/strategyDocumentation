@@ -1,0 +1,60 @@
+Este patron describe el comportamiento que realiza el precio y las medias moviles exponenciales de 10 y 55 periodos de forma general durane una entrada alcista.
+
+La Estructura del Patrón/Momento de Impulso Alcista (0-1-2-3-4-5)
+Imagina que el mercado sale de una tendencia bajista para iniciar una nueva tendencia alcista. Este patrón describe el ciclo completo de ese impulso.
+
+Momento 0: El Suelo del Mercado (Máximo Pesimismo)
+
+Descripción: Es el final de la tendencia bajista. La mayoría de los participantes han capitulado y el sentimiento es extremadamente negativo. Nadie cree que el precio pueda subir.
+En el Gráfico: El precio marca un mínimo final.
+Confirmación con Indicadores:
+Squeeze Momentum: A menudo se forma una divergencia alcista. El precio hace un nuevo mínimo, pero el "valle rojo" del Squeeze Momentum es menos profundo que el anterior, indicando que la fuerza vendedora se está agotando.
+ADX: El ADX está por debajo del punto 23 y plano, mostrando que la tendencia bajista ha perdido toda su fuerza.
+
+Momento 1: El Primer Impulso (Incredulidad)
+Descripción: El precio comienza a subir de forma decidida. Sin embargo, la mayoría del mercado lo percibe como un simple rebote o una trampa, y esperan que siga cayendo.
+En el Gráfico: Es el primer movimiento alcista significativo que logra romper por encima de la media móvil de 55 períodos (EMA 55).
+Confirmación con Indicadores:
+EMAs: La EMA 10 cruza hacia arriba a la EMA 55.
+Squeeze Momentum: Pasa de rojo a un "valle verde", mostrando que el momentum ahora es alcista.
+ADX: El ADX se gira al alza y cruza el punto 23 con pendiente positiva, confirmando que este nuevo movimiento alcista tiene fuerza.
+
+Momento 2: La Corrección Clave (Miedo y ¡EL PUNTO DE ENTRADA!)
+Descripción: Esta es la fase más importante para la estrategia. El precio retrocede y corrige una parte de la subida de la Momento 1. Psicológicamente, el mercado piensa: "Lo sabía, era una trampa", y muchos venden en pánico.
+En el Gráfico: Es el famoso patrón "Rompe y Apoya". El precio cae y se apoya sobre la EMA de 55, que antes era una resistencia y ahora actúa como soporte. Regla crucial: La Momento 2 nunca debe caer por debajo del mínimo del Punto 0.
+Confirmación con Indicadores:
+Squeeze Momentum: Forma un "valle rojo" poco profundo. El precio cae, pero el momentum bajista es débil.
+ADX: Pierde fuerza durante la corrección, cayendo por debajo del punto 23.
+Acción Estratégica: Esta es la zona de entrada principal. Se abre una posición de compra (long o spot) sobre la EMA 55, con un stop loss colocado por debajo del mínimo de esta Momento o del Punto de Control de volumen más cercano.
+
+Momento 3: La Tendencia Principal (Optimismo y Participación)
+Descripción: Suele ser la Momento más larga y fuerte de todo el ciclo. La tendencia alcista es evidente para todos y el público general comienza a entrar masivamente al mercado.
+En el Gráfico: El precio sube con fuerza, superando con creces el máximo de la Momento 1. Se mantiene muy por encima de las EMAs.
+Evento Especial - "La Duda": A mitad de la Momento 3, es común ver una pausa o un rango lateral. Aquí, el Squeeze Momentum puede mostrar una divergencia bajista (un valle verde más pequeño mientras el precio sigue subiendo). Esto NO es una señal de venta, sino una consolidación ("duda") antes de continuar con el impulso final de la Momento 3.
+
+Momento 4: La Toma de Ganancias (Complacencia)
+Descripción: El movimiento alcista pierde ímpetu. Los traders más experimentados que entraron en la Momento 2 comienzan a tomar ganancias. La corrección suele ser más lateral y prolongada que la Momento 2.
+En el Gráfico: Es un retroceso que se mantiene por encima de la zona de la EMA 55. Regla clave: La Momento 4 no debe caer por debajo del máximo de la Momento 1.
+
+Momento 5: El Impulso Final (Euforia y ¡EL PUNTO DE SALIDA!)
+Descripción: Es el último suspiro de la tendencia alcista. La euforia es máxima, las noticias son positivas y los inversores novatos entran en masa por miedo a quedarse fuera (FOMO).
+En el Gráfico: El precio hace un último esfuerzo por superar el máximo de la Momento 3.
+Evento Especial - "Te Joden" (TJ) y el Quiebre de Estructura:
+Aquí es donde se produce el principal patrón de salida. El precio intenta superar el máximo de la Momento 3 pero falla (hace un máximo más bajo) o lo supera por muy poco y se revierte bruscamente (la trampa "TJ").
+Confirmación con Indicadores: Se forma una divergencia bajista masiva en el Squeeze Momentum. El precio hace un nuevo máximo, pero el indicador muestra un valle verde mucho más pequeño, señalando un agotamiento total de la fuerza compradora.
+Acción Estratégica: Esta es la señal para cerrar todas las posiciones de compra y tomar ganancias.
+Aplicación Práctica del Patrón de Ondas
+Identificar el Contexto: Usa los indicadores en temporalidades altas (Diario, Semanal) para determinar si el mercado está saliendo de un suelo (Punto 0).
+Esperar la Oportunidad: No persigas la Momento 1. Ten paciencia y espera a que se forme la Momento 2, el retroceso a la EMA 55. Este es tu punto de entrada de alta probabilidad y bajo riesgo.
+Gestionar la Posición: Mantén la operación durante la Momento 3, entendiendo que la "Duda" es solo una pausa.
+Preparar la Salida: Una vez superado el máximo de la Momento 3 y entrando en la fase de Momento 5, vigila de cerca la formación de un "Quiebre de Estructura" o una divergencia bajista clara. Esa es tu señal para vender y asegurar las ganancias de todo el ciclo.
+En resumen, el patrón de ondas de Trading Latino no es una herramienta de predicción exacta, sino un mapa estructural y psicológico que, combinado con sus indicadores, te permite contextualizar los movimientos del precio para saber cuándo es un momento de bajo riesgo para entrar (Momento 2) y cuándo es un momento de alto riesgo para salir (Momento 5).
+
+Notas:
+
+Tenendencia: La anterior descripción detalla algo que desde el punto de vista simple, sería algo asi.
+El precio cuando se mueve ya sea bajista o alcista, suele hacerlo de modo que hace pequeños rebotes a la media de 10 periodos. Si es alcista este rebote es en retroseso si es en tendencia bajista, el rebote es al alza. Este rebote no nocesariamente toca la media, incluso puede que no toque la media, que la toque o que incluso haga un mecrazo, pero decribe claramente ondas asendentes y desendentes segun sea el caso, donde los minimos (rebote a la media o correccón a la media) son mas altos que el anterior y y los rebotes en tendencia bajista (pequeños movimientos) son cada vez mas bajos. 
+Por otro lado, este patron se repite en las temporalidades de trabajo, sin embargo, hay sinergia en cada uno. Cundo hay un rebote en una temporalidad alta, se puede percibir incluso un cambio de tendencia en temporalidades inferiores. 
+Esto ultimo es relevante para poder estudiar las temporalidades. 
+
+Cambios de Tenencias: Cuando una tendencia va llegando a su fin, se ve como los rebotes son más pequeños, como un triangulo que se va cerrando. Suelen haber ruptura o falsas rupturas, pero se estrechan el precio y las medias, al punto que en se unen hasta que ocurre el cambio de tendencia. Esto ocurre mietras que al mismo tiempo hay que mirar otros indicadores. 

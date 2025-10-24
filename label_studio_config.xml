@@ -1,0 +1,89 @@
+<View>
+  <!-- Time Series Data Display -->
+  <TimeSeriesLabels name="label" toName="ts">
+    <!-- Wave Structure Labels -->
+    <Label value="ONDA_0_SUELO" background="#FF6B6B"/>
+    <Label value="ONDA_1_IMPULSO" background="#4ECDC4"/>
+    <Label value="ONDA_2_ENTRADA" background="#45B7D1"/>
+    <Label value="ONDA_3_TENDENCIA" background="#96CEB4"/>
+    <Label value="ONDA_4_CORRECCION" background="#FFEAA7"/>
+    <Label value="ONDA_5_SALIDA" background="#DDA0DD"/>
+    
+    <!-- Entry Pattern Labels -->
+    <Label value="ENTRADA_LONG_ROMBRE_APOYA" background="#2ECC71"/>
+    <Label value="ENTRADA_SHORT_LATERAL_FUERZA_BAJISTA" background="#E74C3C"/>
+    <Label value="ENTRADA_LONG_EMA10_EMA55" background="#27AE60"/>
+    <Label value="ENTRADA_SHORT_EMA10_EMA55" background="#C0392B"/>
+    
+    <!-- Exit Pattern Labels -->
+    <Label value="SALIDA_QUIEBRE_ESTRUCTURA" background="#F39C12"/>
+    <Label value="SALIDA_VOLUMEN_ANORMAL" background="#D35400"/>
+    <Label value="SALIDA_OBJETIVO_ALCANZADO" background="#16A085"/>
+    <Label value="SALIDA_STOP_LOSS" background="#8E44AD"/>
+    
+    <!-- Market Condition Labels -->
+    <Label value="TENDENCIA_ALCISTA" background="#3498DB"/>
+    <Label value="TENDENCIA_BAJISTA" background="#E67E22"/>
+    <Label value="LATERAL_FUERZA_ALTA" background="#9B59B6"/>
+    <Label value="LATERAL_FUERZA_BAJA" background="#34495E"/>
+    
+    <!-- Technical Indicator Labels -->
+    <Label value="SQUEEZE_MOMENTUM_ACTIVO" background="#1ABC9C"/>
+    <Label value="ADX_FUERTE" background="#F1C40F"/>
+    <Label value="EMA_CRUCE_ALCISTA" background="#2ECC71"/>
+    <Label value="EMA_CRUCE_BAJISTA" background="#E74C3C"/>
+  </TimeSeriesLabels>
+
+  <!-- Time Series Data Source -->
+  <TimeSeries name="ts" value="$csv" valueType="url" timeColumn="date" timeFormat="%Y-%m-%d %H:%M:%S" overviewChannels="open,high,low,close">
+    <Channel column="open" strokeColor="#1f77b4"/>
+    <Channel column="high" strokeColor="#ff7f0e"/>
+    <Channel column="low" strokeColor="#2ca02c"/>
+    <Channel column="close" strokeColor="#d62728"/>
+    <Channel column="volume" strokeColor="#9467bd" optional="true"/>
+    <Channel column="ema10" strokeColor="#17becf" optional="true"/>
+    <Channel column="ema55" strokeColor="#bcbd22" optional="true"/>
+    <Channel column="ema200" strokeColor="#8c564b" optional="true"/>
+    <Channel column="smi" strokeColor="#7f7f7f" optional="true"/>
+    <Channel column="adx" strokeColor="#e377c2" optional="true"/>
+    <Channel column="atr" strokeColor="#9467bd" optional="true"/>
+  </TimeSeries>
+
+  <!-- Pattern Description Panel -->
+  <View style="padding: 20px; background: #f8f9fa; border-radius: 5px; margin-top: 10px;">
+    <Header value="TradingLatino Pattern Guide"/>
+    
+    <View style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <View style="flex: 1; min-width: 200px;">
+        <Header value="Wave Structure" size="4"/>
+        <Text name="wave_guide" value="
+• **ONDA_0_SUELO**: Punto mínimo antes del impulso
+• **ONDA_1_IMPULSO**: Primer movimiento fuerte
+• **ONDA_2_ENTRADA**: Corrección para entrada
+• **ONDA_3_TENDENCIA**: Movimiento principal
+• **ONDA_4_CORRECCION**: Corrección antes de salida
+• **ONDA_5_SALIDA**: Final del movimiento
+        "/>
+      </View>
+      
+      <View style="flex: 1; min-width: 200px;">
+        <Header value="Entry Patterns" size="4"/>
+        <Text name="entry_guide" value="
+• **ROMBRE_APOYA**: Rompimiento con apoyo EMA
+• **LATERAL_FUERZA**: Lateral con fuerza direccional
+• **EMA_CRUCE**: Cruce de EMAs con confirmación
+        "/>
+      </View>
+      
+      <View style="flex: 1; min-width: 200px;">
+        <Header value="Exit Patterns" size="4"/>
+        <Text name="exit_guide" value="
+• **QUIEBRE_ESTRUCTURA**: Rompimiento estructura
+• **VOLUMEN_ANORMAL**: Volumen fuera de lo normal
+• **OBJETIVO_ALCANZADO**: Target alcanzado
+• **STOP_LOSS**: Activación stop loss
+        "/>
+      </View>
+    </View>
+  </View>
+</View>

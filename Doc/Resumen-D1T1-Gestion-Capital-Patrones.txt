@@ -1,0 +1,95 @@
+# RESUMEN D1T1 - GESTIÓN DE CAPITAL Y PATRONES INICIALES
+## BOOTCAMP TRADINGLATINO - DÍA 1 PARTE 1
+
+### DISTRIBUCIÓN ESTRATÉGICA DEL CAPITAL
+
+**ESQUEMA DE GESTIÓN DE RIESGO:**
+```
+┌─────────────────┬─────────────────┬─────────────────┬─────────────────┐
+│   40% CAPITAL   │   30% CAPITAL   │   20% CAPITAL   │   10% CAPITAL   │
+│   GRÁFICO       │   GRÁFICO       │   GRÁFICO       │   FUTUROS       │
+│   MENSUAL       │   SEMANAL       │   DIARIO        │   4H/1H         │
+├─────────────────┼─────────────────┼─────────────────┼─────────────────┤
+│  Bitcoin        │  Proyectos      │  Spot Exchange  │  Apalancamiento │
+│  Billetera Fría │  Sólidos        │  10 días/patrón │  Controlado     │
+│  Nunca Vender   │  Billetera Fría │  Riesgo Medio   │  Riesgo Alto    │
+│  Riesgo Mínimo  │  Vender con     │                 │  Aislado 3X-5X  │
+│                 │  Patrón Venta   │                 │                 │
+└─────────────────┴─────────────────┴─────────────────┴─────────────────┘
+```
+
+### IDENTIFICACIÓN DE TENDENCIAS
+
+**MEDIA MÓVIL 55 PERÍODOS - CRITERIO PRINCIPAL:**
+- **TENDENCIA ALCISTA**: Precio por encima de MA55
+- **TENDENCIA BAJISTA**: Precio por debajo de MA55  
+- **TENDENCIA LATERAL**: Medias móviles juntas, baja volatilidad
+
+**BITCOIN EN GRÁFICO MENSUAL**: Nunca ha tenido tendencia bajista
+
+### INDICADORES CLAVE DE LA ESTRATEGIA
+
+**CONFIGURACIÓN BÁSICA:**
+1. **MA55** (Marrón) - Tendencia principal
+2. **MA10** (Azul) - Cambios de tendencia
+3. **ADX** - Fuerza de la tendencia
+4. **Monitor** - Direccionalidad
+5. **Squeeze** - Volatilidad
+6. **Volumen Rango Fijo** - Soportes/Resistencias
+
+### PATRONES DE ENTRADA INICIALES
+
+#### PATRÓN 1: REBOTE ALCISTA EN MEDIA PARA SEGUIR CAYENDO
+- **Contexto**: Tendencia bajista
+- **Señal**: Divergencia alcista
+- **Confirmación**: 
+  - Monitor rojo con pendiente positiva
+  - Precio rebota en MA55
+  - ADX con fuerza bajista
+- **Riesgo**: Alto (operar contra tendencia)
+
+#### PATRÓN 2: DIVERGENCIA BAJISTA EN TENDENCIA ALCISTA  
+- **Contexto**: Tendencia alcista
+- **Señal**: Monitor más pequeño que anterior mientras precio sube
+- **Confirmación**: 
+  - Tiempo pasa sin caer = no hay ventas
+  - Medias móviles mantienen distancia
+  - ADX mantiene fuerza alcista
+- **Entrada**: Onda A o Onda C
+
+### GESTIÓN PSICOLÓGICA Y TEMPORALIDAD
+
+**SELECCIÓN DE TEMPORALIDAD SEGÚN TIEMPO DISPONIBLE:**
+- **Sin tiempo**: Mensual (revisión cada 3 meses)
+- **Poco tiempo**: Semanal (revisión semanal)
+- **Tiempo moderado**: Diario (10 días por patrón)
+- **Tiempo disponible**: Futuros (4h/1h)
+
+**RECOMENDACIONES EMOCIONALES:**
+- No operar contra tendencia sin experiencia
+- Paper trading obligatorio antes de dinero real
+- Elegir temporalidad que permita análisis sin estrés
+- No comparar capitales entre traders
+
+### CONFIGURACIÓN DE BILLETERAS
+
+**ALMACENAMIENTO SEGURO:**
+- **Mensual/Semanal**: Billetera fría (Trezor recomendado)
+- **Diario/Futuros**: Exchange con volumen verificado
+- **Verificación**: Revisar volumen 24h antes de operar
+
+**MARGENES:**
+- **AISLADO**: Máxima pérdida = capital asignado (RECOMENDADO)
+- **CRUZADO**: Puede perder más del 100% (PELIGROSO)
+
+### PRINCIPIOS FUNDAMENTALES
+
+1. **NO ADIVINAR**: Operar en favor de la tendencia
+2. **GESTIÓN DE CAPITAL**: Distribución por porcentajes, no montos
+3. **TIEMPO DE DESARROLLO**: 8-12 velas por patrón
+4. **PRÁCTICA**: Paper trading antes de operaciones reales
+5. **PACIENTE**: Esperar patrones bien definidos
+
+---
+*Resumen generado del análisis de d1t1.txt - Bootcamp TradingLatino*
+*Contiene los fundamentos de gestión de capital e identificación inicial de patrones*

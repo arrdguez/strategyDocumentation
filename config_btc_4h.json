@@ -1,0 +1,10 @@
+{
+  "symbol": "BTCUSDT",
+  "interval": "4h",
+  "limit": 1000,
+  "ema_periods": [10, 55, 200],
+  "adx_period": 14,
+  "atr_period": 14,
+  "smi_period": 18,
+  "output_file": "trading_data_labeling.csv"
+}

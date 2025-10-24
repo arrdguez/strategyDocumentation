@@ -1,0 +1,48 @@
+ensemos en esto:
+El Patrón de Ondas es el mapa que nos muestra la ruta estructural probable.
+El Squeeze Momentum es la brújula que nos dice quién tiene el control (compradores o vendedores) y si se están cansando.
+El ADX es el medidor de combustible que nos dice si el movimiento tiene potencia real o si se está quedando sin gasolina.
+Nunca se usa un indicador de forma aislada. La magia ocurre cuando los tres cuentan la misma historia.
+Uso del Squeeze Momentum y el ADX en Cada Fase del Patrón de Ondas
+Punto 0: El Suelo del Mercado
+Squeeze Momentum:
+Qué vemos: Una divergencia alcista. El precio puede estar haciendo un último mínimo, pero el Squeeze Momentum forma un valle rojo menos profundo que el anterior.
+Qué nos dice: Los vendedores están agotados. Aunque el precio cayó, lo hizo con mucha menos fuerza y convicción. Es la primera señal de que la tendencia bajista está muriendo.
+ADX:
+Qué vemos: La línea del ADX está plana y por debajo del punto 23.
+Qué nos dice: No hay fuerza en el mercado. La tendencia bajista previa ha perdido toda su potencia y ha terminado oficialmente. El mercado está en una fase de indecisión o "compresión" (el "Squeeze").
+Onda 1: El Primer Impulso
+Squeeze Momentum:
+Qué vemos: El histograma cruza la línea cero hacia arriba y comienza a formar un valle verde. La altura del valle empieza a crecer.
+Qué nos dice: Los compradores han tomado el control del mercado. El momentum ahora es claramente alcista.
+ADX:
+Qué vemos: La línea del ADX se gira al alza y cruza decisivamente por encima del punto 23 con pendiente positiva.
+Qué nos dice: ¡Esta es la confirmación clave! El movimiento no es una simple fluctuación, es el inicio de una tendencia con fuerza. Hay combustible real detrás de esta subida.
+Onda 2: La Corrección y Punto de Entrada
+Squeeze Momentum:
+Qué vemos: El histograma baja y forma un valle rojo superficial (poco profundo).
+Qué nos dice: Aunque el precio está corrigiendo (cayendo), lo hace con poca fuerza vendedora. Es un retroceso débil, no una reversión de la tendencia. Es una pausa saludable.
+ADX:
+Qué vemos: La línea del ADX pierde la pendiente positiva y cae por debajo del punto 23.
+Qué nos dice: La fuerza del impulso (Onda 1) se ha detenido temporalmente. Esto confirma que estamos en una fase de corrección o rango, no en un nuevo impulso bajista. La combinación de un valle rojo débil en el Squeeze y un ADX sin fuerza es la confirmación perfecta para buscar la entrada del patrón "Rompe y Apoya" sobre la EMA 55.
+Onda 3: La Tendencia Principal
+Squeeze Momentum:
+Qué vemos: Forma el valle verde más alto y prolongado de todo el ciclo.
+Qué nos dice: El momentum alcista está en su punto máximo. La tendencia es fuerte y saludable. Durante la pausa de "La Duda" a mitad de la onda, puede que el valle verde pierda un poco de altura, pero se mantiene firmemente en territorio positivo.
+ADX:
+Qué vemos: La línea del ADX se mantiene firmemente por encima del punto 23, idealmente con pendiente positiva.
+Qué nos dice: El medidor de combustible está lleno. La tendencia tiene toda la potencia necesaria para continuar su ascenso. Mientras el ADX esté fuerte, no hay razón para pensar en salir de la operación.
+Onda 5: El Impulso Final y Punto de Salida
+Squeeze Momentum:
+Qué vemos: La señal de salida más importante: una divergencia bajista clara. El precio hace un nuevo máximo (o intenta hacerlo), pero el Squeeze Momentum forma un valle verde notablemente más pequeño que el de la Onda 3.
+Qué nos dice: ¡Agotamiento total! El precio subió por inercia o euforia, pero no hay fuerza real de los compradores detrás. La tendencia está a punto de terminar.
+ADX:
+Qué vemos: A menudo, mientras el precio hace su último máximo, la línea del ADX (aunque todavía por encima de 23) comienza a aplanarse o a girarse a la baja.
+Qué nos dice: La tendencia sigue "activa" pero está perdiendo potencia rápidamente. Es como un coche que va a 200 km/h pero ha dejado de acelerar y está a punto de quedarse sin gasolina. La combinación de una divergencia bajista en el Squeeze y un ADX que pierde su pendiente positiva es la confirmación definitiva para tomar ganancias.
+Tabla Resumen
+Fase de la Onda	Squeeze Momentum (Qué nos dice)	ADX (Qué nos dice)
+Punto 0 (Suelo)	Divergencia Alcista. Vendedores agotados.	Debajo de 23. Tendencia bajista muerta.
+Onda 1 (Impulso)	Valle Verde Creciente. Compradores toman control.	Cruza por encima de 23. ¡Nueva tendencia con fuerza!
+Onda 2 (Entrada)	Valle Rojo Superficial. Retroceso débil.	Cae por debajo de 23. Pausa, no reversión. SEÑAL DE ENTRADA.
+Onda 3 (Tendencia)	Valle Verde más Alto. Máximo momentum alcista.	Firme por encima de 23. Tendencia con plena potencia. MANTENER.
+Onda 5 (Salida)	Divergencia Bajista. Compradores agotados.	Pierde pendiente positiva. Tendencia perdiendo combustible. SEÑAL DE SALIDA.

@@ -142,9 +142,9 @@ def quick_visualize(csv_path, auto_open=True):
         if 'squeeze_state' in df.columns:
             # Crear mapeo de colores para los estados
             state_colors = {
-                'no_squeeze': 'gray',
-                'squeeze_on': 'yellow',
-                'squeeze_off': 'orange'
+                'no_squeeze': 'blue',
+                'squeeze_on': 'red',
+                'squeeze_off': 'gray'
             }
 
             # Crear mapeo de posiciones Y para los puntos (para que no se solapen)

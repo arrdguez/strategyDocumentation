@@ -52,9 +52,9 @@ class TechnicalIndicators:
         # Calculate SMI (using SMI.py implementation)
         result_df['smi'] = self.calculate_smi_smi_style(result_df, smi_period)
         
-        # Calculate complete Squeeze Momentum Indicator
+        # Calculate complete Squeeze Momentum Indicator (using Pine Script parameters)
         squeeze_momentum, squeeze_state = self.calculate_squeeze_momentum(
-            result_df, bb_length, bb_mult, kc_length, kc_mult, use_true_range
+            result_df, bb_length=18, bb_mult=2.0, kc_length=20, kc_mult=1.5, use_true_range=True
         )
         result_df['squeeze_momentum'] = squeeze_momentum
         result_df['squeeze_state'] = squeeze_state
@@ -169,58 +169,59 @@ class TechnicalIndicators:
 
         return pd.Series(smh, name="{0} period SMI".format(kclength))
     
-    def calculate_squeeze_momentum(self, df, bb_length=18, bb_mult=2.0, kc_length=18, kc_mult=1.5, use_true_range=True):
+    def calculate_squeeze_momentum(self, df, bb_length=18, bb_mult=2.0, kc_length=20, kc_mult=1.5, use_true_range=True):
         """
         Calculate complete Squeeze Momentum Indicator with Bollinger Bands and Keltner Channel
-        Based on LazyBear's implementation
+        Based on LazyBear's implementation - Updated to match Pine Script exactly
         """
         # Calculate Bollinger Bands
-        basis = df['close'].rolling(window=bb_length).mean()
-        dev = bb_mult * df['close'].rolling(window=bb_length).std()
+        source = df['close']
+        basis = source.rolling(window=bb_length).mean()
+        dev = bb_mult * source.rolling(window=bb_length).std()
         upper_bb = basis + dev
         lower_bb = basis - dev
         
         # Calculate Keltner Channel
-        ma = df['close'].rolling(window=kc_length).mean()
+        ma = source.rolling(window=kc_length).mean()
         
         if use_true_range:
             # Calculate True Range
             tr1 = df['high'] - df['low']
             tr2 = (df['high'] - df['close'].shift()).abs()
             tr3 = (df['low'] - df['close'].shift()).abs()
-            range_val = pd.concat([tr1, tr2, tr3], axis=1).max(axis=1)
+            t_range = pd.concat([tr1, tr2, tr3], axis=1).max(axis=1)
         else:
-            range_val = df['high'] - df['low']
+            t_range = df['high'] - df['low']
             
-        range_ma = range_val.rolling(window=kc_length).mean()
+        range_ma = t_range.rolling(window=kc_length).mean()
         upper_kc = ma + range_ma * kc_mult
         lower_kc = ma - range_ma * kc_mult
         
-        # Calculate squeeze states
-        squeeze_on = (lower_bb > lower_kc) & (upper_bb < upper_kc)
-        squeeze_off = (lower_bb < lower_kc) & (upper_bb > upper_kc)
-        no_squeeze = (~squeeze_on) & (~squeeze_off)
+        # Calculate squeeze states (EXACTLY as in Pine Script)
+        sqz_on = (lower_bb > lower_kc) & (upper_bb < upper_kc)
+        sqz_off = (lower_bb < lower_kc) & (upper_bb > upper_kc)
+        no_sqz = (~sqz_on) & (~sqz_off)
         
-        # Calculate squeeze momentum value (histogram)
+        # Calculate squeeze momentum value (EXACTLY as in Pine Script)
         highest_high = df['high'].rolling(window=kc_length).max()
         lowest_low = df['low'].rolling(window=kc_length).min()
         avg_hl = (highest_high + lowest_low) / 2
         sma_close = df['close'].rolling(window=kc_length).mean()
         avg_hl_sma = (avg_hl + sma_close) / 2
-        source = df['close'] - avg_hl_sma
         
-        # Fill NaN values
-        source = source.fillna(0)
+        # This matches the Pine Script calculation: source - math.avg(math.avg(highest, lowest), sma(close))
+        source_val = df['close'] - avg_hl_sma
         
-        # Linear regression for momentum
+        # Linear regression for momentum (matching ta.linreg)
         squeeze_momentum = []
-        for i in range(len(source)):
+        for i in range(len(source_val)):
             if i >= kc_length - 1:
-                y = source.iloc[i-kc_length+1:i+1].values
-                x = np.array(range(kc_length)).reshape(-1, 1)
+                y = source_val.iloc[i-kc_length+1:i+1].values
+                x = np.array(range(1, kc_length+1)).reshape(-1, 1)  # Start from 1 like Pine Script
                 if len(y) == kc_length and not np.any(np.isnan(y)):
                     reg = LinearRegression(fit_intercept=True).fit(x, y)
-                    squeeze_momentum.append(reg.predict([[kc_length-1]])[0])
+                    # Predict the last value (kc_length) like Pine Script's ta.linreg
+                    squeeze_momentum.append(reg.predict([[kc_length]])[0])
                 else:
                     squeeze_momentum.append(0)
             else:
@@ -228,10 +229,10 @@ class TechnicalIndicators:
         
         squeeze_momentum = pd.Series(squeeze_momentum, index=df.index)
         
-        # Create squeeze state column
+        # Create squeeze state column using Pine Script naming
         squeeze_state = pd.Series('no_squeeze', index=df.index)
-        squeeze_state[squeeze_on] = 'squeeze_on'
-        squeeze_state[squeeze_off] = 'squeeze_off'
+        squeeze_state[sqz_on] = 'squeeze_on'
+        squeeze_state[sqz_off] = 'squeeze_off'
         
         return squeeze_momentum, squeeze_state
     

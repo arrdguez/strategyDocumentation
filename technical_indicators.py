@@ -25,7 +25,8 @@ class TechnicalIndicators:
                                bb_mult=2.0,
                                kc_length=18,
                                kc_mult=1.5,
-                               use_true_range=True):
+                               use_true_range=True,
+                               rsi_period=14):
         """
         Calculate all technical indicators for trading analysis
         Uses exact same implementations as SMI.py
@@ -34,7 +35,7 @@ class TechnicalIndicators:
         if ema_periods is None:
             ema_periods = [10, 55, 200]
             
-        self.logger.info(f"Calculating technical indicators: EMA{ema_periods}, ADX{adx_period}, ATR{atr_period}, SMI{smi_period}")
+        self.logger.info(f"Calculating technical indicators: EMA{ema_periods}, ADX{adx_period}, ATR{atr_period}, SMI{smi_period}, RSI{rsi_period}")
         
         # Make a copy to avoid modifying original
         result_df = df.copy()
@@ -51,6 +52,12 @@ class TechnicalIndicators:
         
         # Calculate SMI (using SMI.py implementation)
         result_df['smi'] = self.calculate_smi_smi_style(result_df, smi_period)
+        
+        # Calculate RSI
+        result_df['rsi'] = self.calculate_rsi(result_df, rsi_period)
+        
+        # Calculate TR+ and TR- (True Range components)
+        result_df['tr_plus'], result_df['tr_minus'] = self.calculate_tr_components(result_df)
         
         # Calculate complete Squeeze Momentum Indicator (using Pine Script parameters)
         squeeze_momentum, squeeze_state = self.calculate_squeeze_momentum(
@@ -69,6 +76,43 @@ class TechnicalIndicators:
     def calculate_ema(self, df, period):
         """Calculate Exponential Moving Average"""
         return df['close'].ewm(span=period, adjust=False).mean()
+    
+    def calculate_rsi(self, df, period=14):
+        """Calculate Relative Strength Index (RSI)"""
+        delta = df['close'].diff()
+        
+        # Separate gains and losses
+        gain = delta.where(delta > 0, 0)
+        loss = -delta.where(delta < 0, 0)
+        
+        # Calculate average gains and losses
+        avg_gain = gain.ewm(span=period, adjust=False).mean()
+        avg_loss = loss.ewm(span=period, adjust=False).mean()
+        
+        # Calculate RS and RSI
+        rs = avg_gain / avg_loss
+        rsi = 100 - (100 / (1 + rs))
+        
+        return rsi.fillna(50)  # Fill NaN with neutral 50
+    
+    def calculate_tr_components(self, df):
+        """Calculate TR+ and TR- components for directional movement"""
+        # Calculate True Range
+        tr = self._calculate_true_range(df)
+        
+        # Calculate directional movement
+        up_move = df['high'] - df['high'].shift(1)
+        down_move = df['low'].shift(1) - df['low']
+        
+        # TR+ (Positive True Range) - when up_move > down_move and up_move > 0
+        tr_plus = pd.Series(0.0, index=df.index)
+        tr_plus[(up_move > down_move) & (up_move > 0)] = tr[(up_move > down_move) & (up_move > 0)]
+        
+        # TR- (Negative True Range) - when down_move > up_move and down_move > 0
+        tr_minus = pd.Series(0.0, index=df.index)
+        tr_minus[(down_move > up_move) & (down_move > 0)] = tr[(down_move > up_move) & (down_move > 0)]
+        
+        return tr_plus.fillna(0), tr_minus.fillna(0)
     
     def calculate_adx_smi_style(self, df, period=14):
         """Calculate ADX using exact same implementation as SMI.py"""

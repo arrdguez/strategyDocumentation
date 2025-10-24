@@ -26,11 +26,11 @@ def quick_visualize(csv_path, auto_open=True):
 
     # Crear figura con más subplots para incluir todos los indicadores
     fig = make_subplots(
-        rows=5, cols=1,
+        rows=7, cols=1,
         shared_xaxes=True,
         vertical_spacing=0.03,
-        subplot_titles=('Velas Japonesas + EMAs', 'Volumen', 'ADX', 'ATR', 'Squeeze Momentum + Estado'),
-        row_heights=[0.4, 0.12, 0.12, 0.12, 0.24]
+        subplot_titles=('Velas Japonesas + EMAs', 'Volumen', 'ADX', 'ATR', 'RSI', 'TR+ y TR-', 'Squeeze Momentum + Estado'),
+        row_heights=[0.25, 0.08, 0.08, 0.08, 0.08, 0.08, 0.35]
     )
 
     # **GRÁFICO DE VELAS JAPONESAS MEJORADO**
@@ -116,6 +116,52 @@ def quick_visualize(csv_path, auto_open=True):
             fillcolor='rgba(255, 99, 71, 0.1)'
         ), row=4, col=1)
 
+    # **RSI**
+    if 'rsi' in df.columns:
+        fig.add_trace(go.Scatter(
+            x=df.index, y=df['rsi'],
+            line=dict(color='#FF69B4', width=2),
+            name='RSI'
+        ), row=5, col=1)
+        
+        # Líneas de referencia para RSI
+        fig.add_trace(go.Scatter(
+            x=[df.index[0], df.index[-1]], y=[30, 30],
+            line=dict(color='red', dash='dash', width=1),
+            name='RSI 30',
+            showlegend=False
+        ), row=5, col=1)
+        fig.add_trace(go.Scatter(
+            x=[df.index[0], df.index[-1]], y=[70, 70],
+            line=dict(color='red', dash='dash', width=1),
+            name='RSI 70',
+            showlegend=False
+        ), row=5, col=1)
+        fig.add_trace(go.Scatter(
+            x=[df.index[0], df.index[-1]], y=[50, 50],
+            line=dict(color='gray', dash='dot', width=1),
+            name='RSI 50',
+            showlegend=False
+        ), row=5, col=1)
+
+    # **TR+ y TR-**
+    if 'tr_plus' in df.columns and 'tr_minus' in df.columns:
+        fig.add_trace(go.Bar(
+            x=df.index,
+            y=df['tr_plus'],
+            marker_color='green',
+            name='TR+',
+            opacity=0.7
+        ), row=6, col=1)
+        
+        fig.add_trace(go.Bar(
+            x=df.index,
+            y=df['tr_minus'],
+            marker_color='red',
+            name='TR-',
+            opacity=0.7
+        ), row=6, col=1)
+
     # **SQUEEZE MOMENTUM + ESTADO (CORREGIDO)**
     if 'squeeze_momentum' in df.columns:
         # Crear colores para el squeeze momentum
@@ -128,7 +174,7 @@ def quick_visualize(csv_path, auto_open=True):
             marker_color=colors_squeeze,
             name='Squeeze Momentum',
             opacity=0.7
-        ), row=5, col=1)
+        ), row=7, col=1)
 
         # Línea cero de referencia (como traza)
         fig.add_trace(go.Scatter(
@@ -136,7 +182,7 @@ def quick_visualize(csv_path, auto_open=True):
             line=dict(color='black', width=1),
             name='Zero Line',
             showlegend=False
-        ), row=5, col=1)
+        ), row=7, col=1)
 
         # **PUNTOS PARA EL SQUEEZE STATE (CORREGIDO)**
         if 'squeeze_state' in df.columns:
@@ -176,7 +222,7 @@ def quick_visualize(csv_path, auto_open=True):
                         ),
                         name=f'Squeeze: {state}',
                         showlegend=True
-                    ), row=5, col=1)
+                    ), row=7, col=1)
 
     # **MEJORAS EN EL LAYOUT**
     symbol = os.path.basename(csv_path).split('_')[0]
@@ -185,7 +231,7 @@ def quick_visualize(csv_path, auto_open=True):
     fig.update_layout(
         title=f'{symbol} {timeframe} - Análisis Técnico Completo<br><sub>Velas Japonesas + Indicadores</sub>',
         xaxis_rangeslider_visible=False,
-        height=1000,
+        height=1200,
         template="plotly_dark",
         showlegend=True,
         legend=dict(
@@ -198,13 +244,17 @@ def quick_visualize(csv_path, auto_open=True):
     )
 
     # Actualizar ejes
-    fig.update_xaxes(title_text='Fecha', row=5, col=1)
+    fig.update_xaxes(title_text='Fecha', row=7, col=1)
     fig.update_yaxes(title_text='Precio', row=1, col=1)
     fig.update_yaxes(title_text='Volumen', row=2, col=1)
     fig.update_yaxes(title_text='ADX', row=3, col=1)
     fig.update_yaxes(title_text='ATR', row=4, col=1)
+    if 'rsi' in df.columns:
+        fig.update_yaxes(title_text='RSI', row=5, col=1)
+    if 'tr_plus' in df.columns:
+        fig.update_yaxes(title_text='TR+ y TR-', row=6, col=1)
     if 'squeeze_momentum' in df.columns:
-        fig.update_yaxes(title_text='Squeeze Momentum', row=5, col=1)
+        fig.update_yaxes(title_text='Squeeze Momentum', row=7, col=1)
 
     # Guardar y abrir
     output_file = f'quick_view_{symbol}_{timeframe}.html'

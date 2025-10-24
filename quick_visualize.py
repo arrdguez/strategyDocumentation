@@ -1,6 +1,6 @@
 """
 Visualización Rápida - Abre automáticamente el gráfico en el navegador
-Versión mejorada para velas japonesas
+Versión corregida con puntos para Squeeze State
 """
 
 import pandas as pd
@@ -12,7 +12,7 @@ import sys
 
 
 def quick_visualize(csv_path, auto_open=True):
-    """Visualización rápida de datos de trading - Versión mejorada"""
+    """Visualización rápida de datos de trading - Versión corregida"""
 
     print(f"🚀 Cargando: {csv_path}")
 
@@ -106,7 +106,7 @@ def quick_visualize(csv_path, auto_open=True):
             showlegend=False
         ), row=3, col=1)
 
-    # **ATR (nuevo)**
+    # **ATR**
     if 'atr' in df.columns:
         fig.add_trace(go.Scatter(
             x=df.index, y=df['atr'],
@@ -116,7 +116,7 @@ def quick_visualize(csv_path, auto_open=True):
             fillcolor='rgba(255, 99, 71, 0.1)'
         ), row=4, col=1)
 
-    # **SQUEEZE MOMENTUM + ESTADO (mejorado)**
+    # **SQUEEZE MOMENTUM + ESTADO (CORREGIDO)**
     if 'squeeze_momentum' in df.columns:
         # Crear colores para el squeeze momentum
         colors_squeeze = ['red' if x < 0 else 'green' for x in df['squeeze_momentum']]
@@ -138,35 +138,45 @@ def quick_visualize(csv_path, auto_open=True):
             showlegend=False
         ), row=5, col=1)
 
-        # Barra horizontal del squeeze state si está disponible
-        if 'squeeze_state_numeric' in df.columns:
-            fig.add_trace(go.Scatter(
-                x=df.index,
-                y=df['squeeze_state_numeric'],
-                line=dict(color='yellow', width=3),
-                name='Squeeze State',
-                mode='lines'
-            ), row=5, col=1)
-            
-            # Líneas de referencia para los estados (como trazas)
-            fig.add_trace(go.Scatter(
-                x=[df.index[0], df.index[-1]], y=[1, 1],
-                line=dict(color='green', dash='dash', width=1),
-                name='Squeeze ON',
-                showlegend=False
-            ), row=5, col=1)
-            fig.add_trace(go.Scatter(
-                x=[df.index[0], df.index[-1]], y=[-1, -1],
-                line=dict(color='red', dash='dash', width=1),
-                name='Squeeze OFF',
-                showlegend=False
-            ), row=5, col=1)
-            fig.add_trace(go.Scatter(
-                x=[df.index[0], df.index[-1]], y=[0, 0],
-                line=dict(color='gray', dash='dash', width=1),
-                name='No Squeeze',
-                showlegend=False
-            ), row=5, col=1)
+        # **PUNTOS PARA EL SQUEEZE STATE (CORREGIDO)**
+        if 'squeeze_state' in df.columns:
+            # Crear mapeo de colores para los estados
+            state_colors = {
+                'no_squeeze': 'gray',
+                'squeeze_on': 'yellow',
+                'squeeze_off': 'orange'
+            }
+
+            # Crear mapeo de posiciones Y para los puntos (para que no se solapen)
+            state_positions = {
+                'no_squeeze': 0.8,  # Posición en el eje Y (80% del rango superior)
+                'squeeze_on': 0.6,   # Posición en el eje Y (60% del rango superior)
+                'squeeze_off': 0.4    # Posición en el eje Y (40% del rango superior)
+            }
+
+            # Calcular el rango del squeeze momentum para posicionar los puntos
+            squeeze_range = df['squeeze_momentum'].max() - df['squeeze_momentum'].min()
+            squeeze_min = df['squeeze_momentum'].min()
+
+            # Para cada estado, crear puntos en la posición Y correspondiente
+            for state in state_colors.keys():
+                mask = df['squeeze_state'] == state
+                if mask.any():
+                    y_position = squeeze_min + (state_positions[state] * squeeze_range)
+
+                    fig.add_trace(go.Scatter(
+                        x=df.index[mask],
+                        y=[y_position] * mask.sum(),
+                        mode='markers',
+                        marker=dict(
+                            color=state_colors[state],
+                            size=8,
+                            symbol='diamond',
+                            line=dict(width=1, color='white')
+                        ),
+                        name=f'Squeeze: {state}',
+                        showlegend=True
+                    ), row=5, col=1)
 
     # **MEJORAS EN EL LAYOUT**
     symbol = os.path.basename(csv_path).split('_')[0]
@@ -176,7 +186,7 @@ def quick_visualize(csv_path, auto_open=True):
         title=f'{symbol} {timeframe} - Análisis Técnico Completo<br><sub>Velas Japonesas + Indicadores</sub>',
         xaxis_rangeslider_visible=False,
         height=1000,
-        template="plotly_dark",  # Cambiado a tema oscuro para mejor contraste
+        template="plotly_dark",
         showlegend=True,
         legend=dict(
             orientation="h",
@@ -188,13 +198,13 @@ def quick_visualize(csv_path, auto_open=True):
     )
 
     # Actualizar ejes
-    fig.update_xaxes(title_text='Fecha', row="5", col="1")
-    fig.update_yaxes(title_text='Precio', row="1", col="1")
-    fig.update_yaxes(title_text='Volumen', row="2", col="1")
-    fig.update_yaxes(title_text='ADX', row="3", col="1")
-    fig.update_yaxes(title_text='ATR', row="4", col="1")
+    fig.update_xaxes(title_text='Fecha', row=5, col=1)
+    fig.update_yaxes(title_text='Precio', row=1, col=1)
+    fig.update_yaxes(title_text='Volumen', row=2, col=1)
+    fig.update_yaxes(title_text='ADX', row=3, col=1)
+    fig.update_yaxes(title_text='ATR', row=4, col=1)
     if 'squeeze_momentum' in df.columns:
-        fig.update_yaxes(title_text='Squeeze', row="5", col="1")
+        fig.update_yaxes(title_text='Squeeze Momentum', row=5, col=1)
 
     # Guardar y abrir
     output_file = f'quick_view_{symbol}_{timeframe}.html'
@@ -202,6 +212,13 @@ def quick_visualize(csv_path, auto_open=True):
 
     print(f"💾 Guardado como: {output_file}")
     print(f"📈 Período: {df.index[0]} a {df.index[-1]}")
+
+    # Mostrar estadísticas de squeeze state
+    if 'squeeze_state' in df.columns:
+        state_counts = df['squeeze_state'].value_counts()
+        print("🔍 Estados de Squeeze:")
+        for state, count in state_counts.items():
+            print(f"   {state}: {count} velas ({count/len(df)*100:.1f}%)")
 
     if auto_open:
         print("🌐 Abriendo en navegador...")

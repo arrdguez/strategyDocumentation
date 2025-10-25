@@ -1,0 +1,110 @@
+<View>
+  <!-- Time Series Data Display -->
+  <TimeSeriesLabels name="label" toName="ts">
+    
+    <!-- ========== PRIMARY 4H ANALYSIS ========== -->
+    <!-- Setup Identification in 4H -->
+    <Label value="SETUP_4H_IDENTIFICADO" background="#3498DB"/>
+    <Label value="TENDENCIA_4H_ALCISTA" background="#27AE60"/>
+    <Label value="TENDENCIA_4H_BAJISTA" background="#E74C3C"/>
+    <Label value="SQUEEZE_4H_ACTIVO" background="#1ABC9C"/>
+    <Label value="ADX_4H_FUERTE" background="#F1C40F"/>
+
+    <!-- ========== SECONDARY 30M CONFIRMATION ========== -->
+    <!-- Timing and Confirmation in 30m -->
+    <Label value="CONFIRMACION_30M_COMPLETA" background="#2ECC71"/>
+    <Label value="ONDA_30M_TERMINADA" background="#16A085"/>
+    <Label value="TIMING_30M_OPTIMO" background="#9B59B6"/>
+    <Label value="ENTRADA_30M_CONFIRMADA" background="#2980B9"/>
+
+    <!-- ========== MULTITEMPORAL RELATIONSHIPS ========== -->
+    <!-- Relationships between 4H and 30m -->
+    <Label value="ALINEACION_4H_30M_ALCISTA" background="#27AE60"/>
+    <Label value="ALINEACION_4H_30M_BAJISTA" background="#E74C3C"/>
+    <Label value="DIVERGENCIA_4H_30M_POSITIVA" background="#3498DB"/>
+    <Label value="DIVERGENCIA_4H_30M_NEGATIVA" background="#F39C12"/>
+
+    <!-- ========== FINAL DECISION CRITERIA ========== -->
+    <!-- Quality Assessment -->
+    <Label value="FAVORABLE_ENTRADA_MULTITEMPORAL" background="#1ABC9C"/>
+    <Label value="DESFAVORABLE_CONFLICTO_TEMPORAL" background="#C0392B"/>
+    <Label value="NEUTRAL_ESPERAR_CONFIRMACION" background="#95A5A6"/>
+
+  </TimeSeriesLabels>
+
+  <!-- Time Series Data Source -->
+  <TimeSeries name="ts" value="$csv" valueType="url" timeColumn="date" timeFormat="%Y-%m-%d %H:%M:%S" overviewChannels="close_secondary,close_primary">
+    
+    <!-- ========== SECONDARY 30M DATA (Primary Visualization) ========== -->
+    <Channel column="open" strokeColor="#1f77b4" legend="30m Open"/>
+    <Channel column="high" strokeColor="#ff7f0e" legend="30m High"/>
+    <Channel column="low" strokeColor="#2ca02c" legend="30m Low"/>
+    <Channel column="close" strokeColor="#d62728" legend="30m Close"/>
+    <Channel column="volume" strokeColor="#9467bd" optional="true" legend="30m Volume"/>
+    
+    <!-- 30m Indicators -->
+    <Channel column="ema10" strokeColor="#17becf" optional="true" legend="30m EMA10"/>
+    <Channel column="ema55" strokeColor="#bcbd22" optional="true" legend="30m EMA55"/>
+    <Channel column="ema200" strokeColor="#8c564b" optional="true" legend="30m EMA200"/>
+    <Channel column="smi" strokeColor="#7f7f7f" optional="true" legend="30m SMI"/>
+    <Channel column="adx" strokeColor="#e377c2" optional="true" legend="30m ADX"/>
+    <Channel column="atr" strokeColor="#9467bd" optional="true" legend="30m ATR"/>
+    <Channel column="rsi" strokeColor="#d62728" optional="true" legend="30m RSI"/>
+    
+    <!-- ========== PRIMARY 4H CONTEXT (Overlay) ========== -->
+    <Channel column="close_primary" strokeColor="#1f77b4" optional="true" legend="4H Close" strokeWidth="2"/>
+    <Channel column="ema10_primary" strokeColor="#17becf" optional="true" legend="4H EMA10" strokeWidth="2"/>
+    <Channel column="ema55_primary" strokeColor="#bcbd22" optional="true" legend="4H EMA55" strokeWidth="2"/>
+    <Channel column="ema200_primary" strokeColor="#8c564b" optional="true" legend="4H EMA200" strokeWidth="2"/>
+    <Channel column="smi_primary" strokeColor="#7f7f7f" optional="true" legend="4H SMI" strokeWidth="2"/>
+    <Channel column="adx_primary" strokeColor="#e377c2" optional="true" legend="4H ADX" strokeWidth="2"/>
+    
+  </TimeSeries>
+
+  <!-- Pattern Description Panel -->
+  <View style="padding: 20px; background: #f8f9fa; border-radius: 5px; margin-top: 10px;">
+    <Header value="Sistema Multitemporal - 4H/30m"/>
+    
+    <View style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <View style="flex: 1; min-width: 200px;">
+        <Header value="Análisis 4H (Primary)" size="4"/>
+        <Text name="primary_guide" value="
+• **SETUP_4H_IDENTIFICADO**: Oportunidad identificada en 4H
+• **TENDENCIA_4H_***: Dirección de tendencia principal
+• **SQUEEZE_4H_ACTIVO**: Compresión del mercado en 4H
+• **ADX_4H_FUERTE**: Fuerza de tendencia en 4H
+        "/>
+      </View>
+      
+      <View style="flex: 1; min-width: 200px;">
+        <Header value="Confirmación 30m (Secondary)" size="4"/>
+        <Text name="secondary_guide" value="
+• **CONFIRMACION_30M_COMPLETA**: 30m confirma setup 4H
+• **ONDA_30M_TERMINADA**: Patrón completado en 30m
+• **TIMING_30M_OPTIMO**: Momento óptimo para entrada
+• **ENTRADA_30M_CONFIRMADA**: Señal clara en 30m
+        "/>
+      </View>
+      
+      <View style="flex: 1; min-width: 200px;">
+        <Header value="Relaciones Multitemporales" size="4"/>
+        <Text name="temporal_guide" value="
+• **ALINEACION_4H_30M**: Ambas TF en misma dirección
+• **DIVERGENCIA_4H_30M**: Conflicto entre TFs
+• **FAVORABLE_ENTRADA**: Setup + timing óptimo
+• **CONFLICTO_TEMPORAL**: TFs en desacuerdo
+        "/>
+      </View>
+    </View>
+    
+    <View style="margin-top: 15px; padding: 10px; background: #e8f4fd; border-radius: 5px;">
+      <Header value="Flujo de Etiquetado Recomendado" size="4"/>
+      <Text name="workflow_guide" value="
+1. **Identificar** setup en contexto 4H (líneas azules gruesas)
+2. **Esperar** confirmación en velas 30m (gráfico principal)
+3. **Etiquetar** cuando 30m confirma el setup 4H
+4. **Usar** FAVORABLE_ENTRADA cuando todo alineado
+        "/>
+    </View>
+  </View>
+</View>

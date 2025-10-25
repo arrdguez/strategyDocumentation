@@ -1,37 +1,33 @@
 <View>
   <!-- Time Series Data Display -->
   <TimeSeriesLabels name="label" toName="ts">
-    <!-- Wave Structure Labels -->
-    <Label value="ONDA_0_SUELO" background="#FF6B6B"/>
-    <Label value="ONDA_1_IMPULSO" background="#4ECDC4"/>
-    <Label value="ONDA_2_ENTRADA" background="#45B7D1"/>
-    <Label value="ONDA_3_TENDENCIA" background="#96CEB4"/>
-    <Label value="ONDA_4_CORRECCION" background="#FFEAA7"/>
-    <Label value="ONDA_5_SALIDA" background="#DDA0DD"/>
-    
-    <!-- Entry Pattern Labels -->
-    <Label value="ENTRADA_LONG_ROMBRE_APOYA" background="#2ECC71"/>
-    <Label value="ENTRADA_SHORT_LATERAL_FUERZA_BAJISTA" background="#E74C3C"/>
-    <Label value="ENTRADA_LONG_EMA10_EMA55" background="#27AE60"/>
-    <Label value="ENTRADA_SHORT_EMA10_EMA55" background="#C0392B"/>
-    
-    <!-- Exit Pattern Labels -->
-    <Label value="SALIDA_QUIEBRE_ESTRUCTURA" background="#F39C12"/>
-    <Label value="SALIDA_VOLUMEN_ANORMAL" background="#D35400"/>
-    <Label value="SALIDA_OBJETIVO_ALCANZADO" background="#16A085"/>
-    <Label value="SALIDA_STOP_LOSS" background="#8E44AD"/>
-    
-    <!-- Market Condition Labels -->
-    <Label value="TENDENCIA_ALCISTA" background="#3498DB"/>
-    <Label value="TENDENCIA_BAJISTA" background="#E67E22"/>
-    <Label value="LATERAL_FUERZA_ALTA" background="#9B59B6"/>
-    <Label value="LATERAL_FUERZA_BAJA" background="#34495E"/>
-    
-    <!-- Technical Indicator Labels -->
-    <Label value="SQUEEZE_MOMENTUM_ACTIVO" background="#1ABC9C"/>
-    <Label value="ADX_FUERTE" background="#F1C40F"/>
-    <Label value="EMA_CRUCE_ALCISTA" background="#2ECC71"/>
-    <Label value="EMA_CRUCE_BAJISTA" background="#E74C3C"/>
+    <!-- Criterios de Calidad de Entrada -->
+    <Label value="FAVORABLE_SQUEEZE_OFF" background="#27AE60"/>
+    <Label value="FAVORABLE_EMA_ALINEACION" background="#2ECC71"/>
+    <Label value="FAVORABLE_VOLUMEN_CONFIRMACION" background="#3498DB"/>
+    <Label value="FAVORABLE_RSI_ZONA" background="#9B59B6"/>
+    <Label value="FAVORABLE_ADX_FUERTE" background="#F1C40F"/>
+
+    <!-- Criterios Desfavorables -->
+    <Label value="DESFAVORABLE_RUPTURA_FALSA" background="#E74C3C"/>
+    <Label value="DESFAVORABLE_VOLATILIDAD_EXCESIVA" background="#C0392B"/>
+    <Label value="DESFAVORABLE_CONFLICTO_TEMPORALIDADES" background="#D35400"/>
+
+    <!-- Relaciones entre Temporalidades -->
+    <Label value="ALINEACION_4H_1H_ALCISTA" background="#16A085"/>
+    <Label value="ALINEACION_4H_1H_BAJISTA" background="#8E44AD"/>
+    <Label value="DIVERGENCIA_4H_1H_POSITIVA" background="#2980B9"/>
+    <Label value="DIVERGENCIA_4H_1H_NEGATIVA" background="#E67E22"/>
+
+    <!-- Confirmaciones de Mayor Temporalidad -->
+    <Label value="CONFIRMACION_TENDENCIA_4H" background="#2ECC71"/>
+    <Label value="CONTRATENDENCIA_4H" background="#E74C3C"/>
+
+    <!-- Niveles Clave Multitemporales -->
+    <Label value="SOPORTE_4H_RESPETADO_1H" background="#16A085"/>
+    <Label value="RESISTENCIA_4H_RESPETADA_1H" background="#8E44AD"/>
+    <Label value="RUPTURA_SOPORTE_4H_1H" background="#C0392B"/>
+    <Label value="RUPTURA_RESISTENCIA_4H_1H" background="#2980B9"/>
   </TimeSeriesLabels>
 
   <!-- Time Series Data Source -->
@@ -51,37 +47,36 @@
 
   <!-- Pattern Description Panel -->
   <View style="padding: 20px; background: #f8f9fa; border-radius: 5px; margin-top: 10px;">
-    <Header value="TradingLatino Pattern Guide"/>
+    <Header value="Sistema Multitemporal - Criterios de Calidad"/>
     
     <View style="display: flex; flex-wrap: wrap; gap: 10px;">
       <View style="flex: 1; min-width: 200px;">
-        <Header value="Wave Structure" size="4"/>
-        <Text name="wave_guide" value="
-• **ONDA_0_SUELO**: Punto mínimo antes del impulso
-• **ONDA_1_IMPULSO**: Primer movimiento fuerte
-• **ONDA_2_ENTRADA**: Corrección para entrada
-• **ONDA_3_TENDENCIA**: Movimiento principal
-• **ONDA_4_CORRECCION**: Corrección antes de salida
-• **ONDA_5_SALIDA**: Final del movimiento
+        <Header value="Criterios Favorables" size="4"/>
+        <Text name="favorable_guide" value="
+• **SQUEEZE_OFF**: Squeeze se libera con momentum
+• **EMA_ALINEACION**: EMAs alineados con tendencia
+• **VOLUMEN_CONFIRMACION**: Volumen confirma movimiento
+• **RSI_ZONA**: RSI en zona favorable (30-70)
+• **ADX_FUERTE**: ADX > 25 (tendencia fuerte)
         "/>
       </View>
       
       <View style="flex: 1; min-width: 200px;">
-        <Header value="Entry Patterns" size="4"/>
-        <Text name="entry_guide" value="
-• **ROMBRE_APOYA**: Rompimiento con apoyo EMA
-• **LATERAL_FUERZA**: Lateral con fuerza direccional
-• **EMA_CRUCE**: Cruce de EMAs con confirmación
+        <Header value="Relaciones Temporales" size="4"/>
+        <Text name="temporal_guide" value="
+• **ALINEACION_4H_1H**: Ambas temporalidades alineadas
+• **DIVERGENCIA**: Temporalidades en conflicto
+• **CONFIRMACION_4H**: 1H confirma tendencia 4H
+• **SOPORTE/RESISTENCIA**: Niveles respetados
         "/>
       </View>
       
       <View style="flex: 1; min-width: 200px;">
-        <Header value="Exit Patterns" size="4"/>
-        <Text name="exit_guide" value="
-• **QUIEBRE_ESTRUCTURA**: Rompimiento estructura
-• **VOLUMEN_ANORMAL**: Volumen fuera de lo normal
-• **OBJETIVO_ALCANZADO**: Target alcanzado
-• **STOP_LOSS**: Activación stop loss
+        <Header value="Criterios Desfavorables" size="4"/>
+        <Text name="unfavorable_guide" value="
+• **RUPTURA_FALSA**: Rompimiento sin seguimiento
+• **VOLATILIDAD_EXCESIVA**: Mercado muy volátil
+• **CONFLICTO_TEMPORAL**: Temporalidades en desacuerdo
         "/>
       </View>
     </View>

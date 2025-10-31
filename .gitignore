@@ -45,11 +45,11 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-data/raw/
-data/processed/
-data/exports/
-*.html
-*.csv
+#data/raw/
+#data/processed/
+#data/exports/
+#*.html
+#*.csv
 
 # Logs
 *.log

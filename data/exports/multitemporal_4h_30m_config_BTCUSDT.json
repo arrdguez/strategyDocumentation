@@ -1,0 +1,39 @@
+{
+  "symbol": "BTCUSDT",
+  "primary_tf": "4h",
+  "secondary_tf": "30m",
+  "dataset_file": "data/exports/multitemporal_4h_30m_BTCUSDT_20251024_230446.csv",
+  "description": "30m data with 4h context for multitemporal labeling",
+  "primary_columns": [
+    "close_primary",
+    "high_primary",
+    "low_primary",
+    "open_primary",
+    "ema10_primary",
+    "ema55_primary",
+    "ema200_primary",
+    "smi_primary",
+    "adx_primary",
+    "atr_primary",
+    "rsi_primary"
+  ],
+  "secondary_columns": [
+    "open",
+    "high",
+    "low",
+    "close",
+    "volume",
+    "ema10",
+    "ema55",
+    "ema200",
+    "adx",
+    "atr",
+    "smi",
+    "rsi",
+    "tr_plus",
+    "tr_minus",
+    "squeeze_momentum",
+    "squeeze_state",
+    "squeeze_state_numeric"
+  ]
+}
